@@ -7,4 +7,6 @@ separated based on the type of service.
 
 ## Python services
 
+* [Santa Machine](santamachine/README.md)
+
 ## Binaries
