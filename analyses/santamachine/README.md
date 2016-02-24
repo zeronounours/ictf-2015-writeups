@@ -2,9 +2,7 @@
 
 ## Description
 
-```
-It's almost Sinterklaas, make a wish and hope you've been nice this year!
-```
+> It's almost Sinterklaas, make a wish and hope you've been nice this year!
 
 This services is provided by the team *heks* and is actually composed of plenty
 of scripts and binaries, written in different languages including python, perl
@@ -36,11 +34,10 @@ be the username of your account.
 
 ### Flag
 
-```
-Flag Description
-You want a flag, but you can't just wish for it. Others want a flag too,
-so go steal theirs.
-```
+Flag Description:
+
+> You want a flag, but you can't just wish for it. Others want a flag too,
+> so go steal theirs.
 
 Flags are actually set through the letter to Santa. The user created by the
 central server is then used ask Santa for the flag.
@@ -277,11 +274,11 @@ in a specific order after the globbing. In fact, the present owner must come
 first to be selected when choosing the user for the present.
 
 
-### Proof of Concept
+## Proof of Concept
 
 We now know a complete attack scenario which will be used in this PoC.
 
-#### Manual proof
+### Manual proof
 
 We want to steal *toto*'s flag. To do it, we'll use the user *tutu*:
 
@@ -352,7 +349,7 @@ Santa
 We've successful got the (dummy) flag.
 
 
-#### Automated PoC
+### Automated PoC
 
 A bash script, [poc.bash][poc], implements the same scenario to exploit
 locally this vulnerability. It both set a random flag and retrieve it using the
