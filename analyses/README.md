@@ -7,6 +7,8 @@ separated based on the type of service.
 
 ## Python services
 
-* [Santa Machine](santamachine/README.md)
+* [Santa Machine](santamachine/README.md) (also contains perl, bash and binary)
 
 ## Binaries
+
+* [Shakespeare](shakespeare/README.md) (sources included)
