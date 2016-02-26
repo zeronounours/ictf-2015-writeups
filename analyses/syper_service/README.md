@@ -18,7 +18,7 @@ Flag Description:
 > Flags are identified by a random alphanumeric string of 20 chars.
 
 Flags are treated in a different page which isn't really linked to the rest of
-the pages. Everything is done on `registerFlag.php`.
+the pages. Everything is done in `registerFlag.php`.
 
 A ``POST`` request on this page with parameters `flag_id`, `password` and
 `flag_content` will register the flag if it doesn't exist.
@@ -72,7 +72,7 @@ CREATE TABLE flags (
 One of the many possible SQL injection is then:
 
 ```sql
-abc' AND 0 UNION SELECT 1,flag_content,3,4,5 WHERE flag_id='XXX' AND ''='
+abc' AND 0 UNION SELECT 1,flag_content,3,4,5 FROM flags WHERE flag_id='XXX' AND ''='
 ```
 
 Here is the result with the flag in it:
@@ -80,6 +80,15 @@ Here is the result with the flag in it:
 ![SQLi Result with flag][sqli]
 
 
+### Automated PoC
+
+The script [poc.py][poc] retrieve the flag from a provided *ip*, *port* and
+*flag_id*.
+
+On of the thing to take care of is having an non-empty `flag_content` sent to
+the server. Otherwise, the request won't be treated.
+
 
 
 [sqli]: assets/sqli_result.png
+[poc]: poc.py
