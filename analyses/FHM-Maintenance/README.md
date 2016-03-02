@@ -28,7 +28,7 @@ No need to develop the static page aspect as it's a basic HTTP behaviour.
 However, saving and retrieving a secret must follow a specific scheme.
 
 To register a secret, you must then send a POST request with all three
-parameters `username`, `pass` and `secret`. **Note: **`secret`** must
+parameters `username`, `pass` and `secret`. **Note: `secret` must
 not to be the last parameter, see** [vulnerabilities](#vulnerabilities).
 
 To retrieve your secret, you must send a GET request with a HTTP basic
