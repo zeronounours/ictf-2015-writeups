@@ -9,6 +9,8 @@ separated based on the type of service.
 
 ## Python services
 
+* [Folkswagen Emissions](Folkswagen_emissions/README.md) (mainly relies on 
+stripped binaries)
 * [Santa Machine](santamachine/README.md) (also contains perl, bash and binary)
 
 ## Binaries

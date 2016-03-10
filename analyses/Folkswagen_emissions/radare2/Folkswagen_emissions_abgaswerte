@@ -1,0 +1,859 @@
+# r2 rdb project file
+# flags
+fs strings
+f str..._rw_info_Fahrzeugtypen.csv 29 0x004014ff 
+f str.__ABCDEFGHJKLMNPRSTVWXY___0_9____ABCDEFGHJKLMNPRSTUVWXYZ___0_9___0_9__6_ 73 0x00401550 
+f str.O3w_PGAkLQ__ 13 0x00401599 
+f str.Y2F0IC4uL3J3L2luZm8vRmFocnpldWdudW1tZXJuLmNzdiB8IGdyZXAgJXMgfCBoZWFkIC0xIHwgYXdrIC1GICc7JyAne3ByaW50ICQyfSc_ 109 0x004015b0 
+f str.ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789__ 65 0x00601bc0 
+fs symbols
+f main 256 0x004012db 
+f entry0 1 0x00400b60 
+fs relocs
+f reloc.__gmon_start___104 8 0x00601a68 
+f reloc.free_136 8 0x00601a88 
+f reloc.strcpy_144 8 0x00601a90 
+f reloc.puts_152 8 0x00601a98 
+f reloc.strlen_160 8 0x00601aa0 
+f reloc.strchr_168 8 0x00601aa8 
+f reloc.printf_176 8 0x00601ab0 
+f reloc.pclose_184 8 0x00601ab8 
+f reloc.pcre_exec_192 8 0x00601ac0 
+f reloc.__libc_start_main_200 8 0x00601ac8 
+f reloc.srand_208 8 0x00601ad0 
+f reloc.fgets_216 8 0x00601ad8 
+f reloc.__gmon_start___224 8 0x00601ae0 
+f reloc.time_232 8 0x00601ae8 
+f reloc.pcre_compile_240 8 0x00601af0 
+f reloc.malloc_248 8 0x00601af8 
+f reloc.pcre_study_0 8 0x00601b00 
+f reloc.popen_8 8 0x00601b08 
+f reloc.fopen_16 8 0x00601b10 
+f reloc.strtok_24 8 0x00601b18 
+f reloc.strcat_32 8 0x00601b20 
+f reloc.sprintf_40 8 0x00601b28 
+f reloc.exit_48 8 0x00601b30 
+f reloc.strdup_56 8 0x00601b38 
+f reloc.rand_64 8 0x00601b40 
+fs symbols
+f loc._edata 0 0x00601c0c 
+f loc._end 0 0x00601c20 
+f loc.__bss_start 0 0x00601c0c 
+f sym._init 0 0x004009b0 
+f sym._fini 0 0x004014e4 
+fs imports
+f sym.imp.free 16 0x004009e0 
+f loc.imp._ITM_deregisterTMCloneTable 16 0x00400000 
+f sym.imp.strcpy 16 0x004009f0 
+f sym.imp.puts 16 0x00400a00 
+f sym.imp.strlen 16 0x00400a10 
+f sym.imp.strchr 16 0x00400a20 
+f sym.imp.printf 16 0x00400a30 
+f sym.imp.pclose 16 0x00400a40 
+f sym.imp.pcre_exec 16 0x00400a50 
+f sym.imp.__libc_start_main 16 0x00400a60 
+f sym.imp.srand 16 0x00400a70 
+f sym.imp.fgets 16 0x00400a80 
+f loc.imp.__gmon_start__ 16 0x00400a90 
+f sym.imp.time 16 0x00400aa0 
+f sym.imp.pcre_compile 16 0x00400ab0 
+f sym.imp.malloc 16 0x00400ac0 
+f sym.imp.pcre_study 16 0x00400ad0 
+f sym.imp.popen 16 0x00400ae0 
+f sym.imp.fopen 16 0x00400af0 
+f sym.imp.strtok 16 0x00400b00 
+f loc.imp._Jv_RegisterClasses 16 0x00400000 
+f sym.imp.strcat 16 0x00400b10 
+f sym.imp.sprintf 16 0x00400b20 
+f sym.imp.exit 16 0x00400b30 
+f loc.imp._ITM_registerTMCloneTable 16 0x00400000 
+f sym.imp.strdup 16 0x00400b40 
+f sym.imp.rand 16 0x00400b50 
+fs sections
+f section..interp 28 0x00400200 
+f section_end..interp 0 0x0040021c 
+f section..note.ABI_tag 32 0x0040021c 
+f section_end..note.ABI_tag 0 0x0040023c 
+f section..note.gnu.build_id 36 0x0040023c 
+f section_end..note.gnu.build_id 0 0x00400260 
+f section..gnu.hash 56 0x00400260 
+f section_end..gnu.hash 0 0x00400298 
+f section..dynsym 792 0x00400298 
+f section_end..dynsym 0 0x004005b0 
+f section..dynstr 321 0x004005b0 
+f section_end..dynstr 0 0x004006f1 
+f section..gnu.version 66 0x004006f2 
+f section_end..gnu.version 0 0x00400734 
+f section..gnu.version_r 32 0x00400738 
+f section_end..gnu.version_r 0 0x00400758 
+f section..rela.dyn 24 0x00400758 
+f section_end..rela.dyn 0 0x00400770 
+f section..rela.plt 576 0x00400770 
+f section_end..rela.plt 0 0x004009b0 
+f section..init 26 0x004009b0 
+f section_end..init 0 0x004009ca 
+f section..plt 400 0x004009d0 
+f section_end..plt 0 0x00400b60 
+f section..text 2434 0x00400b60 
+f section_end..text 0 0x004014e2 
+f section..fini 9 0x004014e4 
+f section_end..fini 0 0x004014ed 
+f section..rodata 301 0x004014f0 
+f section_end..rodata 0 0x0040161d 
+f section..eh_frame_hdr 108 0x00401620 
+f section_end..eh_frame_hdr 0 0x0040168c 
+f section..eh_frame 476 0x00401690 
+f section_end..eh_frame 0 0x0040186c 
+f section..init_array 8 0x00601870 
+f section_end..init_array 0 0x00601878 
+f section..fini_array 8 0x00601878 
+f section_end..fini_array 0 0x00601880 
+f section..jcr 8 0x00601880 
+f section_end..jcr 0 0x00601888 
+f section..dynamic 480 0x00601888 
+f section_end..dynamic 0 0x00601a68 
+f section..got 8 0x00601a68 
+f section_end..got 0 0x00601a70 
+f section..got.plt 216 0x00601a70 
+f section_end..got.plt 0 0x00601b48 
+f section..data 140 0x00601b80 
+f section_end..data 0 0x00601c0c 
+f section..bss 16 0x00601c10 
+f section_end..bss 0 0x00601c20 
+f section..comment 57 0x00000000 
+f section_end..comment 0 0x00000039 
+f section..shstrtab 248 0x00000000 
+f section_end..shstrtab 0 0x000000f8 
+f section.PHDR 448 0x00400040 
+f section_end.PHDR 0 0x00400200 
+f section.INTERP 28 0x00400200 
+f section_end.INTERP 0 0x0040021c 
+f section.LOAD0 6252 0x00400000 
+f section_end.LOAD0 0 0x0040186c 
+f section.LOAD1 924 0x00601870 
+f section_end.LOAD1 0 0x00601c0c 
+f section.DYNAMIC 480 0x00601888 
+f section_end.DYNAMIC 0 0x00601a68 
+f section.NOTE 68 0x0040021c 
+f section_end.NOTE 0 0x00400260 
+f section.GNU_EH_FRAME 108 0x00401620 
+f section_end.GNU_EH_FRAME 0 0x0040168c 
+f section.GNU_STACK 0 0x00000000 
+f section_end.GNU_STACK 0 0x00000000 
+f section.ehdr 64 0x00400000 
+f section_end.ehdr 0 0x00400040 
+fs strings
+f str.frame_number_end_regex 73 0x00401550 
+f str.shell_cmd_extract_car_num 109 0x004015b0 
+f str.base64_chars 65 0x00601bc0 
+fs functions
+f fcn.00400b90 50 0x00400b90 
+f fcn.concat_buffers 112 0x00400c56 
+f fcn.rand_in_range 53 0x00400d28 
+f fcn.build_base64_decode_table 76 0x00400d5d 
+f fcn.get_csv_field 98 0x00400cc6 
+f fcn.base64decode 715 0x00400da9 
+f fcn.check_valid_frame_number 594 0x00401089 
+fs *
+f base64_decode_table 4 0x00601c18 
+fs *
+f loc.main.exit 1 0x0040146e 
+fs *
+f str.Na 1 0x004015a6 
+fs *
+f loc.main.check_no_shell_char 1 0x004013c2 
+fs *
+f str.r_ 2 0x004014fd 
+fs *
+f str.pipe 1 0x0040151c 
+fs *
+f str.XihXVld8V1YyfDFWV3wzVld8OUJXfEFBVikoWlpaKT8__ 45 0x00401520 
+fs strings
+fs regs
+f orax 1 0x0000003b 
+f rax 1 0x00000000 
+f rbx 1 0x00000000 
+f rcx 1 0x00000000 
+f rdx 1 0x00000000 
+f r8 1 0x00000000 
+f r9 1 0x00000000 
+f r10 1 0x00000000 
+f r11 1 0x00000000 
+f r12 1 0x00000000 
+f r13 1 0x00000000 
+f r14 1 0x00000000 
+f r15 1 0x00000000 
+f rsi 1 0x00000000 
+f rdi 1 0x00000000 
+f rsp 1 0x7ffeb6089f30 
+f rbp 1 0x00000000 
+f rip 1 0x7fc204b86190 
+f rflags 1 0x00000200 
+fs sections
+f map._home_zeronounours_ictf_Folkswagen_emissions_ro_abgaswerte._r_x 8192 0x00400000 
+f map._home_zeronounours_ictf_Folkswagen_emissions_ro_abgaswerte._rw_ 4096 0x00601000 
+f map._lib_x86_64_linux_gnu_ld_2.19.so._r_x 131072 0x7fc204b85000 
+f map._lib_x86_64_linux_gnu_ld_2.19.so._rw_ 8192 0x7fc204da5000 
+f map.unk0._rw_ 4096 0x7fc204da7000 
+f map._stack_._rw_ 135168 0x7ffeb606a000 
+f map._vvar_._r__ 8192 0x7ffeb60da000 
+f map._vdso_._r_x 8192 0x7ffeb60dc000 
+f map._vsyscall_._r_x 4096 0xffffffffff600000 
+# eval
+"e asm.arch = x86"
+"e asm.os = linux"
+"e asm.parser = x86.pseudo"
+# sections
+f section..interp 28 0x400200
+S 0x00000200 0x00400200 0x0000001c 0x0000001c .interp -r--
+f section..note.ABI_tag 32 0x40021c
+S 0x0000021c 0x0040021c 0x00000020 0x00000020 .note.ABI_tag -r--
+f section..note.gnu.build_id 36 0x40023c
+S 0x0000023c 0x0040023c 0x00000024 0x00000024 .note.gnu.build_id -r--
+f section..gnu.hash 56 0x400260
+S 0x00000260 0x00400260 0x00000038 0x00000038 .gnu.hash -r--
+f section..dynsym 792 0x400298
+S 0x00000298 0x00400298 0x00000318 0x00000318 .dynsym -r--
+f section..dynstr 321 0x4005b0
+S 0x000005b0 0x004005b0 0x00000141 0x00000141 .dynstr -r--
+f section..gnu.version 66 0x4006f2
+S 0x000006f2 0x004006f2 0x00000042 0x00000042 .gnu.version -r--
+f section..gnu.version_r 32 0x400738
+S 0x00000738 0x00400738 0x00000020 0x00000020 .gnu.version_r -r--
+f section..rela.dyn 24 0x400758
+S 0x00000758 0x00400758 0x00000018 0x00000018 .rela.dyn -r--
+f section..rela.plt 576 0x400770
+S 0x00000770 0x00400770 0x00000240 0x00000240 .rela.plt -r--
+f section..init 26 0x4009b0
+S 0x000009b0 0x004009b0 0x0000001a 0x0000001a .init -r-x
+f section..plt 400 0x4009d0
+S 0x000009d0 0x004009d0 0x00000190 0x00000190 .plt -r-x
+f section..text 2434 0x400b60
+S 0x00000b60 0x00400b60 0x00000982 0x00000982 .text -r-x
+f section..fini 9 0x4014e4
+S 0x000014e4 0x004014e4 0x00000009 0x00000009 .fini -r-x
+f section..rodata 301 0x4014f0
+S 0x000014f0 0x004014f0 0x0000012d 0x0000012d .rodata -r--
+f section..eh_frame_hdr 108 0x401620
+S 0x00001620 0x00401620 0x0000006c 0x0000006c .eh_frame_hdr -r--
+f section..eh_frame 476 0x401690
+S 0x00001690 0x00401690 0x000001dc 0x000001dc .eh_frame -r--
+f section..init_array 8 0x601870
+S 0x00001870 0x00601870 0x00000008 0x00000008 .init_array -rw-
+f section..fini_array 8 0x601878
+S 0x00001878 0x00601878 0x00000008 0x00000008 .fini_array -rw-
+f section..jcr 8 0x601880
+S 0x00001880 0x00601880 0x00000008 0x00000008 .jcr -rw-
+f section..dynamic 480 0x601888
+S 0x00001888 0x00601888 0x000001e0 0x000001e0 .dynamic -rw-
+f section..got 8 0x601a68
+S 0x00001a68 0x00601a68 0x00000008 0x00000008 .got -rw-
+f section..got.plt 216 0x601a70
+S 0x00001a70 0x00601a70 0x000000d8 0x000000d8 .got.plt -rw-
+f section..data 140 0x601b80
+S 0x00001b80 0x00601b80 0x0000008c 0x0000008c .data -rw-
+f section..bss 16 0x601c10
+S 0x00001c0c 0x00601c10 0x00000010 0x00000010 .bss -rw-
+f section..comment 57 0x0
+S 0x00001c0c 0x00000000 0x00000039 0x00000039 .comment ----
+f section..shstrtab 248 0x0
+S 0x00001c45 0x00000000 0x000000f8 0x000000f8 .shstrtab ----
+f section.LOAD0 6252 0x400000
+S 0x00000000 0x00400000 0x0000186c 0x0000186c LOAD0 mr-x
+f section.LOAD1 924 0x601870
+S 0x00001870 0x00601870 0x0000039c 0x000003b0 LOAD1 mrw-
+f section.ehdr 9280 0x400000
+S 0x00000000 0x00400000 0x00002440 0x00002440 ehdr -rwx
+# meta
+Cs 29 @ 0x004014ff # .._rw_info_Fahrzeugtypen.csv
+Cs 50 @ 0x0040151c # ___x.6_x_5_x_8_x.5_x_1_x_8_x.6_x_1_x_6_x.3_x_1_x_4_x.3_x_5_x_6_x.7_x_5_x_9_x.4_x_1_x_6_x.5_x___x_6_x.3_x___x_6_x.7_x_9_x_7_x.6_x_1_x_6_x.3_x_1_x_4_x.5_x_5_x___x.5_x_1_x_:_x.4_x_5_x_6_x.4_x_9_x_6_x.6_x_5_x_6_x.6_x___x___x.6_x_1_x_7_x.6_x_5_x_0_x.5_x_1_x___x.3_x_4_x_8
+Cs 73 @ 0x00401550 # __ABCDEFGHJKLMNPRSTVWXY___0_9____ABCDEFGHJKLMNPRSTUVWXYZ___0_9___0_9__6_
+Cs 13 @ 0x00401599 # O3w_PGAkLQ__
+Cs 109 @ 0x004015b0 # Y2F0IC4uL3J3L2luZm8vRmFocnpldWdudW1tZXJuLmNzdiB8IGdyZXAgJXMgfCBoZWFkIC0xIHwgYXdrIC1GICc7JyAne3ByaW50ICQyfSc_
+Cs 65 @ 0x00601bc0 # ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789__
+CCu base64:WzI4XSB2YT0weDAwNDAwMjAwIHBhPTB4MDAwMDAyMDAgc3o9MjggdnN6PTI4IHJ3eD1tLXItLSBJTlRFUlA= @ 0x00400200
+CCu base64:WzMyXSB2YT0weDAwNDAwMjFjIHBhPTB4MDAwMDAyMWMgc3o9NjggdnN6PTY4IHJ3eD1tLXItLSBOT1RF @ 0x0040021c
+CCu base64:WzJdIHZhPTB4MDA0MDAyM2MgcGE9MHgwMDAwMDIzYyBzej0zNiB2c3o9MzYgcnd4PS0tci0tIC5ub3RlLmdudS5idWlsZF9pZA== @ 0x0040023c
+CCu base64:WzNdIHZhPTB4MDA0MDAyNjAgcGE9MHgwMDAwMDI2MCBzej01NiB2c3o9NTYgcnd4PS0tci0tIC5nbnUuaGFzaA== @ 0x00400260
+CCu base64:WzRdIHZhPTB4MDA0MDAyOTggcGE9MHgwMDAwMDI5OCBzej03OTIgdnN6PTc5MiByd3g9LS1yLS0gLmR5bnN5bQ== @ 0x00400298
+CCu base64:WzVdIHZhPTB4MDA0MDA1YjAgcGE9MHgwMDAwMDViMCBzej0zMjEgdnN6PTMyMSByd3g9LS1yLS0gLmR5bnN0cg== @ 0x004005b0
+CCu base64:WzZdIHZhPTB4MDA0MDA2ZjIgcGE9MHgwMDAwMDZmMiBzej02NiB2c3o9NjYgcnd4PS0tci0tIC5nbnUudmVyc2lvbg== @ 0x004006f2
+CCu base64:WzddIHZhPTB4MDA0MDA3MzggcGE9MHgwMDAwMDczOCBzej0zMiB2c3o9MzIgcnd4PS0tci0tIC5nbnUudmVyc2lvbl9y @ 0x00400738
+CCu base64:WzhdIHZhPTB4MDA0MDA3NTggcGE9MHgwMDAwMDc1OCBzej0yNCB2c3o9MjQgcnd4PS0tci0tIC5yZWxhLmR5bg== @ 0x00400758
+CCu base64:WzldIHZhPTB4MDA0MDA3NzAgcGE9MHgwMDAwMDc3MCBzej01NzYgdnN6PTU3NiByd3g9LS1yLS0gLnJlbGEucGx0 @ 0x00400770
+CCu base64:WzEwXSB2YT0weDAwNDAwOWIwIHBhPTB4MDAwMDA5YjAgc3o9MjYgdnN6PTI2IHJ3eD0tLXIteCAuaW5pdA== @ 0x004009b0
+CCu base64:WzExXSB2YT0weDAwNDAwOWQwIHBhPTB4MDAwMDA5ZDAgc3o9NDAwIHZzej00MDAgcnd4PS0tci14IC5wbHQ= @ 0x004009d0
+CCu base64:WzEyXSB2YT0weDAwNDAwYjYwIHBhPTB4MDAwMDBiNjAgc3o9MjQzNCB2c3o9MjQzNCByd3g9LS1yLXggLnRleHQ= @ 0x00400b60
+CCu base64:WzEzXSB2YT0weDAwNDAxNGU0IHBhPTB4MDAwMDE0ZTQgc3o9OSB2c3o9OSByd3g9LS1yLXggLmZpbmk= @ 0x004014e4
+CCu base64:WzE0XSB2YT0weDAwNDAxNGYwIHBhPTB4MDAwMDE0ZjAgc3o9MzAxIHZzej0zMDEgcnd4PS0tci0tIC5yb2RhdGE= @ 0x004014f0
+CCu base64:WzMzXSB2YT0weDAwNDAxNjIwIHBhPTB4MDAwMDE2MjAgc3o9MTA4IHZzej0xMDggcnd4PW0tci0tIEdOVV9FSF9GUkFNRQ== @ 0x00401620
+CCu base64:WzE2XSB2YT0weDAwNDAxNjkwIHBhPTB4MDAwMDE2OTAgc3o9NDc2IHZzej00NzYgcnd4PS0tci0tIC5laF9mcmFtZQ== @ 0x00401690
+CCu base64:WzMwXSB2YT0weDAwNjAxODcwIHBhPTB4MDAwMDE4NzAgc3o9OTI0IHZzej05NDQgcnd4PW0tcnctIExPQUQx @ 0x00601870
+CCu base64:WzE4XSB2YT0weDAwNjAxODc4IHBhPTB4MDAwMDE4Nzggc3o9OCB2c3o9OCByd3g9LS1ydy0gLmZpbmlfYXJyYXk= @ 0x00601878
+CCu base64:WzE5XSB2YT0weDAwNjAxODgwIHBhPTB4MDAwMDE4ODAgc3o9OCB2c3o9OCByd3g9LS1ydy0gLmpjcg== @ 0x00601880
+CCu base64:WzMxXSB2YT0weDAwNjAxODg4IHBhPTB4MDAwMDE4ODggc3o9NDgwIHZzej00ODAgcnd4PW0tcnctIERZTkFNSUM= @ 0x00601888
+CCu base64:WzIxXSB2YT0weDAwNjAxYTY4IHBhPTB4MDAwMDFhNjggc3o9OCB2c3o9OCByd3g9LS1ydy0gLmdvdA== @ 0x00601a68
+CCu base64:WzIyXSB2YT0weDAwNjAxYTcwIHBhPTB4MDAwMDFhNzAgc3o9MjE2IHZzej0yMTYgcnd4PS0tcnctIC5nb3QucGx0 @ 0x00601a70
+CCu base64:WzIzXSB2YT0weDAwNjAxYjgwIHBhPTB4MDAwMDFiODAgc3o9MTQwIHZzej0xNDAgcnd4PS0tcnctIC5kYXRh @ 0x00601b80
+CCu base64:WzI0XSB2YT0weDAwNjAxYzEwIHBhPTB4MDAwMDFjMGMgc3o9MTYgdnN6PTE2IHJ3eD0tLXJ3LSAuYnNz @ 0x00601c10
+CCu base64:WzM0XSB2YT0weDAwMDAwMDAwIHBhPTB4MDAwMDAwMDAgc3o9MCB2c3o9MCByd3g9bS1ydy0gR05VX1NUQUNL @ 0x00000000
+CCu base64:WzI3XSB2YT0weDAwNDAwMDQwIHBhPTB4MDAwMDAwNDAgc3o9NDQ4IHZzej00NDggcnd4PW0tci14IFBIRFI= @ 0x00400040
+CCu base64:WzM1XSB2YT0weDAwNDAwMDAwIHBhPTB4MDAwMDAwMDAgc3o9NjQgdnN6PTY0IHJ3eD1tLXJ3LSBlaGRy @ 0x00400000
+Cf 8 p @ 0x00601c18
+CCu base64:c3RyICc7Jw== @ 0x00400cd9
+CCu base64:c3RyICc7Jw== @ 0x00400cfc
+CCu base64:c3RyICcpJw== @ 0x00401190
+CCu base64:V01JIG1hbnVmYWN0dXJlIHJlZ2V4LCBiYXNlNjQgZW5jb2RlZA== @ 0x004011c1
+CCu base64:c3RyICdOYSc= @ 0x0040136e
+CCu base64:Y2F0IC4uL3J3L2luZm8vRmFocnpldWdudW1tZXJuLmNzdiB8IGdyZXAgJXMgfCBoZWFkIC0xIHwgYXdrIC1GICc7JyAne3ByaW50ICQyfSc= @ 0x004013ed
+CCu base64:YmFzZTY0KCc7fD48YCQtJyk= @ 0x00401310
+Cs 2 @ 0x004014fd # r_
+Cs 45 @ 0x00401520 # XihXVld8V1YyfDFWV3wzVld8OUJXfEFBVikoWlpaKT8__
+CCu base64:c3RyICdeKFdWV3xXVjJ8MVZXfDNWV3w5Qld8QUFWKShaWlopPyc= @ 0x004011cb
+f section..interp 28 0x400200
+S 0x00000200 0x00400200 0x0000001c 0x0000001c .interp -r--
+f section..note.ABI_tag 32 0x40021c
+S 0x0000021c 0x0040021c 0x00000020 0x00000020 .note.ABI_tag -r--
+f section..note.gnu.build_id 36 0x40023c
+S 0x0000023c 0x0040023c 0x00000024 0x00000024 .note.gnu.build_id -r--
+f section..gnu.hash 56 0x400260
+S 0x00000260 0x00400260 0x00000038 0x00000038 .gnu.hash -r--
+f section..dynsym 792 0x400298
+S 0x00000298 0x00400298 0x00000318 0x00000318 .dynsym -r--
+f section..dynstr 321 0x4005b0
+S 0x000005b0 0x004005b0 0x00000141 0x00000141 .dynstr -r--
+f section..gnu.version 66 0x4006f2
+S 0x000006f2 0x004006f2 0x00000042 0x00000042 .gnu.version -r--
+f section..gnu.version_r 32 0x400738
+S 0x00000738 0x00400738 0x00000020 0x00000020 .gnu.version_r -r--
+f section..rela.dyn 24 0x400758
+S 0x00000758 0x00400758 0x00000018 0x00000018 .rela.dyn -r--
+f section..rela.plt 576 0x400770
+S 0x00000770 0x00400770 0x00000240 0x00000240 .rela.plt -r--
+f section..init 26 0x4009b0
+S 0x000009b0 0x004009b0 0x0000001a 0x0000001a .init -r-x
+f section..plt 400 0x4009d0
+S 0x000009d0 0x004009d0 0x00000190 0x00000190 .plt -r-x
+f section..text 2434 0x400b60
+S 0x00000b60 0x00400b60 0x00000982 0x00000982 .text -r-x
+f section..fini 9 0x4014e4
+S 0x000014e4 0x004014e4 0x00000009 0x00000009 .fini -r-x
+f section..rodata 301 0x4014f0
+S 0x000014f0 0x004014f0 0x0000012d 0x0000012d .rodata -r--
+f section..eh_frame_hdr 108 0x401620
+S 0x00001620 0x00401620 0x0000006c 0x0000006c .eh_frame_hdr -r--
+f section..eh_frame 476 0x401690
+S 0x00001690 0x00401690 0x000001dc 0x000001dc .eh_frame -r--
+f section..init_array 8 0x601870
+S 0x00001870 0x00601870 0x00000008 0x00000008 .init_array -rw-
+f section..fini_array 8 0x601878
+S 0x00001878 0x00601878 0x00000008 0x00000008 .fini_array -rw-
+f section..jcr 8 0x601880
+S 0x00001880 0x00601880 0x00000008 0x00000008 .jcr -rw-
+f section..dynamic 480 0x601888
+S 0x00001888 0x00601888 0x000001e0 0x000001e0 .dynamic -rw-
+f section..got 8 0x601a68
+S 0x00001a68 0x00601a68 0x00000008 0x00000008 .got -rw-
+f section..got.plt 216 0x601a70
+S 0x00001a70 0x00601a70 0x000000d8 0x000000d8 .got.plt -rw-
+f section..data 140 0x601b80
+S 0x00001b80 0x00601b80 0x0000008c 0x0000008c .data -rw-
+f section..bss 16 0x601c10
+S 0x00001c0c 0x00601c10 0x00000010 0x00000010 .bss -rw-
+f section..comment 57 0x0
+S 0x00001c0c 0x00000000 0x00000039 0x00000039 .comment ----
+f section..shstrtab 248 0x0
+S 0x00001c45 0x00000000 0x000000f8 0x000000f8 .shstrtab ----
+f section.LOAD0 6252 0x400000
+S 0x00000000 0x00400000 0x0000186c 0x0000186c LOAD0 mr-x
+f section.LOAD1 924 0x601870
+S 0x00001870 0x00601870 0x0000039c 0x000003b0 LOAD1 mrw-
+f section.ehdr 9280 0x400000
+S 0x00000000 0x00400000 0x00002440 0x00002440 ehdr -rwx
+ax 0x4014e0 0x0
+ax 0x401470 0x0
+ax 0x4012db 0x0
+ax 0x400a60 0x0
+ax 0x601ac8 0x0
+ax 0x8 0x0
+ax 0x4009d0 0x0
+ax 0x601a80 0x0
+ax 0x601a88 0x0
+ax 0x4009d0 0x0
+ax 0x400aa0 0x0
+ax 0x400a70 0x0
+ax 0xc 0x0
+ax 0x401599 0x0
+ax 0x400da9 0x0
+ax 0x64 0x0
+ax 0x400d28 0x0
+ax 0x4009f0 0x0
+ax 0x401089 0x0
+ax 0x4013c2 0x0
+ax 0x400a20 0x0
+ax 0x6c 0x0
+ax 0x4015b0 0x0
+ax 0x400da9 0x0
+ax 0x400b20 0x0
+ax 0x4014fd 0x0
+ax 0x400ae0 0x0
+ax 0x401440 0x0
+ax 0x100 0x0
+ax 0x400a80 0x0
+ax 0x400a30 0x0
+ax 0x400a40 0x0
+ax 0x4015a6 0x0
+ax 0x400a00 0x0
+ax 0x4015a6 0x0
+ax 0x400a00 0x0
+ax 0x40146e 0x0
+ax 0x601a68 0x0
+ax 0x400a90 0x0
+ax 0x601ae0 0x0
+ax 0xb 0x0
+ax 0x4009d0 0x0
+ax 0x601a90 0x0
+ax 0x1 0x0
+ax 0x4009d0 0x0
+ax 0x601a98 0x0
+ax 0x2 0x0
+ax 0x4009d0 0x0
+ax 0x601aa0 0x0
+ax 0x3 0x0
+ax 0x4009d0 0x1
+ax 0x601aa8 0x0
+ax 0x4 0x0
+ax 0x4009d0 0x0
+ax 0x601ab0 0x0
+ax 0x5 0x0
+ax 0x4009d0 0x0
+ax 0x601ab8 0x0
+ax 0x6 0x0
+ax 0x4009d0 0x0
+ax 0x601ac0 0x0
+ax 0x7 0x0
+ax 0x4009d0 0x0
+ax 0x601ad0 0x0
+ax 0x9 0x0
+ax 0x4009d0 0x0
+ax 0x601ad8 0x0
+ax 0xa 0x0
+ax 0x4009d0 0x0
+ax 0x601ae8 0x0
+ax 0xc 0x0
+ax 0x4009d0 0x0
+ax 0x601af0 0x0
+ax 0xd 0x0
+ax 0x4009d0 0x0
+ax 0x601af8 0x0
+ax 0xe 0x0
+ax 0x4009d0 0x0
+ax 0x601b00 0x0
+ax 0xf 0x0
+ax 0x4009d0 0x0
+ax 0x601b08 0x0
+ax 0x10 0x0
+ax 0x4009d0 0x0
+ax 0x601b10 0x0
+ax 0x11 0x0
+ax 0x4009d0 0x0
+ax 0x601b18 0x0
+ax 0x12 0x0
+ax 0x4009d0 0x0
+ax 0x601b20 0x0
+ax 0x13 0x0
+ax 0x4009d0 0x1
+ax 0x601b28 0x0
+ax 0x14 0x0
+ax 0x4009d0 0x0
+ax 0x601b30 0x0
+ax 0x15 0x0
+ax 0x4009d0 0x0
+ax 0x601b38 0x0
+ax 0x16 0x0
+ax 0x4009d0 0x0
+ax 0x601b40 0x0
+ax 0x17 0x0
+ax 0x4009d0 0x0
+ax 0x601c17 0x0
+ax 0x400bc0 0x0
+ax 0x400bc0 0x0
+ax 0x601c10 0x0
+ax 0x601c10 0x0
+ax 0x400c08 0x0
+ax 0x400c08 0x0
+ax 0x601c10 0x0
+ax 0x400c2a 0x0
+ax 0x400b90 0x0
+ax 0x601c10 0x0
+ax 0x601880 0x0
+ax 0x400c40 0x0
+ax 0x400bd0 0x0
+ax 0x400c3b 0x0
+ax 0x400bd0 0x0
+ax 0x400a10 0x0
+ax 0x400a10 0x0
+ax 0x400ac0 0x0
+ax 0x4009f0 0x0
+ax 0x400b10 0x0
+ax 0x4014f8 0x0
+ax 0x400b00 0x0
+ax 0x400d0f 0x0
+ax 0x400cfc 0x0
+ax 0x400d26 0x0
+ax 0x4014fa 0x0
+ax 0x400b00 0x0
+ax 0x400d21 0x0
+ax 0x400cec 0x0
+ax 0x400b50 0x0
+ax 0x400d44 0x0
+ax 0x400ac0 0x0
+ax 0x601c18 0x0
+ax 0x400da1 0x0
+ax 0x601c18 0x0
+ax 0x601bc0 0x0
+ax 0x400d7f 0x0
+ax 0x601c18 0x0
+ax 0x400dd3 0x0
+ax 0x400d5d 0x0
+ax 0x400de9 0x0
+ax 0x401072 0x0
+ax 0x400e2c 0x0
+ax 0x400e54 0x0
+ax 0x400ac0 0x0
+ax 0x400e78 0x0
+ax 0x401072 0x0
+ax 0x40105f 0x0
+ax 0x400eaa 0x0
+ax 0x400ed4 0x0
+ax 0x601c18 0x0
+ax 0x400ef6 0x0
+ax 0x400f20 0x0
+ax 0x601c18 0x0
+ax 0x400f42 0x0
+ax 0x400f6c 0x0
+ax 0x601c18 0x0
+ax 0x400f8e 0x0
+ax 0x400fb8 0x0
+ax 0x601c18 0x0
+ax 0x401008 0x0
+ax 0x401035 0x0
+ax 0x40105f 0x0
+ax 0x400e8b 0x0
+ax 0x601c18 0x0
+ax 0x4009e0 0x0
+ax 0x4014fd 0x0
+ax 0x4014ff 0x0
+ax 0x400af0 0x0
+ax 0x40114d 0x0
+ax 0x400b40 0x0
+ax 0x400cc6 0x0
+ax 0x400c56 0x0
+ax 0x4009f0 0x0
+ax 0x40151c 0x0
+ax 0x400c56 0x0
+ax 0x4009f0 0x0
+ax 0x4009e0 0x0
+ax 0x400a80 0x0
+ax 0x4010ca 0x0
+ax 0x400a10 0x0
+ax 0x40151e 0x0
+ax 0x400c56 0x0
+ax 0x4009f0 0x0
+ax 0x401520 0x0
+ax 0x400da9 0x0
+ax 0x400a10 0x0
+ax 0x400c56 0x0
+ax 0x4009f0 0x0
+ax 0x401550 0x1
+ax 0x400c56 0x0
+ax 0x4009f0 0x0
+ax 0x400ab0 0x0
+ax 0x40127c 0x0
+ax 0x400b30 0x0
+ax 0x400ad0 0x0
+ax 0x400a10 0x0
+ax 0x400a50 0x0
+ax 0x401382 0x0
+ax 0x4013bd 0x0
+ax 0x40138f 0x0
+ax 0x401469 0x0
+ax 0x40142c 0x0
+ax 0x601870 0x0
+ax 0x601878 0x0
+ax 0x4009b0 0x0
+ax 0x4014c6 0x0
+ax 0x4014b0 0x0
+ax 0xe 0x0
+ax 0x100 0x0
+ax 0x3f 0x0
+ax 0x3d 0x0
+ax 0x3d 0x0
+ax 0x3d 0x0
+ax 0x1 0x0
+ax 0x3d 0x0
+ax 0x1 0x0
+ax 0x3d 0x0
+ax 0x1 0x0
+ax 0x3d 0x0
+ax 0x1 0x0
+ax 0x1 0x0
+ax 0x1 0x0
+ax 0x1 0x0
+ax 0x1 0x0
+ax 0x28 0x0
+ax 0x400 0x0
+ax 0x2c 0x0
+ax 0x1e 0x0
+f entry0 42 0x00400b60
+af+ 0x00400b60 42 entry0 f n
+afb+ 0x00400b60 0x00400b60 42 0xffffffffffffffff 0xffffffffffffffff n n
+f sym.imp.__libc_start_main 16 0x00400a60
+af+ 0x00400a60 16 sym.imp.__libc_start_main s n
+afb+ 0x00400a60 0x00400a60 16 0x004009d0 0xffffffffffffffff n n
+afb+ 0x00400a60 0x004009d0 32 0x004009d0 0xffffffffffffffff n n
+f main 405 0x004012db
+af+ 0x004012db 405 main s n
+afb+ 0x004012db 0x004012db 147 0x00401382 0x0040136e n n
+afb+ 0x004012db 0x00401382 13 0x004013c2 0xffffffffffffffff n n
+afb+ 0x004012db 0x004013c2 11 0x0040138f 0x004013cd n n
+afb+ 0x004012db 0x0040138f 29 0x004013bd 0x004013ac n n
+afb+ 0x004012db 0x004013bd 5 0x004013c2 0xffffffffffffffff n n
+afb+ 0x004012db 0x004013cd 72 0x00401469 0x00401415 n n
+afb+ 0x004012db 0x00401469 5 0x0040146e 0xffffffffffffffff b n
+afb+ 0x004012db 0x00401415 23 0x00401440 0xffffffffffffffff n n
+afb+ 0x004012db 0x00401440 29 0x0040142c 0x0040145d n n
+afb+ 0x004012db 0x0040142c 20 0x00401440 0xffffffffffffffff n n
+afb+ 0x004012db 0x0040145d 12 0x00401469 0xffffffffffffffff n n
+afb+ 0x004012db 0x004013ac 17 0x004013bd 0xffffffffffffffff n n
+afb+ 0x004012db 0x0040136e 20 0x0040146e 0xffffffffffffffff n n
+afb+ 0x004012db 0x0040146e 2 0xffffffffffffffff 0xffffffffffffffff n n
+afv 0 local_0h int @ 0x4012db
+afv 4 local_4h int @ 0x4012db
+afv 16 local_10h int @ 0x4012db
+afv 24 shell_chars int @ 0x4012db
+afv 28 rnd_64 int @ 0x4012db
+afv 40 local_28h int @ 0x4012db
+afv 48 local_30h int @ 0x4012db
+afv 56 local_38h int @ 0x4012db
+afv 64 local_40h int @ 0x4012db
+afv 8256 frame_number int @ 0x4012db
+afv 8368 cmd_extract_car_num int @ 0x4012db
+afv 8624 local_21b0h int @ 0x4012db
+afv 8628 argc int @ 0x4012db
+afv 8640 argv int @ 0x4012db
+f sym._init 26 0x004009b0
+af+ 0x004009b0 26 sym._init s n
+afb+ 0x004009b0 0x004009b0 16 0x004009c5 0x004009c0 n n
+afb+ 0x004009b0 0x004009c0 5 0x004009c5 0xffffffffffffffff n n
+afb+ 0x004009b0 0x004009c5 5 0xffffffffffffffff 0xffffffffffffffff n n
+f loc.imp.__gmon_start__ 16 0x00400a90
+af+ 0x00400a90 16 loc.imp.__gmon_start__ f n
+afb+ 0x00400a90 0x00400a90 16 0x004009d0 0xffffffffffffffff n n
+afb+ 0x00400a90 0x004009d0 32 0x004009d0 0xffffffffffffffff n n
+f sym._fini 9 0x004014e4
+af+ 0x004014e4 9 sym._fini s n
+afb+ 0x004014e4 0x004014e4 9 0xffffffffffffffff 0xffffffffffffffff n n
+f sym.imp.free 16 0x004009e0
+af+ 0x004009e0 16 sym.imp.free s n
+afb+ 0x004009e0 0x004009e0 16 0x004009d0 0xffffffffffffffff n n
+afb+ 0x004009e0 0x004009d0 16 0x004009e0 0xffffffffffffffff n n
+f sym.imp.strcpy 16 0x004009f0
+af+ 0x004009f0 16 sym.imp.strcpy s n
+afb+ 0x004009f0 0x004009f0 16 0x004009d0 0xffffffffffffffff n n
+afb+ 0x004009f0 0x004009d0 32 0x004009d0 0xffffffffffffffff n n
+f sym.imp.puts 16 0x00400a00
+af+ 0x00400a00 16 sym.imp.puts s n
+afb+ 0x00400a00 0x00400a00 16 0x004009d0 0xffffffffffffffff n n
+afb+ 0x00400a00 0x004009d0 32 0x004009d0 0xffffffffffffffff n n
+f sym.imp.strlen 16 0x00400a10
+af+ 0x00400a10 16 sym.imp.strlen s n
+afb+ 0x00400a10 0x00400a10 16 0x004009d0 0xffffffffffffffff n n
+afb+ 0x00400a10 0x004009d0 32 0x004009d0 0xffffffffffffffff n n
+f sym.imp.strchr 16 0x00400a20
+af+ 0x00400a20 16 sym.imp.strchr s n
+afb+ 0x00400a20 0x00400a20 16 0x004009d0 0xffffffffffffffff n n
+afb+ 0x00400a20 0x004009d0 32 0x004009d0 0xffffffffffffffff n n
+f sym.imp.printf 16 0x00400a30
+af+ 0x00400a30 16 sym.imp.printf s n
+afb+ 0x00400a30 0x00400a30 16 0x004009d0 0xffffffffffffffff n n
+afb+ 0x00400a30 0x004009d0 32 0x004009d0 0xffffffffffffffff n n
+f sym.imp.pclose 16 0x00400a40
+af+ 0x00400a40 16 sym.imp.pclose s n
+afb+ 0x00400a40 0x00400a40 16 0x004009d0 0xffffffffffffffff n n
+afb+ 0x00400a40 0x004009d0 32 0x004009d0 0xffffffffffffffff n n
+f sym.imp.pcre_exec 16 0x00400a50
+af+ 0x00400a50 16 sym.imp.pcre_exec s n
+afb+ 0x00400a50 0x00400a50 16 0x004009d0 0xffffffffffffffff n n
+afb+ 0x00400a50 0x004009d0 32 0x004009d0 0xffffffffffffffff n n
+f sym.imp.srand 16 0x00400a70
+af+ 0x00400a70 16 sym.imp.srand s n
+afb+ 0x00400a70 0x00400a70 16 0x004009d0 0xffffffffffffffff n n
+afb+ 0x00400a70 0x004009d0 32 0x004009d0 0xffffffffffffffff n n
+f sym.imp.fgets 16 0x00400a80
+af+ 0x00400a80 16 sym.imp.fgets s n
+afb+ 0x00400a80 0x00400a80 16 0x004009d0 0xffffffffffffffff n n
+afb+ 0x00400a80 0x004009d0 32 0x004009d0 0xffffffffffffffff n n
+f sym.imp.time 16 0x00400aa0
+af+ 0x00400aa0 16 sym.imp.time s n
+afb+ 0x00400aa0 0x00400aa0 16 0x004009d0 0xffffffffffffffff n n
+afb+ 0x00400aa0 0x004009d0 32 0x004009d0 0xffffffffffffffff n n
+f sym.imp.pcre_compile 16 0x00400ab0
+af+ 0x00400ab0 16 sym.imp.pcre_compile s n
+afb+ 0x00400ab0 0x00400ab0 16 0x004009d0 0xffffffffffffffff n n
+afb+ 0x00400ab0 0x004009d0 32 0x004009d0 0xffffffffffffffff n n
+f sym.imp.malloc 16 0x00400ac0
+af+ 0x00400ac0 16 sym.imp.malloc s n
+afb+ 0x00400ac0 0x00400ac0 16 0x004009d0 0xffffffffffffffff n n
+afb+ 0x00400ac0 0x004009d0 32 0x004009d0 0xffffffffffffffff n n
+f sym.imp.pcre_study 16 0x00400ad0
+af+ 0x00400ad0 16 sym.imp.pcre_study s n
+afb+ 0x00400ad0 0x00400ad0 16 0x004009d0 0xffffffffffffffff n n
+afb+ 0x00400ad0 0x004009d0 32 0x004009d0 0xffffffffffffffff n n
+f sym.imp.popen 16 0x00400ae0
+af+ 0x00400ae0 16 sym.imp.popen s n
+afb+ 0x00400ae0 0x00400ae0 16 0x004009d0 0xffffffffffffffff n n
+afb+ 0x00400ae0 0x004009d0 32 0x004009d0 0xffffffffffffffff n n
+f sym.imp.fopen 16 0x00400af0
+af+ 0x00400af0 16 sym.imp.fopen s n
+afb+ 0x00400af0 0x00400af0 16 0x004009d0 0xffffffffffffffff n n
+afb+ 0x00400af0 0x004009d0 32 0x004009d0 0xffffffffffffffff n n
+f sym.imp.strtok 16 0x00400b00
+af+ 0x00400b00 16 sym.imp.strtok s n
+afb+ 0x00400b00 0x00400b00 16 0x004009d0 0xffffffffffffffff n n
+afb+ 0x00400b00 0x004009d0 32 0x004009d0 0xffffffffffffffff n n
+f sym.imp.strcat 16 0x00400b10
+af+ 0x00400b10 16 sym.imp.strcat s n
+afb+ 0x00400b10 0x00400b10 16 0x004009d0 0xffffffffffffffff n n
+afb+ 0x00400b10 0x004009d0 32 0x004009d0 0xffffffffffffffff n n
+f sym.imp.sprintf 16 0x00400b20
+af+ 0x00400b20 16 sym.imp.sprintf s n
+afb+ 0x00400b20 0x00400b20 16 0x004009d0 0xffffffffffffffff n n
+afb+ 0x00400b20 0x004009d0 32 0x004009d0 0xffffffffffffffff n n
+f sym.imp.exit 16 0x00400b30
+af+ 0x00400b30 16 sym.imp.exit s n
+afb+ 0x00400b30 0x00400b30 16 0x004009d0 0xffffffffffffffff n n
+afb+ 0x00400b30 0x004009d0 32 0x004009d0 0xffffffffffffffff n n
+f sym.imp.strdup 16 0x00400b40
+af+ 0x00400b40 16 sym.imp.strdup s n
+afb+ 0x00400b40 0x00400b40 16 0x004009d0 0xffffffffffffffff n n
+afb+ 0x00400b40 0x004009d0 32 0x004009d0 0xffffffffffffffff n n
+f sym.imp.rand 16 0x00400b50
+af+ 0x00400b50 16 sym.imp.rand s n
+afb+ 0x00400b50 0x00400b50 16 0x004009d0 0xffffffffffffffff n n
+afb+ 0x00400b50 0x004009d0 32 0x004009d0 0xffffffffffffffff n n
+f fcn.00400b90 50 0x00400b90
+af+ 0x00400b90 50 fcn.00400b90 f n
+afb+ 0x00400b90 0x00400b90 21 0x00400bc0 0x00400ba5 n n
+afb+ 0x00400b90 0x00400ba5 10 0x00400bc0 0x00400baf n n
+afb+ 0x00400b90 0x00400baf 17 0x00400bc0 0xffffffffffffffff n n
+afb+ 0x00400b90 0x00400bc0 2 0xffffffffffffffff 0xffffffffffffffff n n
+f fcn.build_base64_decode_table 76 0x00400d5d
+af+ 0x00400d5d 76 fcn.build_base64_decode_table f n
+afb+ 0x00400d5d 0x00400d5d 34 0x00400da1 0xffffffffffffffff n n
+afb+ 0x00400d5d 0x00400da1 6 0x00400d7f 0x00400da7 n n
+afb+ 0x00400d5d 0x00400d7f 34 0x00400da1 0xffffffffffffffff n n
+afb+ 0x00400d5d 0x00400da7 2 0xffffffffffffffff 0xffffffffffffffff n n
+afa 63 arg_3fh int @ 0x400d5d
+afv 4 i int @ 0x400d5d
+f fcn.get_csv_field 98 0x00400cc6
+af+ 0x00400cc6 98 fcn.get_csv_field f n
+afb+ 0x00400cc6 0x00400cc6 38 0x00400d0f 0xffffffffffffffff n n
+afb+ 0x00400cc6 0x00400d0f 7 0x00400d21 0x00400d16 n n
+afb+ 0x00400cc6 0x00400d21 5 0x00400d26 0xffffffffffffffff b n
+afb+ 0x00400cc6 0x00400d16 11 0x00400cec 0x00400d21 n n
+afb+ 0x00400cc6 0x00400cec 10 0x00400cfc 0x00400cf6 n n
+afb+ 0x00400cc6 0x00400cfc 19 0x00400d0f 0xffffffffffffffff n n
+afb+ 0x00400cc6 0x00400cf6 6 0x00400d26 0xffffffffffffffff n n
+afb+ 0x00400cc6 0x00400d26 2 0xffffffffffffffff 0xffffffffffffffff n n
+afv 0 local_0h int @ 0x400cc6
+afv 8 next_occurence int @ 0x400cc6
+afv 24 buffer int @ 0x400cc6
+afv 28 number_occurence int @ 0x400cc6
+f fcn.concat_buffers 112 0x00400c56
+af+ 0x00400c56 112 fcn.concat_buffers f n
+afb+ 0x00400c56 0x00400c56 112 0xffffffffffffffff 0xffffffffffffffff n n
+afv 24 local_18h int @ 0x400c56
+afv 40 dest_buffer int @ 0x400c56
+afv 48 src_buffer int @ 0x400c56
+f fcn.base64decode 715 0x00400da9
+af+ 0x00400da9 715 fcn.base64decode f n
+afb+ 0x00400da9 0x00400da9 32 0x00400dd3 0x00400dc9 n n
+afb+ 0x00400da9 0x00400dd3 12 0x00400de9 0x00400ddf n n
+afb+ 0x00400da9 0x00400de9 49 0x00400e2c 0x00400e1a n n
+afb+ 0x00400da9 0x00400e2c 22 0x00400e54 0x00400e42 n n
+afb+ 0x00400da9 0x00400e54 26 0x00400e78 0x00400e6e n n
+afb+ 0x00400da9 0x00400e78 19 0x0040105f 0xffffffffffffffff n n
+afb+ 0x00400da9 0x0040105f 15 0x00400e8b 0x0040106e n n
+afb+ 0x00400da9 0x00400e8b 20 0x00400eaa 0x00400e9f n n
+afb+ 0x00400da9 0x00400eaa 42 0x00400ed4 0xffffffffffffffff b n
+afb+ 0x00400da9 0x00400ef6 42 0x00400f20 0xffffffffffffffff b n
+afb+ 0x00400da9 0x00400f42 42 0x00400f6c 0xffffffffffffffff b n
+afb+ 0x00400da9 0x00400f8e 42 0x00400fb8 0xffffffffffffffff b n
+afb+ 0x00400da9 0x00401008 18 0x00401035 0x0040101a n n
+afb+ 0x00400da9 0x00401035 18 0x0040105f 0x00401047 n n
+afb+ 0x00400da9 0x00401047 24 0x0040105f 0xffffffffffffffff n n
+afb+ 0x00400da9 0x0040106e 4 0x00401072 0xffffffffffffffff b n
+afb+ 0x00400da9 0x0040101a 27 0x00401035 0xffffffffffffffff n n
+afb+ 0x00400da9 0x00400fed 27 0x00401008 0xffffffffffffffff n n
+afb+ 0x00400da9 0x00400f83 11 0x00400fb8 0xffffffffffffffff n n
+afb+ 0x00400da9 0x00400fb8 53 0x00401008 0x00400fed n n
+afb+ 0x00400da9 0x00400f37 11 0x00400f6c 0xffffffffffffffff n n
+afb+ 0x00400da9 0x00400f6c 23 0x00400f8e 0x00400f83 n n
+afb+ 0x00400da9 0x00400eeb 11 0x00400f20 0xffffffffffffffff n n
+afb+ 0x00400da9 0x00400f20 23 0x00400f42 0x00400f37 n n
+afb+ 0x00400da9 0x00400e9f 11 0x00400ed4 0xffffffffffffffff n n
+afb+ 0x00400da9 0x00400ed4 23 0x00400ef6 0x00400eeb n n
+afb+ 0x00400da9 0x00400e6e 10 0x00401072 0xffffffffffffffff n n
+afb+ 0x00400da9 0x00401072 2 0xffffffffffffffff 0xffffffffffffffff n n
+afb+ 0x00400da9 0x00400e42 18 0x00400e54 0xffffffffffffffff n n
+afb+ 0x00400da9 0x00400e1a 18 0x00400e2c 0xffffffffffffffff n n
+afb+ 0x00400da9 0x00400ddf 10 0x00401072 0xffffffffffffffff n n
+afb+ 0x00400da9 0x00400dc9 10 0x00400dd3 0xffffffffffffffff n n
+afv 0 local_0h int @ 0x400da9
+afv 4 max_input_len int @ 0x400da9
+afv 8 local_8h int @ 0x400da9
+afv 16 return_buffer int @ 0x400da9
+afv 20 local_14h int @ 0x400da9
+afv 24 local_18h int @ 0x400da9
+afv 28 local_1ch int @ 0x400da9
+afv 32 local_20h int @ 0x400da9
+afv 36 local_24h int @ 0x400da9
+afv 56 str_to_decode int @ 0x400da9
+afv 64 str_len int @ 0x400da9
+afv 72 decoded_size int @ 0x400da9
+f fcn.rand_in_range 53 0x00400d28
+af+ 0x00400d28 53 fcn.rand_in_range f n
+afb+ 0x00400d28 0x00400d28 28 0x00400d44 0xffffffffffffffff b n
+afb+ 0x00400d28 0x00400d44 20 0x00400d44 0x00400d58 n n
+afb+ 0x00400d28 0x00400d58 5 0xffffffffffffffff 0xffffffffffffffff n n
+afv 4 local_4h int @ 0x400d28
+afv 8 local_8h int @ 0x400d28
+afv 20 local_14h int @ 0x400d28
+f fcn.check_valid_frame_number 594 0x00401089
+af+ 0x00401089 594 fcn.check_valid_frame_number f n
+afb+ 0x00401089 0x00401089 65 0x0040114d 0xffffffffffffffff n n
+afb+ 0x00401089 0x0040114d 33 0x004010ca 0x0040116e n n
+afb+ 0x00401089 0x004010ca 131 0x0040114d 0xffffffffffffffff n n
+afb+ 0x00401089 0x0040116e 260 0x0040127c 0x00401272 n n
+afb+ 0x00401089 0x0040127c 95 0xffffffffffffffff 0xffffffffffffffff n n
+afb+ 0x00401089 0x00401272 10 0xffffffffffffffff 0xffffffffffffffff n n
+afv 0 local_0h int @ 0x401089
+afv 8 local_8h int @ 0x401089
+afv 16 fd int @ 0x401089
+afv 24 local_18h int @ 0x401089
+afv 32 WMI_regex int @ 0x401089
+afv 40 local_28h int @ 0x401089
+afv 48 local_30h int @ 0x401089
+afv 56 local_38h int @ 0x401089
+afv 60 local_3ch int @ 0x401089
+afv 72 local_48h int @ 0x401089
+afv 76 local_4ch int @ 0x401089
+afv 208 local_d0h int @ 0x401089
+afv 4304 frame_number_regex int @ 0x401089
+afv 4312 WMI_regex_len int @ 0x401089
+afv 5344 read_buffer int @ 0x401089
+afv 5352 frame_number int @ 0x401089
+# macros
+# seek
+s main
