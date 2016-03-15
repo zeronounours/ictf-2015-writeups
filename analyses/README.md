@@ -6,6 +6,7 @@ separated based on the type of service.
 ## Web services
 
 * [Syper Service](syper_service/README.md)
+* [N4w Secrets](n4w_secrets/README.md) (Python CGI scripts)
 
 ## Python services
 
