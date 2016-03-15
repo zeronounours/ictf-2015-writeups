@@ -11,22 +11,22 @@ and Karl Hasselström.
 
 ### Basic SPL aspects
 
-This section presents the aspects of the language. If already know it, you can
-go directly to the [next section](#modifications-for-the-ictf) which explains
-everything CTF-related.
+This section presents the aspects of the language. If you already know it, you
+can go directly to the [next section](#modifications-for-the-ictf) which
+explains everything CTF-related.
 
-A program in this language look a Shakespeare's play. Among the main elements
-in a play are:
+A program in this language looks like a Shakespeare's play. Among the main
+elements in a play are:
 
-- Title
-- Dramatis Personae, ie. the list of characters
-- Acts and scenes
-- Enter, exit and exeunt of characters
-- Lines, ie the dialogue
+- the title
+- the dramatis Personae, ie. the list of characters
+- the acts and scenes
+- the enter, exit and exeunt of characters
+- the lines, ie the dialogue
 
 #### Dramatis Personae
 
-It must come after the title and list of usable
+It must come after the title and is list of usable
 [characters/variables](#variables). Each character must be declared in the
 following form:
 
@@ -37,20 +37,20 @@ is available in the file [character.wordlist][character-wl].
 
 #### Variables
 
-As any programming language, this one also includes variables. There are
-actually the characters. Each of them has an associated current integer value
-and a stack.
+Like any other programming language, this one also includes variables. They
+are actually the characters. Each of them has an associated current integer
+value and a stack.
 
 They can be modified using 3 different actions:
 
-- `REMEMBER value.` push the value on the stack of the character. His current
+- `REMEMBER value.` pushes the value on the stack of the character. His current
 value is not modified in the process.
-- `RECALL.` pop the first value on the stack in the current value.
-- `YOU ARE value.` assign the current value of the character.
+- `RECALL.` pops the first value on the stack into the current value.
+- `YOU ARE value.` assigns the current value of the character.
 
 A `value` is usually an operation on [constants](#constants) but it can be
-[more](#expressions). Uppercase words are one of the possible for
-keywords, others may exist but are not useful in the scope of the write-up.
+[more](#expressions). Uppercase words are one of the possible
+keywords. Other ones may exist but are not useful in the scope of the write-up.
 
 One important thing to remember is that these actions can only occur when
 2 characters are on stage, no less and no more. In addition, the modified
@@ -69,13 +69,13 @@ current value, and the stack is between brackets.
 
 #### Expressions
 
-Expressions are quite similar with other language expressions. You can apply
+Expressions are quite similar to expressions of other languages. You can apply
 some operators on [variables](#variables) or [constants](#constants). Only the
-syntax changes as it must must fit Shakespeare's language.
+syntax changes as it must fit Shakespeare's language.
 
 Terminal elements of expressions are:
-- A character name. It use the character's current value.
-- A pronoun (`ME`, `MY`, `YOU`, `YOUR`). It use the corresponding character's
+- A character name. It uses the character's current value.
+- A pronoun (`ME`, `MY`, `YOU`, `YOUR`). It uses the corresponding character's
 current value.
 - A [constant](#constant).
 
@@ -134,15 +134,15 @@ they are useless for the rest of the write-up so they won't be treated here.
 
 ### Modifications for the iCTF
 
-For the purpose of the CTF, two statements have been added to the initial
+For the purpose of the CTF, two statements have been added to the initial SPL
 specification:
 
-- `Take my banner.` set a flag
-- `Give me your banner.` get a flag
+- `Take my banner.` sets a flag
+- `Give me your banner.` gets a flag
 
 #### Take my banner
 
-This statement use the stack of the talking character to determine the
+This statement uses the stack of the talking character to determine the
 *flag_id*, the secret key and the *flag*. Each element in the stack is
 interpreted as a character which composes a larger string.
 
@@ -153,7 +153,7 @@ interpreted as a character which composes a larger string.
 3. The *flag* itself
 
 The *flag* is then stored in a file named after the *flag_id* prefixed with
-`flg_`. In this file is saved the secret key and the *flag*, separeted with a
+`flg_`. In this file is saved the secret key and the *flag*, separated with a
 colon.
 
 Example:
@@ -164,7 +164,7 @@ Example:
 
 #### Give me your banner
 
-This statement use the stack of the talking character to determine the
+This statement uses the stack of the talking character to determine the
 *flag_id*, the secret key. Each element in the stack is
 interpreted as a character which composes a larger string.
 
@@ -198,7 +198,7 @@ do {
 }
 ```
 
-We can overflow `generic_buf` we using `Give me your banner.`
+We can overflow `generic_buf` when using `Give me your banner.`
 
 The `generic_buf` being in the BSS, we won't be able to control the execution
 flow that easily. We can take a look at the symbol table to see what can be
@@ -285,11 +285,12 @@ Once a known banner is available, we read it using the following stack:
 "\xcc\xd1\x05\x08"
 ```
 
-The start of the string is here to successfully read the file. The next line
-is used to fill the buffer area. `-1` is for the null-byte between the filename
-and the password, `-4` is for the initial `flg_` present in the buffer and
-`+4` is to reach the `second_person` area. `"\xcc\xd1\x05\x08"` is the address
-of `strncmp` GOT entry.
+* The start of the string is here to successfully read the file.
+* The next line is used to fill the buffer area.
+  - `-1` is for the null-byte between the filename and the password
+  - `-4` is for the initial `flg_` present in the buffer
+  - `+4` is to reach the `second_person` area.
+* `"\xcc\xd1\x05\x08"` is the address of `strncmp` GOT entry.
 
 Now that `second_person` is overriden, we need to assign a value to it (as the
 value is stored in the first word of the structure). This value should be the
@@ -341,12 +342,12 @@ Wonderful! It works as expected.
 ### Automation
 
 It's time consuming to create a SPL program, not to say quite impossible. So
-to ease its creation, a [ruby script][dsl] provide a DSL to make the
+to ease its creation, a [ruby script][dsl] provide a DSL to create the
 programs. It handles variables naming, value assignment and stack push/pop
 operations. But most of all it enables to directly push a string to the stack
 of a variable.
 
-This DSL is then used in [poc.rb][poc] to create the play which exploit the
+This DSL is then used in [poc.rb][poc] to create the play which exploits the
 previously presented vulnerability.
 
 

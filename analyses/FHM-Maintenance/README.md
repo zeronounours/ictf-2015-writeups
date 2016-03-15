@@ -27,16 +27,16 @@ the URL:
 No need to develop the static page aspect as it's a basic HTTP behaviour.
 However, saving and retrieving a secret must follow a specific scheme.
 
-To register a secret, you must then send a POST request with all three
-parameters `username`, `pass` and `secret`. **Note: `secret` must
+To register a secret, you must send a POST request with all three
+parameters `username`, `pass` and `secret`. **Note: `secret` has
 not to be the last parameter, see** [vulnerabilities](#vulnerabilities).
 
 To retrieve your secret, you must send a GET request with a HTTP basic
 authentication header. Otherwise, you'll be asked to authenticate. Of course,
 the credentials are the ones of the secret you want to get.
 
-If you like web interfaces, you can start with `/extern/index.html` to perform
-these actions easily.
+If you like web interfaces, you can start browsing `/extern/index.html` to
+perform these actions easily.
 
 
 ### Flag

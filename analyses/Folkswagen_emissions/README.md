@@ -13,18 +13,18 @@
 > service is in bavarian, a german dialect. But we offer a translator that
 > translates bavarian words to german, though it might not be that helpful.
 
-This services of the team *in23canation* provides a way to store Folkswagen
-cars issues in a secure way. To do so here are the 4 actions performed:
+This service of the team *in23canation* provides a way to store Folkswagen
+cars issues in a secure way. To do so a user can perform 4 different actions:
 * Store a new car issue
 * Retrieve a car issue
 * Decrypt the report
 * Translate from bavarian to german
 
-If your don't know where to start don't miss the `help` command.
+If you don't know where to start don't miss the `help` command.
 
-While the frontend is provided by a python script, all 4 actions are then
-delegated to 3 stripped binaries. This script works with 4 differents modes
-which are associated with each actions:
+While the frontend is provided by a python script, all 4 actions are later
+delegated to 3 stripped binaries. The python script works with 4 differents
+modes which are associated with each actions:
 - default one to retrieve reports
 - translator: entered with `I ko koa bayrisch`
 - setflag: entered with `addfzn`
@@ -62,7 +62,7 @@ directory.
 This binary is used to check the issues with emission values of cars. It take
 as argument the *car frame number* to check.
 
-It first generate a regex used to check that the *frame number* is valid. This
+It first generates a regex used to check that the *frame number* is valid. This
 regex looks like that:
 
 ```regex
@@ -73,7 +73,7 @@ regex looks like that:
 `rw/info/Fahrzeugtypen.csv`. It's a regex OR-ed list of the first field of each
 line, ie. separated with `|`.
 
-If the regex match the *frame number*, the binary return the result of the
+If the regex matches the *frame number*, the binary returns the result of the
 command
 ```bash
 cat ../rw/info/Fahrzeugnummern.csv | grep %s | head -1 | awk -F ';' '{print $2}'
@@ -85,13 +85,13 @@ What is returned if actually the base64 of the ciphered *flag*. See
 
 ### ueberstzer
 
-This binary find the translation of a given *bavarian word*. It first execute
+This binary finds the translation of a given *bavarian word*. It first executes
 ```
 openssl aes-256-cbc -d -in ../rw/info/Bayrisch.csv.enc -out temp_file -pass pass:Â§acf578?#*+-463-{{}av@wer637,,..
 ```
 where `temp_file` is randomly generated.
 
-Then it read the file, find the line where the first csv field matches the 
+Then it reads the file, finds the line where the first csv field matches the 
 word to translate and returns the second field which corresponds to the
 translation.
 
@@ -114,7 +114,7 @@ To get a flag, this 3 arguments are needed:
 
 #### Get flag
 
-The binary only execute the following command and return its output:
+The binary only executes the following command and returns its output:
 ```python
 "echo %s | openssl enc -d -aes-256-cbc -a -k %s" % (ciphered_flag, password)
 ```
@@ -128,7 +128,7 @@ randomly generated and the flag is encrypted with it:
 "echo %s | openssl enc -e -aes-256-cbc -a -k %s" % (flag, german_password)
 ```
 
-The two files which stores the data are finally modified.
+The two files which store the data are finally modified.
 * `rw/info/Fahrzeugnummern.csv` is appended with the new *car frame number* and
 its associated encrypted *flag*.
 * `rw/info/Bayrisch.csv.enc` is appended with the new translation. To do so, it
@@ -150,13 +150,13 @@ first characters.
 
 ## Vulnerabilities
 
-It's actually easier to find vulnerabilities than understanding how the service
-works to be able to exploit them.
+It's actually easier to find vulnerabilities than to understand how the service
+works to be able to exploit it.
 
 ### Format string
 
-The first vulnerability, is in translation mode. When asking for a translation,
-the output includes our word:
+The first vulnerability, is located in the translation mode. When asking for a
+translation, the output includes our word:
 ```
 Welches bayrische Wort moechten sie wissen?
 translate_me
@@ -194,7 +194,7 @@ if not "\"" in data:
 ```
 As double quotes doesn't escape shell special characters, it's possible to
 execute subcommands to get extra data. As the input of the translation binary
-is also printed, we can retrieve them.
+is also printed, we can retrieve it.
 
 ```
 Welches bayrische Wort moechten sie wissen?
@@ -277,7 +277,7 @@ plaintext version of `rw/info/Bayrisch.csv`.
 Actually, after being decrypted, the file is pushed on the stack by the
 previous loop. Each line of the file is separated with the string `\n4242`.
 Each character is push one after another which means each character is stored
-in a quad word and in reverse order if read with increasing memory addresses.
+in a quad word and in reverse order, if read with increasing memory addresses.
 We must then use `%c` to retrieve each character.
 
 ```
@@ -305,7 +305,7 @@ vulnerability.
 
 ### Automation
 
-The script [poc.py][poc] use the previous principle to retrieve a *flag*.
+The script [poc.py][poc] uses the previous principle to retrieve a *flag*.
 It first greps the file `rw/info/Fahrzeugnummern.csv` to retrieve all frame
 numbers which may match the corresponding part in the *flag_id*.
 ```python

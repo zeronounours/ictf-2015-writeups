@@ -10,7 +10,7 @@ and bash.
 
 As the service description indicates, christmas is coming and with it
 Santa Claus. With the Santa Machine, you can write a letter to Santa Claus in
-order for its elf team answer to your wish, but only if you've been nice.
+order for its elf team to answer to your wish, but only if you've been nice.
 
 The usage of this services is pretty simple:
 
@@ -99,7 +99,7 @@ Let's take a look at the treatment chain:
 * **santamachine** checks the sender of the letter with the username
 * **normalize.bash** normalizes spaces in the letter, removing doubles and
 removing spaces which precedes ponctuation.
-* **handle_letter.pl** manage letters treatment by followinf these rules:
+* **handle_letter.pl** manage letters treatment by following these rules:
   - If the sender is `Santa`:
     + The reveiver is retrieved from `Dear XXXX,` in the response
     + The present is retrieved from `I'd like a XXXX.` in the wish letter
@@ -135,7 +135,7 @@ wish = wish[:-1]
 
 The final `wish = wish[:-1]` is present to remove the last empty line we get
 after breaking the loop. But if we complete the loop without breaking (ie. 
-when reading 10 lines) it will only remove the trailing newline character 
+when reading 10 lines) it would only remove the trailing newline character 
 ('\n').
 
 This can be exploited in **normalize.bash** to remove the entire last line:
@@ -157,8 +157,8 @@ The last point we may take care of is the verification of the letter sender in
 username == letter.rstrip('\n').split('\n')[-1].lower
 ```
 
-This verification is only performed against the last line of the letter, whether or
-not it ends with newline.
+This verification is only performed against the last line of the letter,
+whether or not it ends with newline.
 
 Let's try to exploit this vulnerabilities with this letter:
 
@@ -352,8 +352,8 @@ We've successful got the (dummy) flag.
 ### Automated PoC
 
 A bash script, [poc.bash][poc], implements the same scenario to exploit
-locally this vulnerability. It both set a random flag and retrieve it using the
-flaws.
+locally this vulnerability. It both sets a random flag and retrieves it using
+the flaws.
 
 It's called locally as such:
 

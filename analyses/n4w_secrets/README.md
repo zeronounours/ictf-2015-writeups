@@ -4,16 +4,16 @@
 
 > Password-protected secret storage service for the web.
 
-This service is created by the team *Noobs4Win*. It's a Python CGI website used
-to store secrets for every registered users.
+This service was created by the team *Noobs4Win*. It's a Python CGI website
+used to store secrets of every registered users.
 
 It's a very simple website where you can sign up (and obviously sign in later)
-to then save a secret. A page allows to retrieve all saved secrets to a 
+and then save a secret. A page allows to retrieve all saved secrets of the
 logged in user.
 
 The different pages are accessible from `index.cgi` using the request parameter
-`action`. It can be among these 5 values `default`, `signin`, `signup`,
-`addsecret`, `logout`. They are pretty self-explaining, but if none is given,
+`action`. It can be among these 5 values: `default`, `signin`, `signup`,
+`addsecret`, `logout`. They are pretty self-explanatory, but if none is given,
 `default` is chosen.
 
 It uses a sqlite database to store the list of users, and their associated
@@ -32,14 +32,14 @@ Flag Description:
 
 
 When you register, you must provide a login, a password and your name. The
-later is thus the *flag_id*. However, the *set_flag* script use the same string
-for both the login and the name.
+later is thus the *flag_id*. However, the *set_flag* script uses the same
+string for both the login and the name.
 
 
 ## Vulnerabilities
 
-As the service is relying on a sqlite database, maybe a SQL injection present.
-But actually, all queries are prepared:
+As the service is relying on a sqlite database, maybe a SQL injection can be
+found. But actually, all queries are prepared:
 ```python
 self.__cursor.execute('SELECT * FROM users WHERE login=(?)', (login,))
 self.__cursor.execute('INSERT INTO users (name, login, password) VALUES (?, ?, ?)', (name, login, password))
@@ -54,10 +54,10 @@ Two of them directly pop up.
 
 This first one is located in the `Session` class in `cgiapp.py`. The class
 relies on the *Pickle* module of Python to store the user's session information
-inside the `session` cookie. *Pickle* is a well-known Python module use to
-serialize but which brings big security issues if its input can be controlled
-by the user (actually, it's possible for an attacker to execute any python
-code).
+inside the `session` cookie. *Pickle* is a well-known Python module used to
+serialize objects but which brings huge security issues if its input can be
+controlled by the user (actually, it's possible for an attacker to execute any
+Python code).
 
 ```python
 session = pickle.dumps(self.__sessionStorage)
@@ -89,7 +89,7 @@ self.__sessionStorage = pickle.loads(session)
 ```
 
 We can barely craft a fake session cookie without this salt. Let's track where
-this salt come from.
+this salt comes from.
 
 ```python
 class Session():
@@ -111,7 +111,7 @@ So the salt is hard-coded, and well known: `f72f460da5376c477543ae78533892b5`.
 ### Login and name mismatch
 
 The other issue which pops up immediatly is located in the SQL queries. To
-register a user, the script `user.py` first check if a user with the same
+register a user, the script `user.py` first checks if a user with the same
 `login` is registered. If not, the user is added to the database.
 
 ```python
@@ -130,7 +130,7 @@ if login and password and name:
 ```
 
 However, to retrieve the secrets, it fetches all secrets from the database
-where the `name` match the user's one.
+where the `name` matches the user's one.
 
 ```python
 self.__cursor.execute('SELECT * FROM secrets WHERE name=(?)', (self.__storage['name'],))
@@ -194,17 +194,17 @@ The response includes one very interesting thing at the end:
 <p class="content">FLGeH0dcR2MBfdEE</p>
 ```
 
-As a picture worth thousand words, here is the response in a browser:
+As a picture worths thousand words, here is the response in a browser:
 
 ![Page with a flag][flag_page]
 
 
 ### Automated PoC
 
-The script [poc_name.py][poc_name] use the same principle as previously to get
-the flag, so it won't be explained again.
+The script [poc_name.py][poc_name] uses the same principle as previously to get
+the flag, so it won't be explained once again.
 
-The script [poc_pickle.py][poc_pic], use the first vulnerability on weak
+The script [poc_pickle.py][poc_pic], uses the first vulnerability on weak
 crypto. We first craft a fake cookie, using the hard-coded salt, to impersonate
 the user of the *flag*. 
 

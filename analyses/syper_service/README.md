@@ -8,7 +8,7 @@ This services is provided by the team *SYPER* and is a website which provides
 a random photo to every authenticated users.
 
 The website is actually composed of 3 main pages. `index.php` which gives a
-user to possibility to authenticate, `secret.php` which shows the daily
+user the possibility to authenticate, `secret.php` which shows the daily
 picture to authenticated users and `register.php` to register your account.
 
 ### Flag
@@ -20,7 +20,7 @@ Flag Description:
 Flags are treated in a different page which isn't really linked to the rest of
 the pages. Everything is done in `registerFlag.php`.
 
-A ``POST`` request on this page with parameters `flag_id`, `password` and
+A `POST` request on this page with parameters `flag_id`, `password` and
 `flag_content` will register the flag if it doesn't exist.
 
 
@@ -42,7 +42,7 @@ somewhere else. In addition the SQL injection is very obvious:
 $query = "SELECT * from flags where flag_id='".$_POST['flag_id']."';";
 ```
 
-If a result is fetch from the database, a message is printed:
+If a result is fetched from the database, a message is printed:
 
 ```php
 if ($repeated){ echo '<h1>FAILED!</h1><BR><p> FLAG_ID: '.$row['flag_id'].' already registered<BR>';}
@@ -82,10 +82,10 @@ Here is the result with the flag in it:
 
 ### Automated PoC
 
-The script [poc.py][poc] retrieve the flag from a provided *ip*, *port* and
+The script [poc.py][poc] retrieves the flag from a provided *ip*, *port* and
 *flag_id*.
 
-On of the thing to take care of is having an non-empty `flag_content` sent to
+One of the thing to take care of is having an non-empty `flag_content` sent to
 the server. Otherwise, the request won't be treated.
 
 
