@@ -7,6 +7,7 @@ separated based on the type of service.
 
 * [N4w Secrets](n4w_secrets/README.md) (Python CGI scripts)
 * [Syper Service](syper_service/README.md)
+* [UCL Thor](ucl_thor/README.md)
 
 ## Python services
 
