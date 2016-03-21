@@ -5,8 +5,8 @@ separated based on the type of service.
 
 ## Web services
 
-* [Syper Service](syper_service/README.md)
 * [N4w Secrets](n4w_secrets/README.md) (Python CGI scripts)
+* [Syper Service](syper_service/README.md)
 
 ## Python services
 
@@ -17,4 +17,5 @@ stripped binaries)
 ## Binaries
 
 * [FHM Maintenance](FHM-Maintenance/README.md)
+* [Ropeman](ropeman/README.md) (stripped binary)
 * [Shakespeare](shakespeare/README.md) (sources included)

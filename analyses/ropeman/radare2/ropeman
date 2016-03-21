@@ -1,0 +1,2450 @@
+# r2 rdb project file
+# flags
+fs strings
+f str._n___________________________n___Time:____d_n___________________________n____TEXT_:__p_n___Global:__p_n___Stack:___p_n___Heap:____p_n___________________________n 153 0x0804aa28 
+f str._______________________________________________________________________________________________________________________________________________________________________________________________________________ 17 0x080507c1 
+f str.______________________________________________________________________________________________________________________________________________________________________________________________________________________________ 194 0x0804f5d8 
+f str.__________________________________________________________________________________________________________________________________________________________________________________________ 182 0x0804fa98 
+f str.__________________________________________________________________________________________________________________________________________________________________________________________________________________________________ 19 0x08050a6c 
+f str.____________________________________________________________________________________________________________________________________________________________________________________________________________ 55 0x08050388 
+f str._______________________________________________________________________________________________________________________________________________________________________ 24 0x08050a41 
+f str._________________________________________________________________________________________________________________________________________________________________________________ 19 0x08050919 
+f str.___________________________________________________________________________________________________________________________________________________________________________________________ 92 0x0805113c 
+f str.___________________________________________________________________________________________________________________________________________________________________________________ 20 0x08050a7f 
+f str._b___________________________________________ 93 0x08050dff 
+f str._____ 22 0x08050a14 
+f str._____________________________________________ 55 0x080503c0 
+f str.____________________________________________________ 21 0x08050953 
+f str._________________________ 26 0x08050ac7 
+f str.:_:___________________:_: 26 0x08050ae1 
+f str.._.___________________._. 26 0x08050afb 
+f str.__.___________________ 23 0x0805075a 
+f str.____________.._______ 22 0x08050744 
+f str.________________ 18 0x080507f6 
+f str.____________.___. 18 0x08050808 
+f str.___________._____. 19 0x0805092c 
+f str.___________Y_._._Y_ 20 0x0805093f 
+f str.______________.______ 22 0x08050968 
+f str.______________________ 23 0x0805097e 
+f str._______________.___. 21 0x08050995 
+f str.__________________._ 21 0x080509d6 
+f str.____________._____. 20 0x080509eb 
+f str.____________Y_._._Y_ 21 0x080509ff 
+f str._______________.______ 23 0x08050a2a 
+f str._____ROUND:________________________________________________________________________________ 92 0x08050eb8 
+f str._____The_number_of_letters_you_guessed:____________________________________________________ 92 0x08050f14 
+f str._____The_number_of_times_you_failed:_______________________________________________________ 92 0x08050f70 
+f str.______________A____B____C____D____E____F____G______________________________________________ 92 0x08050fcc 
+f str.______________H____I____J____K____L____M____N______________________________________________ 92 0x08051028 
+f str.______________O____P____Q_________R____S____T______________________________________________ 92 0x08051084 
+f str.______________U____V____W_________X____Y____Z______________________________________________ 92 0x080510e0 
+f str.animals 8 0x080512d8 
+f str.fruits 7 0x080512e0 
+f str.instruments 12 0x080512e7 
+f str.passwords 10 0x080512f3 
+f str.programming_languages 22 0x080512fd 
+f str.science 8 0x08051313 
+f str.sports 7 0x0805131b 
+f str.stack_exchange_sites 21 0x08051322 
+f str.C.__Create_new_user 20 0x0804cae6 
+f str.L.__Log_in_with_existing_account 33 0x0804cafc 
+f str.S.__Show_the_score 19 0x0804cb1d 
+f str.X.__Exit 9 0x0804cb30 
+f str.Hi___s___your_current_score_is___s__n 37 0x0804cb40 
+f str.Your_status:___s__n 19 0x0804cb65 
+f str.what_would_you_like_to_do_next_ 32 0x0804cb78 
+f str.C.__Choose_a_category_to_play 30 0x0804cb98 
+f str.S.__Show_the_scoreboard 24 0x0804cbb6 
+f str.M.__Modify_your_status 23 0x0804cbce 
+f str.Q.__Go_back_to_the_previous_menu 33 0x0804cbe8 
+f str.S.__Start_another_game_in_this_category 40 0x0804cc0c 
+f str.please_select_a_category: 26 0x0804cc34 
+f str._d.___s__n 10 0x0804cc4e 
+f str._____RANK___________________User_ID______________________SCORE_______ 70 0x0804cca0 
+f str.___7d______32s_t__16s_____n 26 0x0804cce6 
+f str.Welcome_to_our_carelessly_built_ROPEman_game_at_drunk_time. 60 0x0804cd8c 
+f str.Our_goal_is_to_provide_robust_software_as_strong_as_Flash 59 0x0804cdc8 
+f str.In_order_to_thank_you_for_your_support_on_our_alpha_testing 60 0x0804ce04 
+f str.Every_newly_registered_user_will_get_a__welcome_score_ 55 0x0804ce40 
+f str.Please_select_one_action: 26 0x0804ce77 
+f str.__s_ 5 0x0804ce98 
+f str.__d_ 5 0x0804ce9d 
+f str._s_s.txt 9 0x0804eec7 
+f str..._ro_wordlists_ 17 0x0804eed0 
+f str.Please_input_your_user_id_n: 30 0x0804eee3 
+f str.Please_input_your_password_n: 31 0x0804ef04 
+f str.Create_User_Error__Please_check_your_input_n: 47 0x0804ef24 
+f str.____OPENFILEWRONG____ 22 0x0805137e 
+f str.Wrong_User_ID__Please_check_your_input_n: 43 0x0804ef6c 
+f str.Please_enter_a_valid_command__C___L___S___X__n: 49 0x0804ef98 
+f str._bBe_creative_with_your_status__put_any_crap_you_want_here: 59 0x0804f0a3 
+f str._but_in_less_than_128_characters___n: 41 0x0804f0e0 
+f str.Please_enter_a_valid_command__S___Q___X__n: 45 0x0804f10c 
+f str._bPlease_enter_a_valid_command__C___S___Q___M___Z___n: 55 0x0804f1db 
+f str._bPlease_make_a_valid_selection_n: 35 0x0804f2eb 
+f str.Sorry_you_missed_it._The_word_is___s__n 39 0x0804f310 
+f str.Good_job__You_made_it__n 24 0x0804f337 
+f str._16ld 6 0x0804f34f 
+f str._s__s__s 9 0x08051364 
+f str._s_s 5 0x0805136d 
+f str..._rw_ 7 0x08051372 
+f str.new_file_fopen 15 0x08051399 
+f str.new_file_fputs 15 0x080513a8 
+f str.new_file_fclose 16 0x080513b7 
+f str.Error_:_Failed_to_open_input_directory____s_n 45 0x080513c8 
+fs symbols
+f main 153 0x08049fa2 
+f entry0 34 0x08048a30 
+fs relocs
+f reloc.__gmon_start___240 4 0x08052ff0 
+f reloc.setbuf_0 4 0x08053000 
+f reloc.strcmp_4 4 0x08053004 
+f reloc.printf_8 4 0x08053008 
+f reloc.strcspn_12 4 0x0805300c 
+f reloc.fflush_16 4 0x08053010 
+f reloc.free_20 4 0x08053014 
+f reloc.strdup_24 4 0x08053018 
+f reloc.memcpy_28 4 0x0805301c 
+f reloc.fgets_32 4 0x08053020 
+f reloc.fclose_36 4 0x08053024 
+f reloc.time_40 4 0x08053028 
+f reloc.err_44 4 0x0805302c 
+f reloc.malloc_48 4 0x08053030 
+f reloc.puts_52 4 0x08053034 
+f reloc.strerror_56 4 0x08053038 
+f reloc.__gmon_start___60 4 0x0805303c 
+f reloc.srand_64 4 0x08053040 
+f reloc.vprintf_68 4 0x08053044 
+f reloc.__libc_start_main_72 4 0x08053048 
+f reloc.fprintf_76 4 0x0805304c 
+f reloc.fopen_80 4 0x08053050 
+f reloc.memset_84 4 0x08053054 
+f reloc.putchar_88 4 0x08053058 
+f reloc.__errno_location_92 4 0x0805305c 
+f reloc.strncpy_96 4 0x08053060 
+f reloc.fgetc_100 4 0x08053064 
+f reloc.rand_104 4 0x08053068 
+f reloc.strtok_108 4 0x0805306c 
+f reloc.readdir_112 4 0x08053070 
+f reloc.sprintf_116 4 0x08053074 
+f reloc.qsort_120 4 0x08053078 
+f reloc.strtol_124 4 0x0805307c 
+f reloc.fputs_128 4 0x08053080 
+f reloc.closedir_132 4 0x08053084 
+f reloc.opendir_136 4 0x08053088 
+f reloc.calloc_140 4 0x0805308c 
+f reloc.rewinddir_144 4 0x08053090 
+fs symbols
+f obj.stdout 4 0x080530c0 
+f obj.stderr 4 0x080530a0 
+f obj._IO_stdin_used 4 0x0804aa24 
+f obj.stdin 4 0x080530a4 
+fs imports
+f sym.imp.setbuf 16 0x080487e0 
+f sym.imp.strcmp 16 0x080487f0 
+f sym.imp.printf 16 0x08048800 
+f sym.imp.strcspn 16 0x08048810 
+f sym.imp.fflush 16 0x08048820 
+f sym.imp.free 16 0x08048830 
+f sym.imp.strdup 16 0x08048840 
+f sym.imp.memcpy 16 0x08048850 
+f sym.imp.fgets 16 0x08048860 
+f sym.imp.fclose 16 0x08048870 
+f sym.imp.time 16 0x08048880 
+f sym.imp.err 16 0x08048890 
+f sym.imp.malloc 16 0x080488a0 
+f sym.imp.puts 16 0x080488b0 
+f sym.imp.strerror 16 0x080488c0 
+f loc.imp.__gmon_start__ 16 0x080488d0 
+f sym.imp.srand 16 0x080488e0 
+f sym.imp.vprintf 16 0x080488f0 
+f sym.imp.__libc_start_main 16 0x08048900 
+f sym.imp.fprintf 16 0x08048910 
+f sym.imp.fopen 16 0x08048920 
+f sym.imp.memset 16 0x08048930 
+f sym.imp.putchar 16 0x08048940 
+f sym.imp.__errno_location 16 0x08048950 
+f sym.imp.strncpy 16 0x08048960 
+f sym.imp.fgetc 16 0x08048970 
+f sym.imp.rand 16 0x08048980 
+f sym.imp.strtok 16 0x08048990 
+f sym.imp.readdir 16 0x080489a0 
+f sym.imp.sprintf 16 0x080489b0 
+f sym.imp.qsort 16 0x080489c0 
+f sym.imp.strtol 16 0x080489d0 
+f sym.imp.fputs 16 0x080489e0 
+f sym.imp.closedir 16 0x080489f0 
+f sym.imp.opendir 16 0x08048a00 
+f sym.imp.calloc 16 0x08048a10 
+f sym.imp.rewinddir 16 0x08048a20 
+fs sections
+f section..interp 19 0x08048154 
+f section_end..interp 0 0x08048167 
+f section..note.ABI_tag 32 0x08048168 
+f section_end..note.ABI_tag 0 0x08048188 
+f section..note.gnu.build_id 36 0x08048188 
+f section_end..note.gnu.build_id 0 0x080481ac 
+f section..gnu.hash 48 0x080481ac 
+f section_end..gnu.hash 0 0x080481dc 
+f section..dynsym 672 0x080481dc 
+f section_end..dynsym 0 0x0804847c 
+f section..dynstr 331 0x0804847c 
+f section_end..dynstr 0 0x080485c7 
+f section..gnu.version 84 0x080485c8 
+f section_end..gnu.version 0 0x0804861c 
+f section..gnu.version_r 48 0x0804861c 
+f section_end..gnu.version_r 0 0x0804864c 
+f section..rel.dyn 32 0x0804864c 
+f section_end..rel.dyn 0 0x0804866c 
+f section..rel.plt 296 0x0804866c 
+f section_end..rel.plt 0 0x08048794 
+f section..init 46 0x08048794 
+f section_end..init 0 0x080487c2 
+f section..plt 608 0x080487d0 
+f section_end..plt 0 0x08048a30 
+f section..text 8140 0x08048a30 
+f section_end..text 0 0x0804a9fc 
+f section..fini 26 0x0804a9fc 
+f section_end..fini 0 0x0804aa16 
+f section..rodata 27098 0x0804aa20 
+f section_end..rodata 0 0x080513fa 
+f section..eh_frame_hdr 308 0x080513fc 
+f section_end..eh_frame_hdr 0 0x08051530 
+f section..eh_frame 1364 0x08051530 
+f section_end..eh_frame 0 0x08051a84 
+f section..ctors 8 0x08052f14 
+f section_end..ctors 0 0x08052f1c 
+f section..dtors 8 0x08052f1c 
+f section_end..dtors 0 0x08052f24 
+f section..jcr 4 0x08052f24 
+f section_end..jcr 0 0x08052f28 
+f section..dynamic 200 0x08052f28 
+f section_end..dynamic 0 0x08052ff0 
+f section..got 4 0x08052ff0 
+f section_end..got 0 0x08052ff4 
+f section..got.plt 160 0x08052ff4 
+f section_end..got.plt 0 0x08053094 
+f section..data 12 0x08053094 
+f section_end..data 0 0x080530a0 
+f section..bss 35584 0x080530a0 
+f section_end..bss 0 0x0805bba0 
+f section..comment 42 0x00000000 
+f section_end..comment 0 0x0000002a 
+f section..shstrtab 236 0x00000000 
+f section_end..shstrtab 0 0x000000ec 
+f section.PHDR 288 0x08048034 
+f section_end.PHDR 0 0x08048154 
+f section.INTERP 19 0x08048154 
+f section_end.INTERP 0 0x08048167 
+f section.LOAD0 39556 0x08048000 
+f section_end.LOAD0 0 0x08051a84 
+f section.LOAD1 396 0x08052f14 
+f section_end.LOAD1 0 0x080530a0 
+f section.DYNAMIC 200 0x08052f28 
+f section_end.DYNAMIC 0 0x08052ff0 
+f section.NOTE 68 0x08048168 
+f section_end.NOTE 0 0x080481ac 
+f section.GNU_EH_FRAME 308 0x080513fc 
+f section_end.GNU_EH_FRAME 0 0x08051530 
+f section.GNU_STACK 0 0x00000000 
+f section_end.GNU_STACK 0 0x00000000 
+f section.GNU_RELRO 236 0x08052f14 
+f section_end.GNU_RELRO 0 0x08053000 
+f section.ehdr 42520 0x08048000 
+f section_end.ehdr 0 0x08048034 
+fs functions
+f fcn.print_caret_separator 33 0x08048e77 
+f fcn.print_long_separator_asterisk 33 0x08048e56 
+f fcn.print_options_menu_banner 88 0x08048be7 
+f fcn.print 71 0x08048b44 
+f fcn.print_user_menu 92 0x08048b8b 
+f fcn.read_credentials 264 0x08049678 
+f fcn.get_random_number 122 0x08049370 
+f fcn.print_replay_menu 85 0x08048cac 
+f fcn.print_options_menu 109 0x08048c3f 
+f fcn.get_random_word 151 0x0804952c 
+f fcn.user_menu 659 0x08049780 
+f fcn.0804a9c2 4 0x0804a9c2 
+f fcn.08048794 46 0x08048794 
+f fcn.08048ac0 35 0x08048ac0 
+f fcn.print_memory_info 94 0x08048ae4 
+f sub.strtol_557 93 0x0804a557 
+f fcn.0804a9c0 2 0x0804a9c0 
+f fcn.get_top_score 923 0x0804a5b4 
+f fcn.strip_character 74 0x080493ea 
+f fcn.read_string 89 0x080495c3 
+f fcn.read_char 92 0x0804961c 
+f fcn.write_user_file 251 0x0804a03c 
+f fcn.read_user_file 388 0x0804a137 
+f fcn.split_user_file_content 378 0x0804a3dd 
+f fcn.print_score_board 193 0x08048d95 
+f fcn.modify_user_file 290 0x0804a2bb 
+f fcn.change_status 279 0x08049a13 
+f fcn.print_category_choices 148 0x08048d01 
+f fcn.read_words 248 0x08049434 
+f fcn.print_playboard 1023 0x08048f70 
+f fcn.replay_menu 166 0x08049b2a 
+f fcn.print_banner 135 0x08048e98 
+f fcn.options_menu 129 0x08049bd0 
+f fcn.categories_menu 137 0x08049c51 
+f fcn.ropeman 712 0x08049cda 
+f fcn.0804a9d0 42 0x0804a9d0 
+f fcn.08048a60 85 0x08048a60 
+f sub.puts_f1f 81 0x08048f1f 
+f fcn.0804a950 97 0x0804a950 
+f fcn.0804a9b1 2 0x0804a9b1 
+fs *
+f str.long_separator_asterisk 1 0x0804cd00 
+fs *
+f str.caret_separator 1 0x0804cd5c 
+fs *
+f sym.user_username 1 0x080530e0 
+fs *
+f sym.user_password 1 0x08053101 
+fs *
+f str._d_ 3 0x0804eec4 
+fs *
+f sym.user_score 1 0x08053122 
+fs *
+f sym.user_status 1 0x08053133 
+fs *
+f str.wx_ 3 0x08051379 
+fs *
+f fcn.user_menu.next_loop 1 0x080499f8 
+fs *
+f str.r_ 2 0x0804eee1 
+fs *
+f sym.user_status_short 1 0x0805bb80 
+fs *
+f str.newline 1 0x08051394 
+fs *
+f str.._ 2 0x080513f5 
+fs *
+f str..._ 3 0x080513f7 
+fs *
+f str.scoreboard_separator 1 0x0804cc58 
+fs *
+f str.scoreboard_header 1 0x0804cca0 
+fs *
+f str.scoreboard_row 1 0x0804cce6 
+fs *
+f str.w__ 3 0x08051396 
+fs *
+f sym.categories_list 1 0x0804eea0 
+fs *
+f str.Please_make_a_valid_selection_:___ 34 0x0804f2ec 
+fs *
+f sym.words_list 1 0x080531c0 
+fs *
+f sym.category 1 0x0805309c 
+fs *
+f sym.number_words 1 0x080531b4 
+fs *
+f fcn.ropeman.next_letter 1 0x08049ed6 
+fs *
+f fcn.ropeman.next_letter_bis 1 0x08049ed7 
+fs *
+f fcn.ropeman.scan_word 1 0x08049ea2 
+fs *
+f fcn.ropeman.exit_guess_loop 1 0x08049ef6 
+# eval
+"e asm.arch = x86"
+"e asm.os = linux"
+"e asm.parser = x86.pseudo"
+# sections
+f section..interp 19 0x8048154
+S 0x00000154 0x08048154 0x00000013 0x00000013 .interp -r--
+f section..note.ABI_tag 32 0x8048168
+S 0x00000168 0x08048168 0x00000020 0x00000020 .note.ABI_tag -r--
+f section..note.gnu.build_id 36 0x8048188
+S 0x00000188 0x08048188 0x00000024 0x00000024 .note.gnu.build_id -r--
+f section..gnu.hash 48 0x80481ac
+S 0x000001ac 0x080481ac 0x00000030 0x00000030 .gnu.hash -r--
+f section..dynsym 672 0x80481dc
+S 0x000001dc 0x080481dc 0x000002a0 0x000002a0 .dynsym -r--
+f section..dynstr 331 0x804847c
+S 0x0000047c 0x0804847c 0x0000014b 0x0000014b .dynstr -r--
+f section..gnu.version 84 0x80485c8
+S 0x000005c8 0x080485c8 0x00000054 0x00000054 .gnu.version -r--
+f section..gnu.version_r 48 0x804861c
+S 0x0000061c 0x0804861c 0x00000030 0x00000030 .gnu.version_r -r--
+f section..rel.dyn 32 0x804864c
+S 0x0000064c 0x0804864c 0x00000020 0x00000020 .rel.dyn -r--
+f section..rel.plt 296 0x804866c
+S 0x0000066c 0x0804866c 0x00000128 0x00000128 .rel.plt -r--
+f section..init 46 0x8048794
+S 0x00000794 0x08048794 0x0000002e 0x0000002e .init -r-x
+f section..plt 608 0x80487d0
+S 0x000007d0 0x080487d0 0x00000260 0x00000260 .plt -r-x
+f section..text 8140 0x8048a30
+S 0x00000a30 0x08048a30 0x00001fcc 0x00001fcc .text -r-x
+f section..fini 26 0x804a9fc
+S 0x000029fc 0x0804a9fc 0x0000001a 0x0000001a .fini -r-x
+f section..rodata 27098 0x804aa20
+S 0x00002a20 0x0804aa20 0x000069da 0x000069da .rodata -r--
+f section..eh_frame_hdr 308 0x80513fc
+S 0x000093fc 0x080513fc 0x00000134 0x00000134 .eh_frame_hdr -r--
+f section..eh_frame 1364 0x8051530
+S 0x00009530 0x08051530 0x00000554 0x00000554 .eh_frame -r--
+f section..ctors 8 0x8052f14
+S 0x00009f14 0x08052f14 0x00000008 0x00000008 .ctors -rw-
+f section..dtors 8 0x8052f1c
+S 0x00009f1c 0x08052f1c 0x00000008 0x00000008 .dtors -rw-
+f section..jcr 4 0x8052f24
+S 0x00009f24 0x08052f24 0x00000004 0x00000004 .jcr -rw-
+f section..dynamic 200 0x8052f28
+S 0x00009f28 0x08052f28 0x000000c8 0x000000c8 .dynamic -rw-
+f section..got 4 0x8052ff0
+S 0x00009ff0 0x08052ff0 0x00000004 0x00000004 .got -rw-
+f section..got.plt 160 0x8052ff4
+S 0x00009ff4 0x08052ff4 0x000000a0 0x000000a0 .got.plt -rw-
+f section..data 12 0x8053094
+S 0x0000a094 0x08053094 0x0000000c 0x0000000c .data -rw-
+f section..bss 35584 0x80530a0
+S 0x0000a0a0 0x080530a0 0x00008b00 0x00008b00 .bss -rw-
+f section..comment 42 0x0
+S 0x0000a0a0 0x00000000 0x0000002a 0x0000002a .comment ----
+f section..shstrtab 236 0x0
+S 0x0000a0ca 0x00000000 0x000000ec 0x000000ec .shstrtab ----
+f section.LOAD0 39556 0x8048000
+S 0x00000000 0x08048000 0x00009a84 0x00009a84 LOAD0 mr-x
+f section.LOAD1 396 0x8052f14
+S 0x00009f14 0x08052f14 0x0000018c 0x00008c8c LOAD1 mrw-
+f section.ehdr 42520 0x8048000
+S 0x00000000 0x08048000 0x0000a618 0x0000a618 ehdr -rwx
+# meta
+Cs 153 @ 0x0804aa28 # _n___________________________n___Time:____d_n___________________________n____TEXT_:__p_n___Global:__p_n___Stack:___p_n___Heap:____p_n___________________________n
+Cs 212 @ 0x0804aae0 # _x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_7_____x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_7_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_7_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_7_______x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_7__x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_7__x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_7____x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_7_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_7___x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_7__x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_7
+Cs 226 @ 0x0804abb4 # _x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_1_____x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_4_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x___x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_1______x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_4_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x___x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_4_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_7_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_7__x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_4_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x_____x.2_x_5_x_:_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_4_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x___x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_4_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_7
+Cs 190 @ 0x0804ac98 # _x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_1__x.2_x_6_x_1_x.2_x_5_x_7__x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_7___x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_1______x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_1______x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_1____x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_4_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_4_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_7________x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_1____x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_1____x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_1
+Cs 194 @ 0x0804ad58 # _x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_7_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_4_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x_____x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_1______x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_1______x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_1____x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_1_x.2_x_5_x_:_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_4_x.2_x_5_x___x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_4_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x__________x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_1____x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_1____x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_1
+Cs 230 @ 0x0804ae1c # _x.2_x_5_x_:_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_4_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_4_x.2_x_5_x___x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_7_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_7_x.2_x_5_x_:_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_7_x.2_x_5_x_:_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_4_x.2_x_5_x___x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_1__x.2_x_5_x_:_x.2_x_5_x_0_x.2_x_5_x____x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_7______x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_1____x.2_x_5_x_:_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_4_x.2_x_5_x__
+Cs 210 @ 0x0804af04 # _x.2_x_5_x_:_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x___x.2_x_5_x_:_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x____x.2_x_5_x_:_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x___x.2_x_5_x_:_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x____x.2_x_5_x_:_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x____x.2_x_5_x_:_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x____x.2_x_5_x_:_x.2_x_5_x_0_x.2_x_5_x________x.2_x_5_x_:_x.2_x_5_x_0_x.2_x_5_x___x.2_x_5_x_:_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x________x.2_x_5_x_:_x.2_x_5_x_0_x.2_x_5_x_______x.2_x_5_x_:_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x__
+Cs 190 @ 0x0804afd8 # _x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_7_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_7___x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_7_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_7____x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_7___x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_7__x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_7____x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_7_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_7
+Cs 200 @ 0x0804b098 # _x.2_x_5_x_:_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_4_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x___x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_1___x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_4_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x_____x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_4_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x____x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_4_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_7_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_7__x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_4_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x__
+Cs 184 @ 0x0804b160 # _x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_1____x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_7_____x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_1___x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_7_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_4_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_4_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_7
+Cs 182 @ 0x0804b218 # _x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_1____x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_4_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_4_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x_______x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_1____x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_4_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_1_x.2_x_5_x_:_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_4_x.2_x_5_x___x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_4_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x__
+Cs 202 @ 0x0804b2d0 # _x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_1____x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_1___x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_7___x.2_x_5_x_:_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_4_x.2_x_5_x___x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_1___x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_1__x.2_x_5_x_:_x.2_x_5_x_0_x.2_x_5_x____x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_7___x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_7_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_7_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_7
+Cs 194 @ 0x0804b39c # _x.2_x_5_x_:_x.2_x_5_x_0_x.2_x_5_x______x.2_x_5_x_:_x.2_x_5_x_0_x.2_x_5_x_____x.2_x_5_x_:_x.2_x_5_x_0_x.2_x_5_x___x.2_x_5_x_:_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x______x.2_x_5_x_:_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x____x.2_x_5_x_:_x.2_x_5_x_0_x.2_x_5_x___x.2_x_6_x_4__x.2_x_5_x_:_x.2_x_5_x_0_x.2_x_5_x___x.2_x_5_x_:_x.2_x_5_x_0_x.2_x_5_x________x.2_x_5_x_:_x.2_x_5_x_0_x.2_x_5_x___x.2_x_5_x_:_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x_____x.2_x_5_x_:_x.2_x_5_x_0_x.2_x_5_x___x.2_x_5_x_:_x.2_x_5_x_0_x.2_x_5_x___x.2_x_5_x_:_x.2_x_5_x_0_x.2_x_5_x__
+Cs 192 @ 0x0804b460 # _x.2_x_6_x_8_x.2_x_6_x_8_x.2_x_6_x_8_x.2_x_6_x_8_x.2_x_6_x_8_x.2_x_6_x_8_x.2_x_5_x_7___x.2_x_6_x_8_x.2_x_6_x_8_x.2_x_6_x_8_x.2_x_6_x_8_x.2_x_6_x_8_x.2_x_6_x_8_x.2_x_5_x_7__x.2_x_6_x_8_x.2_x_6_x_8_x.2_x_6_x_8_x.2_x_6_x_8_x.2_x_6_x_8_x.2_x_6_x_8_x.2_x_5_x_7__x.2_x_6_x_8_x.2_x_6_x_8_x.2_x_6_x_8_x.2_x_6_x_8_x.2_x_6_x_8_x.2_x_6_x_8_x.2_x_6_x_8_x.2_x_5_x_7__x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_7____x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_7__x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_7__x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_7____x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_7____x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_7
+Cs 210 @ 0x0804b520 # _x.2_x_6_x_8_x.2_x_6_x_8_x.2_x_5_x_4_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_6_x_8_x.2_x_6_x_8_x.2_x_5_x_7_x.2_x_6_x_8_x.2_x_6_x_8_x.2_x_5_x_4_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_6_x_8_x.2_x_6_x_8_x.2_x_5_x_7_x.2_x_6_x_8_x.2_x_6_x_8_x.2_x_5_x_4_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_6_x_8_x.2_x_6_x_8_x.2_x_5_x_7_x.2_x_6_x_8_x.2_x_6_x_8_x.2_x_5_x_4_x.2_x_5_x_0_x.2_x_6_x_8_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x____x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_7__x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_4_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_7_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_7___x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_1____x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_1
+Cs 204 @ 0x0804b5f4 # _x.2_x_6_x_8_x.2_x_6_x_8_x.2_x_6_x_8_x.2_x_6_x_8_x.2_x_6_x_8_x.2_x_6_x_8_x.2_x_5_x_4_x.2_x_5_x___x.2_x_6_x_8_x.2_x_6_x_8_x.2_x_5_x_1____x.2_x_6_x_8_x.2_x_6_x_8_x.2_x_5_x_1_x.2_x_6_x_8_x.2_x_6_x_8_x.2_x_6_x_8_x.2_x_6_x_8_x.2_x_6_x_8_x.2_x_6_x_8_x.2_x_5_x_4_x.2_x_5_x___x.2_x_6_x_8_x.2_x_6_x_8_x.2_x_6_x_8_x.2_x_6_x_8_x.2_x_6_x_8_x.2_x_5_x_7____x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_4_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_4_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_4_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_7__x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_1____x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_1
+Cs 204 @ 0x0804b6c0 # _x.2_x_6_x_8_x.2_x_6_x_8_x.2_x_5_x_4_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_6_x_8_x.2_x_6_x_8_x.2_x_5_x_7_x.2_x_6_x_8_x.2_x_6_x_8_x.2_x_5_x_1____x.2_x_6_x_8_x.2_x_6_x_8_x.2_x_5_x_1_x.2_x_6_x_8_x.2_x_6_x_8_x.2_x_5_x_4_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x____x.2_x_6_x_8_x.2_x_6_x_8_x.2_x_5_x_4_x.2_x_6_x_8_x.2_x_5_x_0_x.2_x_5_x______x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_1_x.2_x_5_x_:_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_4_x.2_x_5_x___x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_4_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_1_x.2_x_5_x_:_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_7_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_1____x.2_x_5_x_:_x.2_x_5_x_0_x.2_x_5_x__
+Cs 192 @ 0x0804b78c # _x.2_x_6_x_8_x.2_x_6_x_8_x.2_x_5_x_1___x.2_x_6_x_8_x.2_x_6_x_8_x.2_x_5_x_1_x.2_x_5_x_:_x.2_x_6_x_8_x.2_x_6_x_8_x.2_x_6_x_8_x.2_x_6_x_8_x.2_x_6_x_8_x.2_x_6_x_8_x.2_x_5_x_4_x.2_x_5_x___x.2_x_6_x_8_x.2_x_6_x_8_x.2_x_5_x_1______x.2_x_6_x_8_x.2_x_6_x_8_x.2_x_6_x_8_x.2_x_6_x_8_x.2_x_6_x_8_x.2_x_6_x_8_x.2_x_6_x_8_x.2_x_5_x_7__x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_1__x.2_x_5_x_:_x.2_x_5_x_0_x.2_x_5_x____x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_1___x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_1__x.2_x_5_x_:_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_1____x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_7
+Cs 180 @ 0x0804b84c # _x.2_x_5_x_:_x.2_x_5_x_0_x.2_x_5_x_____x.2_x_5_x_:_x.2_x_5_x_0_x.2_x_5_x____x.2_x_5_x_:_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x____x.2_x_5_x_:_x.2_x_5_x_0_x.2_x_5_x________x.2_x_5_x_:_x.2_x_5_x_0_x.2_x_6_x_8_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x____x.2_x_5_x_:_x.2_x_5_x_0_x.2_x_5_x________x.2_x_5_x_:_x.2_x_5_x_0_x.2_x_5_x___x.2_x_5_x_:_x.2_x_5_x_0_x.2_x_5_x_____x.2_x_5_x_:_x.2_x_5_x_0_x.2_x_5_x___x.2_x_5_x_:_x.2_x_5_x_0_x.2_x_5_x_____x.2_x_5_x_:_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x______x.2_x_5_x_:_x.2_x_5_x_0_x.2_x_5_x__
+Cs 56 @ 0x0804b947 # _b___________________________________________
+Cs 55 @ 0x0804b980 # ____________________________________________
+Cs 55 @ 0x0804b9b8 # _________________________________________________
+Cs 55 @ 0x0804b9f0 # ________________________________________________________
+Cs 55 @ 0x0804ba28 # _____________________________________________________
+Cs 55 @ 0x0804ba60 # _________________________________________________________
+Cs 55 @ 0x0804ba98 # _____
+Cs 55 @ 0x0804bad0 # _______
+Cs 55 @ 0x0804bb08 # ____________________________________________
+Cs 55 @ 0x0804bb40 # _________________________________________________
+Cs 55 @ 0x0804bb78 # ____________________________________________________
+Cs 55 @ 0x0804bbb0 # _________________________________________________________
+Cs 55 @ 0x0804bbe8 # _________________________________________________
+Cs 55 @ 0x0804bc20 # ___________________________________________________
+Cs 55 @ 0x0804bc58 # ___________________________________________________
+Cs 55 @ 0x0804bc90 # ______________________________________________________
+Cs 55 @ 0x0804bcc8 # ___________________________________________________
+Cs 55 @ 0x0804bd00 # _______________________________________________________
+Cs 55 @ 0x0804bd38 # _____
+Cs 55 @ 0x0804bd70 # _____
+Cs 26 @ 0x0804be11 # _________________________________________________
+Cs 26 @ 0x0804be2b # ______________________________________________
+Cs 26 @ 0x0804be45 # _________________________
+Cs 26 @ 0x0804be5f # :_:___________________:_:
+Cs 26 @ 0x0804be79 # ._.___________________._.
+Cs 22 @ 0x0804be93 # _____________________
+Cs 23 @ 0x0804bea9 # __.___________________
+Cs 22 @ 0x0804bec4 # ____________.._______
+Cs 23 @ 0x0804beda # __.___________________
+Cs 16 @ 0x0804bef1 # _______________
+Cs 16 @ 0x0804bf01 # _______________
+Cs 16 @ 0x0804bf11 # _______________
+Cs 16 @ 0x0804bf21 # _______________
+Cs 16 @ 0x0804bf31 # _______________
+Cs 17 @ 0x0804bf41 # _________________
+Cs 18 @ 0x0804bf52 # __________________
+Cs 18 @ 0x0804bf64 # ___________________
+Cs 18 @ 0x0804bf76 # __________________
+Cs 18 @ 0x0804bf88 # ____________.___.
+Cs 19 @ 0x0804bf9a # ___________________
+Cs 19 @ 0x0804bfad # __________________
+Cs 19 @ 0x0804bfc0 # __________________
+Cs 19 @ 0x0804bfd3 # ___________._____.
+Cs 20 @ 0x0804bfe6 # ___________Y_._._Y__
+Cs 21 @ 0x0804bffa # ______________________
+Cs 22 @ 0x0804c00f # ______________.________
+Cs 23 @ 0x0804c025 # ______________________
+Cs 18 @ 0x0804c03c # _________________
+Cs 18 @ 0x0804c04e # _________________
+Cs 19 @ 0x0804c060 # ___________________
+Cs 19 @ 0x0804c073 # ___________________
+Cs 19 @ 0x0804c086 # ____________________
+Cs 19 @ 0x0804c099 # ____________________
+Cs 19 @ 0x0804c0ac # ____________._____.
+Cs 20 @ 0x0804c0bf # ___________Y_._._Y__
+Cs 21 @ 0x0804c0d3 # ______________________
+Cs 22 @ 0x0804c0e8 # ______________.________
+Cs 23 @ 0x0804c0fe # ______________________
+Cs 21 @ 0x0804c115 # _______________.___.
+Cs 22 @ 0x0804c12a # ______________________
+Cs 22 @ 0x0804c140 # _____________________
+Cs 21 @ 0x0804c156 # ____________________._
+Cs 20 @ 0x0804c16b # ____________._____.
+Cs 21 @ 0x0804c17f # ____________Y_._._Y__
+Cs 22 @ 0x0804c194 # _______________________
+Cs 23 @ 0x0804c1aa # _______________.________
+Cs 24 @ 0x0804c1c1 # _______________________
+Cs 19 @ 0x0804c1d9 # __________________
+Cs 19 @ 0x0804c1ec # __________________
+Cs 20 @ 0x0804c1ff # ____________________
+Cs 26 @ 0x0804c213 # ______________________________________
+Cs 26 @ 0x0804c22d # _____________________________________
+Cs 26 @ 0x0804c247 # ___________________________
+Cs 26 @ 0x0804c261 # :_:_____________________:_:
+Cs 26 @ 0x0804c27b # ._.___________________._.
+Cs 93 @ 0x0804c57f # _b___________________________________________________________________________________________
+Cs 92 @ 0x0804c5dc # ___________________________________________________________________________________________
+Cs 92 @ 0x0804c638 # _____ROUND:________________________________________________________________________________
+Cs 92 @ 0x0804c694 # _____The_number_of_letters_you_guessed:____________________________________________________
+Cs 92 @ 0x0804c6f0 # _____The_number_of_times_you_failed:_______________________________________________________
+Cs 92 @ 0x0804c74c # ______________A____B____C____D____E____F____G______________________________________________
+Cs 92 @ 0x0804c7a8 # ______________H____I____J____K____L____M____N______________________________________________
+Cs 92 @ 0x0804c804 # ______________O____P____Q_________R____S____T______________________________________________
+Cs 92 @ 0x0804c860 # ______________U____V____W_________X____Y____Z______________________________________________
+Cs 92 @ 0x0804c8bc # ___________________________________________________________________________________________
+Cs 8 @ 0x0804ca58 # animals
+Cs 7 @ 0x0804ca60 # fruits
+Cs 12 @ 0x0804ca67 # instruments
+Cs 10 @ 0x0804ca73 # passwords
+Cs 22 @ 0x0804ca7d # programming_languages
+Cs 8 @ 0x0804ca93 # science
+Cs 7 @ 0x0804ca9b # sports
+Cs 21 @ 0x0804caa2 # stack_exchange_sites
+Cs 20 @ 0x0804cae6 # C.__Create_new_user
+Cs 33 @ 0x0804cafc # L.__Log_in_with_existing_account
+Cs 19 @ 0x0804cb1d # S.__Show_the_score
+Cs 9 @ 0x0804cb30 # X.__Exit
+Cs 37 @ 0x0804cb40 # Hi___s___your_current_score_is___s__n
+Cs 19 @ 0x0804cb65 # Your_status:___s__n
+Cs 32 @ 0x0804cb78 # what_would_you_like_to_do_next_
+Cs 30 @ 0x0804cb98 # C.__Choose_a_category_to_play
+Cs 24 @ 0x0804cbb6 # S.__Show_the_scoreboard
+Cs 23 @ 0x0804cbce # M.__Modify_your_status
+Cs 33 @ 0x0804cbe8 # Q.__Go_back_to_the_previous_menu
+Cs 40 @ 0x0804cc0c # S.__Start_another_game_in_this_category
+Cs 26 @ 0x0804cc34 # please_select_a_category:
+Cs 10 @ 0x0804cc4e # _d.___s__n
+Cs 70 @ 0x0804cc58 # _____________________________________________________________________
+Cs 70 @ 0x0804cca0 # _____RANK___________________User_ID______________________SCORE_______
+Cs 26 @ 0x0804cce6 # ___7d______32s_t__16s_____n
+Cs 91 @ 0x0804cd00 # __________________________________________________________________________________________
+Cs 46 @ 0x0804cd5c # _____________________________________________
+Cs 60 @ 0x0804cd8c # Welcome_to_our_carelessly_built_ROPEman_game_at_drunk_time.
+Cs 59 @ 0x0804cdc8 # Our_goal_is_to_provide_robust_software_as_strong_as_Flash
+Cs 60 @ 0x0804ce04 # In_order_to_thank_you_for_your_support_on_our_alpha_testing
+Cs 55 @ 0x0804ce40 # Every_newly_registered_user_will_get_a___welcome_score__
+Cs 26 @ 0x0804ce77 # Please_select_one_action:
+Cs 5 @ 0x0804ce98 # __s_
+Cs 5 @ 0x0804ce9d # __d_
+Cs 212 @ 0x0804cec0 # _x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_7_____x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_7_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_7_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_7_______x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_7__x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_7__x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_7____x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_7_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_7___x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_7__x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_7
+Cs 226 @ 0x0804cf94 # _x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_1_____x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_4_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x___x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_1______x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_4_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x___x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_4_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_7_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_7__x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_4_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x_____x.2_x_5_x_:_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_4_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x___x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_4_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_7
+Cs 190 @ 0x0804d078 # _x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_1__x.2_x_6_x_1_x.2_x_5_x_7__x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_7___x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_1______x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_1______x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_1____x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_4_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_4_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_7________x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_1____x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_1____x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_1
+Cs 194 @ 0x0804d138 # _x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_7_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_4_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x_____x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_1______x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_1______x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_1____x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_1_x.2_x_5_x_:_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_4_x.2_x_5_x___x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_4_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x__________x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_1____x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_1____x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_1
+Cs 230 @ 0x0804d1fc # _x.2_x_5_x_:_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_4_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_4_x.2_x_5_x___x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_7_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_7_x.2_x_5_x_:_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_7_x.2_x_5_x_:_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_4_x.2_x_5_x___x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_1__x.2_x_5_x_:_x.2_x_5_x_0_x.2_x_5_x____x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_7______x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_1____x.2_x_5_x_:_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_4_x.2_x_5_x__
+Cs 210 @ 0x0804d2e4 # _x.2_x_5_x_:_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x___x.2_x_5_x_:_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x____x.2_x_5_x_:_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x___x.2_x_5_x_:_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x____x.2_x_5_x_:_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x____x.2_x_5_x_:_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x____x.2_x_5_x_:_x.2_x_5_x_0_x.2_x_5_x________x.2_x_5_x_:_x.2_x_5_x_0_x.2_x_5_x___x.2_x_5_x_:_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x________x.2_x_5_x_:_x.2_x_5_x_0_x.2_x_5_x_______x.2_x_5_x_:_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x__
+Cs 190 @ 0x0804d3b8 # _x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_7_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_7___x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_7_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_7____x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_7___x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_7__x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_7____x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_7_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_7
+Cs 200 @ 0x0804d478 # _x.2_x_5_x_:_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_4_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x___x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_1___x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_4_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x_____x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_4_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x____x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_4_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_7_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_7__x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_4_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x__
+Cs 184 @ 0x0804d540 # _x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_1____x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_7_____x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_1___x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_7_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_4_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_4_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_7
+Cs 182 @ 0x0804d5f8 # _x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_1____x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_4_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_4_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x_______x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_1____x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_4_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_1_x.2_x_5_x_:_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_4_x.2_x_5_x___x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_4_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x__
+Cs 202 @ 0x0804d6b0 # _x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_1____x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_1___x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_7___x.2_x_5_x_:_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_4_x.2_x_5_x___x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_1___x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_1__x.2_x_5_x_:_x.2_x_5_x_0_x.2_x_5_x____x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_7___x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_7_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_7_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_7
+Cs 194 @ 0x0804d77c # _x.2_x_5_x_:_x.2_x_5_x_0_x.2_x_5_x______x.2_x_5_x_:_x.2_x_5_x_0_x.2_x_5_x_____x.2_x_5_x_:_x.2_x_5_x_0_x.2_x_5_x___x.2_x_5_x_:_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x______x.2_x_5_x_:_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x____x.2_x_5_x_:_x.2_x_5_x_0_x.2_x_5_x___x.2_x_6_x_4__x.2_x_5_x_:_x.2_x_5_x_0_x.2_x_5_x___x.2_x_5_x_:_x.2_x_5_x_0_x.2_x_5_x________x.2_x_5_x_:_x.2_x_5_x_0_x.2_x_5_x___x.2_x_5_x_:_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x_____x.2_x_5_x_:_x.2_x_5_x_0_x.2_x_5_x___x.2_x_5_x_:_x.2_x_5_x_0_x.2_x_5_x___x.2_x_5_x_:_x.2_x_5_x_0_x.2_x_5_x__
+Cs 192 @ 0x0804d840 # _x.2_x_6_x_8_x.2_x_6_x_8_x.2_x_6_x_8_x.2_x_6_x_8_x.2_x_6_x_8_x.2_x_6_x_8_x.2_x_5_x_7___x.2_x_6_x_8_x.2_x_6_x_8_x.2_x_6_x_8_x.2_x_6_x_8_x.2_x_6_x_8_x.2_x_6_x_8_x.2_x_5_x_7__x.2_x_6_x_8_x.2_x_6_x_8_x.2_x_6_x_8_x.2_x_6_x_8_x.2_x_6_x_8_x.2_x_6_x_8_x.2_x_5_x_7__x.2_x_6_x_8_x.2_x_6_x_8_x.2_x_6_x_8_x.2_x_6_x_8_x.2_x_6_x_8_x.2_x_6_x_8_x.2_x_6_x_8_x.2_x_5_x_7__x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_7____x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_7__x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_7__x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_7____x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_7____x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_7
+Cs 210 @ 0x0804d900 # _x.2_x_6_x_8_x.2_x_6_x_8_x.2_x_5_x_4_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_6_x_8_x.2_x_6_x_8_x.2_x_5_x_7_x.2_x_6_x_8_x.2_x_6_x_8_x.2_x_5_x_4_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_6_x_8_x.2_x_6_x_8_x.2_x_5_x_7_x.2_x_6_x_8_x.2_x_6_x_8_x.2_x_5_x_4_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_6_x_8_x.2_x_6_x_8_x.2_x_5_x_7_x.2_x_6_x_8_x.2_x_6_x_8_x.2_x_5_x_4_x.2_x_5_x_0_x.2_x_6_x_8_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x____x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_7__x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_4_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_7_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_7___x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_1____x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_1
+Cs 204 @ 0x0804d9d4 # _x.2_x_6_x_8_x.2_x_6_x_8_x.2_x_6_x_8_x.2_x_6_x_8_x.2_x_6_x_8_x.2_x_6_x_8_x.2_x_5_x_4_x.2_x_5_x___x.2_x_6_x_8_x.2_x_6_x_8_x.2_x_5_x_1____x.2_x_6_x_8_x.2_x_6_x_8_x.2_x_5_x_1_x.2_x_6_x_8_x.2_x_6_x_8_x.2_x_6_x_8_x.2_x_6_x_8_x.2_x_6_x_8_x.2_x_6_x_8_x.2_x_5_x_4_x.2_x_5_x___x.2_x_6_x_8_x.2_x_6_x_8_x.2_x_6_x_8_x.2_x_6_x_8_x.2_x_6_x_8_x.2_x_5_x_7____x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_4_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_4_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_4_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_7__x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_1____x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_1
+Cs 204 @ 0x0804daa0 # _x.2_x_6_x_8_x.2_x_6_x_8_x.2_x_5_x_4_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_6_x_8_x.2_x_6_x_8_x.2_x_5_x_7_x.2_x_6_x_8_x.2_x_6_x_8_x.2_x_5_x_1____x.2_x_6_x_8_x.2_x_6_x_8_x.2_x_5_x_1_x.2_x_6_x_8_x.2_x_6_x_8_x.2_x_5_x_4_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x____x.2_x_6_x_8_x.2_x_6_x_8_x.2_x_5_x_4_x.2_x_6_x_8_x.2_x_5_x_0_x.2_x_5_x______x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_1_x.2_x_5_x_:_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_4_x.2_x_5_x___x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_4_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_1_x.2_x_5_x_:_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_7_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_1____x.2_x_5_x_:_x.2_x_5_x_0_x.2_x_5_x__
+Cs 192 @ 0x0804db6c # _x.2_x_6_x_8_x.2_x_6_x_8_x.2_x_5_x_1___x.2_x_6_x_8_x.2_x_6_x_8_x.2_x_5_x_1_x.2_x_5_x_:_x.2_x_6_x_8_x.2_x_6_x_8_x.2_x_6_x_8_x.2_x_6_x_8_x.2_x_6_x_8_x.2_x_6_x_8_x.2_x_5_x_4_x.2_x_5_x___x.2_x_6_x_8_x.2_x_6_x_8_x.2_x_5_x_1______x.2_x_6_x_8_x.2_x_6_x_8_x.2_x_6_x_8_x.2_x_6_x_8_x.2_x_6_x_8_x.2_x_6_x_8_x.2_x_6_x_8_x.2_x_5_x_7__x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_1__x.2_x_5_x_:_x.2_x_5_x_0_x.2_x_5_x____x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_1___x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_1__x.2_x_5_x_:_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_1____x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_7
+Cs 180 @ 0x0804dc2c # _x.2_x_5_x_:_x.2_x_5_x_0_x.2_x_5_x_____x.2_x_5_x_:_x.2_x_5_x_0_x.2_x_5_x____x.2_x_5_x_:_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x____x.2_x_5_x_:_x.2_x_5_x_0_x.2_x_5_x________x.2_x_5_x_:_x.2_x_5_x_0_x.2_x_6_x_8_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x____x.2_x_5_x_:_x.2_x_5_x_0_x.2_x_5_x________x.2_x_5_x_:_x.2_x_5_x_0_x.2_x_5_x___x.2_x_5_x_:_x.2_x_5_x_0_x.2_x_5_x_____x.2_x_5_x_:_x.2_x_5_x_0_x.2_x_5_x___x.2_x_5_x_:_x.2_x_5_x_0_x.2_x_5_x_____x.2_x_5_x_:_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x______x.2_x_5_x_:_x.2_x_5_x_0_x.2_x_5_x__
+Cs 56 @ 0x0804dd27 # _b___________________________________________
+Cs 55 @ 0x0804dd60 # ____________________________________________
+Cs 55 @ 0x0804dd98 # _________________________________________________
+Cs 55 @ 0x0804ddd0 # ________________________________________________________
+Cs 55 @ 0x0804de08 # _____________________________________________________
+Cs 55 @ 0x0804de40 # _________________________________________________________
+Cs 55 @ 0x0804de78 # _____
+Cs 55 @ 0x0804deb0 # _______
+Cs 55 @ 0x0804dee8 # ____________________________________________
+Cs 55 @ 0x0804df20 # _________________________________________________
+Cs 55 @ 0x0804df58 # ____________________________________________________
+Cs 55 @ 0x0804df90 # _________________________________________________________
+Cs 55 @ 0x0804dfc8 # _________________________________________________
+Cs 55 @ 0x0804e000 # ___________________________________________________
+Cs 55 @ 0x0804e038 # ___________________________________________________
+Cs 55 @ 0x0804e070 # ______________________________________________________
+Cs 55 @ 0x0804e0a8 # ___________________________________________________
+Cs 55 @ 0x0804e0e0 # _______________________________________________________
+Cs 55 @ 0x0804e118 # _____
+Cs 55 @ 0x0804e150 # _____
+Cs 26 @ 0x0804e1f1 # _________________________________________________
+Cs 26 @ 0x0804e20b # ______________________________________________
+Cs 26 @ 0x0804e225 # _________________________
+Cs 26 @ 0x0804e23f # :_:___________________:_:
+Cs 26 @ 0x0804e259 # ._.___________________._.
+Cs 22 @ 0x0804e273 # _____________________
+Cs 23 @ 0x0804e289 # __.___________________
+Cs 22 @ 0x0804e2a4 # ____________.._______
+Cs 23 @ 0x0804e2ba # __.___________________
+Cs 16 @ 0x0804e2d1 # _______________
+Cs 16 @ 0x0804e2e1 # _______________
+Cs 16 @ 0x0804e2f1 # _______________
+Cs 16 @ 0x0804e301 # _______________
+Cs 16 @ 0x0804e311 # _______________
+Cs 17 @ 0x0804e321 # _________________
+Cs 18 @ 0x0804e332 # __________________
+Cs 18 @ 0x0804e344 # ___________________
+Cs 18 @ 0x0804e356 # __________________
+Cs 18 @ 0x0804e368 # ____________.___.
+Cs 19 @ 0x0804e37a # ___________________
+Cs 19 @ 0x0804e38d # __________________
+Cs 19 @ 0x0804e3a0 # __________________
+Cs 19 @ 0x0804e3b3 # ___________._____.
+Cs 20 @ 0x0804e3c6 # ___________Y_._._Y__
+Cs 21 @ 0x0804e3da # ______________________
+Cs 22 @ 0x0804e3ef # ______________.________
+Cs 23 @ 0x0804e405 # ______________________
+Cs 18 @ 0x0804e41c # _________________
+Cs 18 @ 0x0804e42e # _________________
+Cs 19 @ 0x0804e440 # ___________________
+Cs 19 @ 0x0804e453 # ___________________
+Cs 19 @ 0x0804e466 # ____________________
+Cs 19 @ 0x0804e479 # ____________________
+Cs 19 @ 0x0804e48c # ____________._____.
+Cs 20 @ 0x0804e49f # ___________Y_._._Y__
+Cs 21 @ 0x0804e4b3 # ______________________
+Cs 22 @ 0x0804e4c8 # ______________.________
+Cs 23 @ 0x0804e4de # ______________________
+Cs 21 @ 0x0804e4f5 # _______________.___.
+Cs 22 @ 0x0804e50a # ______________________
+Cs 22 @ 0x0804e520 # _____________________
+Cs 21 @ 0x0804e536 # ____________________._
+Cs 20 @ 0x0804e54b # ____________._____.
+Cs 21 @ 0x0804e55f # ____________Y_._._Y__
+Cs 22 @ 0x0804e574 # _______________________
+Cs 23 @ 0x0804e58a # _______________.________
+Cs 24 @ 0x0804e5a1 # _______________________
+Cs 19 @ 0x0804e5b9 # __________________
+Cs 19 @ 0x0804e5cc # __________________
+Cs 20 @ 0x0804e5df # ____________________
+Cs 26 @ 0x0804e5f3 # ______________________________________
+Cs 26 @ 0x0804e60d # _____________________________________
+Cs 26 @ 0x0804e627 # ___________________________
+Cs 26 @ 0x0804e641 # :_:_____________________:_:
+Cs 26 @ 0x0804e65b # ._.___________________._.
+Cs 93 @ 0x0804e95f # _b___________________________________________________________________________________________
+Cs 92 @ 0x0804e9bc # ___________________________________________________________________________________________
+Cs 92 @ 0x0804ea18 # _____ROUND:________________________________________________________________________________
+Cs 92 @ 0x0804ea74 # _____The_number_of_letters_you_guessed:____________________________________________________
+Cs 92 @ 0x0804ead0 # _____The_number_of_times_you_failed:_______________________________________________________
+Cs 92 @ 0x0804eb2c # ______________A____B____C____D____E____F____G______________________________________________
+Cs 92 @ 0x0804eb88 # ______________H____I____J____K____L____M____N______________________________________________
+Cs 92 @ 0x0804ebe4 # ______________O____P____Q_________R____S____T______________________________________________
+Cs 92 @ 0x0804ec40 # ______________U____V____W_________X____Y____Z______________________________________________
+Cs 92 @ 0x0804ec9c # ___________________________________________________________________________________________
+Cs 8 @ 0x0804ee38 # animals
+Cs 7 @ 0x0804ee40 # fruits
+Cs 12 @ 0x0804ee47 # instruments
+Cs 10 @ 0x0804ee53 # passwords
+Cs 22 @ 0x0804ee5d # programming_languages
+Cs 8 @ 0x0804ee73 # science
+Cs 7 @ 0x0804ee7b # sports
+Cs 21 @ 0x0804ee82 # stack_exchange_sites
+Cs 9 @ 0x0804eec7 # _s_s.txt
+Cs 17 @ 0x0804eed0 # .._ro_wordlists_
+Cs 30 @ 0x0804eee3 # Please_input_your_user_id_n:
+Cs 31 @ 0x0804ef04 # Please_input_your_password_n:
+Cs 47 @ 0x0804ef24 # Create_User_Error__Please_check_your_input_n:
+Cs 22 @ 0x0804ef53 # ____OPENFILEWRONG____
+Cs 43 @ 0x0804ef6c # Wrong_User_ID__Please_check_your_input_n:
+Cs 49 @ 0x0804ef98 # Please_enter_a_valid_command__C___L___S___X__n:
+Cs 59 @ 0x0804f0a3 # _bBe_creative_with_your_status__put_any_crap_you_want_here:
+Cs 41 @ 0x0804f0e0 # _but_in_less_than_128_characters___n:
+Cs 45 @ 0x0804f10c # Please_enter_a_valid_command__S___Q___X__n:
+Cs 55 @ 0x0804f1db # _bPlease_enter_a_valid_command__C___S___Q___M___Z___n:
+Cs 35 @ 0x0804f2eb # _bPlease_make_a_valid_selection_n:
+Cs 39 @ 0x0804f310 # Sorry_you_missed_it._The_word_is___s__n
+Cs 24 @ 0x0804f337 # Good_job__You_made_it__n
+Cs 6 @ 0x0804f34f # _16ld
+Cs 212 @ 0x0804f360 # _x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_7_____x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_7_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_7_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_7_______x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_7__x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_7__x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_7____x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_7_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_7___x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_7__x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_7
+Cs 226 @ 0x0804f434 # _x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_1_____x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_4_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x___x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_1______x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_4_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x___x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_4_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_7_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_7__x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_4_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x_____x.2_x_5_x_:_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_4_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x___x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_4_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_7
+Cs 190 @ 0x0804f518 # _x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_1__x.2_x_6_x_1_x.2_x_5_x_7__x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_7___x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_1______x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_1______x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_1____x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_4_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_4_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_7________x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_1____x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_1____x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_1
+Cs 194 @ 0x0804f5d8 # _x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_7_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_4_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x_____x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_1______x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_1______x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_1____x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_1_x.2_x_5_x_:_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_4_x.2_x_5_x___x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_4_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x__________x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_1____x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_1____x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_1
+Cs 230 @ 0x0804f69c # _x.2_x_5_x_:_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_4_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_4_x.2_x_5_x___x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_7_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_7_x.2_x_5_x_:_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_7_x.2_x_5_x_:_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_4_x.2_x_5_x___x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_1__x.2_x_5_x_:_x.2_x_5_x_0_x.2_x_5_x____x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_7______x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_1____x.2_x_5_x_:_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_4_x.2_x_5_x__
+Cs 210 @ 0x0804f784 # _x.2_x_5_x_:_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x___x.2_x_5_x_:_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x____x.2_x_5_x_:_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x___x.2_x_5_x_:_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x____x.2_x_5_x_:_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x____x.2_x_5_x_:_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x____x.2_x_5_x_:_x.2_x_5_x_0_x.2_x_5_x________x.2_x_5_x_:_x.2_x_5_x_0_x.2_x_5_x___x.2_x_5_x_:_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x________x.2_x_5_x_:_x.2_x_5_x_0_x.2_x_5_x_______x.2_x_5_x_:_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x__
+Cs 190 @ 0x0804f858 # _x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_7_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_7___x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_7_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_7____x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_7___x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_7__x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_7____x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_7_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_7
+Cs 200 @ 0x0804f918 # _x.2_x_5_x_:_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_4_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x___x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_1___x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_4_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x_____x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_4_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x____x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_4_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_7_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_7__x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_4_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x__
+Cs 184 @ 0x0804f9e0 # _x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_1____x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_7_____x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_1___x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_7_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_4_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_4_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_7
+Cs 182 @ 0x0804fa98 # _x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_1____x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_4_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_4_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x_______x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_1____x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_4_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_1_x.2_x_5_x_:_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_4_x.2_x_5_x___x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_4_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x__
+Cs 202 @ 0x0804fb50 # _x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_1____x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_1___x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_7___x.2_x_5_x_:_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_4_x.2_x_5_x___x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_1___x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_1__x.2_x_5_x_:_x.2_x_5_x_0_x.2_x_5_x____x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_7___x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_7_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_7_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_7
+Cs 194 @ 0x0804fc1c # _x.2_x_5_x_:_x.2_x_5_x_0_x.2_x_5_x______x.2_x_5_x_:_x.2_x_5_x_0_x.2_x_5_x_____x.2_x_5_x_:_x.2_x_5_x_0_x.2_x_5_x___x.2_x_5_x_:_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x______x.2_x_5_x_:_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x____x.2_x_5_x_:_x.2_x_5_x_0_x.2_x_5_x___x.2_x_6_x_4__x.2_x_5_x_:_x.2_x_5_x_0_x.2_x_5_x___x.2_x_5_x_:_x.2_x_5_x_0_x.2_x_5_x________x.2_x_5_x_:_x.2_x_5_x_0_x.2_x_5_x___x.2_x_5_x_:_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x_____x.2_x_5_x_:_x.2_x_5_x_0_x.2_x_5_x___x.2_x_5_x_:_x.2_x_5_x_0_x.2_x_5_x___x.2_x_5_x_:_x.2_x_5_x_0_x.2_x_5_x__
+Cs 192 @ 0x0804fce0 # _x.2_x_6_x_8_x.2_x_6_x_8_x.2_x_6_x_8_x.2_x_6_x_8_x.2_x_6_x_8_x.2_x_6_x_8_x.2_x_5_x_7___x.2_x_6_x_8_x.2_x_6_x_8_x.2_x_6_x_8_x.2_x_6_x_8_x.2_x_6_x_8_x.2_x_6_x_8_x.2_x_5_x_7__x.2_x_6_x_8_x.2_x_6_x_8_x.2_x_6_x_8_x.2_x_6_x_8_x.2_x_6_x_8_x.2_x_6_x_8_x.2_x_5_x_7__x.2_x_6_x_8_x.2_x_6_x_8_x.2_x_6_x_8_x.2_x_6_x_8_x.2_x_6_x_8_x.2_x_6_x_8_x.2_x_6_x_8_x.2_x_5_x_7__x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_7____x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_7__x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_7__x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_7____x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_7____x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_7
+Cs 210 @ 0x0804fda0 # _x.2_x_6_x_8_x.2_x_6_x_8_x.2_x_5_x_4_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_6_x_8_x.2_x_6_x_8_x.2_x_5_x_7_x.2_x_6_x_8_x.2_x_6_x_8_x.2_x_5_x_4_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_6_x_8_x.2_x_6_x_8_x.2_x_5_x_7_x.2_x_6_x_8_x.2_x_6_x_8_x.2_x_5_x_4_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_6_x_8_x.2_x_6_x_8_x.2_x_5_x_7_x.2_x_6_x_8_x.2_x_6_x_8_x.2_x_5_x_4_x.2_x_5_x_0_x.2_x_6_x_8_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x____x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_7__x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_4_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_7_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_7___x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_1____x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_1
+Cs 204 @ 0x0804fe74 # _x.2_x_6_x_8_x.2_x_6_x_8_x.2_x_6_x_8_x.2_x_6_x_8_x.2_x_6_x_8_x.2_x_6_x_8_x.2_x_5_x_4_x.2_x_5_x___x.2_x_6_x_8_x.2_x_6_x_8_x.2_x_5_x_1____x.2_x_6_x_8_x.2_x_6_x_8_x.2_x_5_x_1_x.2_x_6_x_8_x.2_x_6_x_8_x.2_x_6_x_8_x.2_x_6_x_8_x.2_x_6_x_8_x.2_x_6_x_8_x.2_x_5_x_4_x.2_x_5_x___x.2_x_6_x_8_x.2_x_6_x_8_x.2_x_6_x_8_x.2_x_6_x_8_x.2_x_6_x_8_x.2_x_5_x_7____x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_4_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_4_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_4_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_7__x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_1____x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_1
+Cs 204 @ 0x0804ff40 # _x.2_x_6_x_8_x.2_x_6_x_8_x.2_x_5_x_4_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_6_x_8_x.2_x_6_x_8_x.2_x_5_x_7_x.2_x_6_x_8_x.2_x_6_x_8_x.2_x_5_x_1____x.2_x_6_x_8_x.2_x_6_x_8_x.2_x_5_x_1_x.2_x_6_x_8_x.2_x_6_x_8_x.2_x_5_x_4_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x____x.2_x_6_x_8_x.2_x_6_x_8_x.2_x_5_x_4_x.2_x_6_x_8_x.2_x_5_x_0_x.2_x_5_x______x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_1_x.2_x_5_x_:_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_4_x.2_x_5_x___x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_4_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_1_x.2_x_5_x_:_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_7_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_1____x.2_x_5_x_:_x.2_x_5_x_0_x.2_x_5_x__
+Cs 192 @ 0x0805000c # _x.2_x_6_x_8_x.2_x_6_x_8_x.2_x_5_x_1___x.2_x_6_x_8_x.2_x_6_x_8_x.2_x_5_x_1_x.2_x_5_x_:_x.2_x_6_x_8_x.2_x_6_x_8_x.2_x_6_x_8_x.2_x_6_x_8_x.2_x_6_x_8_x.2_x_6_x_8_x.2_x_5_x_4_x.2_x_5_x___x.2_x_6_x_8_x.2_x_6_x_8_x.2_x_5_x_1______x.2_x_6_x_8_x.2_x_6_x_8_x.2_x_6_x_8_x.2_x_6_x_8_x.2_x_6_x_8_x.2_x_6_x_8_x.2_x_6_x_8_x.2_x_5_x_7__x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_1__x.2_x_5_x_:_x.2_x_5_x_0_x.2_x_5_x____x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_1___x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_1__x.2_x_5_x_:_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_1____x.2_x_6_x_1_x.2_x_6_x_1_x.2_x_5_x_7
+Cs 180 @ 0x080500cc # _x.2_x_5_x_:_x.2_x_5_x_0_x.2_x_5_x_____x.2_x_5_x_:_x.2_x_5_x_0_x.2_x_5_x____x.2_x_5_x_:_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x____x.2_x_5_x_:_x.2_x_5_x_0_x.2_x_5_x________x.2_x_5_x_:_x.2_x_5_x_0_x.2_x_6_x_8_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x____x.2_x_5_x_:_x.2_x_5_x_0_x.2_x_5_x________x.2_x_5_x_:_x.2_x_5_x_0_x.2_x_5_x___x.2_x_5_x_:_x.2_x_5_x_0_x.2_x_5_x_____x.2_x_5_x_:_x.2_x_5_x_0_x.2_x_5_x___x.2_x_5_x_:_x.2_x_5_x_0_x.2_x_5_x_____x.2_x_5_x_:_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x_0_x.2_x_5_x______x.2_x_5_x_:_x.2_x_5_x_0_x.2_x_5_x__
+Cs 56 @ 0x080501c7 # _b___________________________________________
+Cs 55 @ 0x08050200 # ____________________________________________
+Cs 55 @ 0x08050238 # _________________________________________________
+Cs 55 @ 0x08050270 # ________________________________________________________
+Cs 55 @ 0x080502a8 # _____________________________________________________
+Cs 55 @ 0x080502e0 # _________________________________________________________
+Cs 55 @ 0x08050318 # _____
+Cs 55 @ 0x08050350 # _______
+Cs 55 @ 0x08050388 # ____________________________________________
+Cs 55 @ 0x080503c0 # _________________________________________________
+Cs 55 @ 0x080503f8 # ____________________________________________________
+Cs 55 @ 0x08050430 # _________________________________________________________
+Cs 55 @ 0x08050468 # _________________________________________________
+Cs 55 @ 0x080504a0 # ___________________________________________________
+Cs 55 @ 0x080504d8 # ___________________________________________________
+Cs 55 @ 0x08050510 # ______________________________________________________
+Cs 55 @ 0x08050548 # ___________________________________________________
+Cs 55 @ 0x08050580 # _______________________________________________________
+Cs 55 @ 0x080505b8 # _____
+Cs 55 @ 0x080505f0 # _____
+Cs 26 @ 0x08050691 # _________________________________________________
+Cs 26 @ 0x080506ab # ______________________________________________
+Cs 26 @ 0x080506c5 # _________________________
+Cs 26 @ 0x080506df # :_:___________________:_:
+Cs 26 @ 0x080506f9 # ._.___________________._.
+Cs 22 @ 0x08050713 # _____________________
+Cs 23 @ 0x08050729 # __.___________________
+Cs 22 @ 0x08050744 # ____________.._______
+Cs 23 @ 0x0805075a # __.___________________
+Cs 16 @ 0x08050771 # _______________
+Cs 16 @ 0x08050781 # _______________
+Cs 16 @ 0x08050791 # _______________
+Cs 16 @ 0x080507a1 # _______________
+Cs 16 @ 0x080507b1 # _______________
+Cs 17 @ 0x080507c1 # _________________
+Cs 18 @ 0x080507d2 # __________________
+Cs 18 @ 0x080507e4 # ___________________
+Cs 18 @ 0x080507f6 # __________________
+Cs 18 @ 0x08050808 # ____________.___.
+Cs 19 @ 0x0805081a # ___________________
+Cs 19 @ 0x0805082d # __________________
+Cs 19 @ 0x08050840 # __________________
+Cs 19 @ 0x08050853 # ___________._____.
+Cs 20 @ 0x08050866 # ___________Y_._._Y__
+Cs 21 @ 0x0805087a # ______________________
+Cs 22 @ 0x0805088f # ______________.________
+Cs 23 @ 0x080508a5 # ______________________
+Cs 18 @ 0x080508bc # _________________
+Cs 18 @ 0x080508ce # _________________
+Cs 19 @ 0x080508e0 # ___________________
+Cs 19 @ 0x080508f3 # ___________________
+Cs 19 @ 0x08050906 # ____________________
+Cs 19 @ 0x08050919 # ____________________
+Cs 19 @ 0x0805092c # ____________._____.
+Cs 20 @ 0x0805093f # ___________Y_._._Y__
+Cs 21 @ 0x08050953 # ______________________
+Cs 22 @ 0x08050968 # ______________.________
+Cs 23 @ 0x0805097e # ______________________
+Cs 21 @ 0x08050995 # _______________.___.
+Cs 22 @ 0x080509aa # ______________________
+Cs 22 @ 0x080509c0 # _____________________
+Cs 21 @ 0x080509d6 # ____________________._
+Cs 20 @ 0x080509eb # ____________._____.
+Cs 21 @ 0x080509ff # ____________Y_._._Y__
+Cs 22 @ 0x08050a14 # _______________________
+Cs 23 @ 0x08050a2a # _______________.________
+Cs 24 @ 0x08050a41 # _______________________
+Cs 19 @ 0x08050a59 # __________________
+Cs 19 @ 0x08050a6c # __________________
+Cs 20 @ 0x08050a7f # ____________________
+Cs 26 @ 0x08050a93 # ______________________________________
+Cs 26 @ 0x08050aad # _____________________________________
+Cs 26 @ 0x08050ac7 # ___________________________
+Cs 26 @ 0x08050ae1 # :_:_____________________:_:
+Cs 26 @ 0x08050afb # ._.___________________._.
+Cs 93 @ 0x08050dff # _b___________________________________________________________________________________________
+Cs 92 @ 0x08050e5c # ___________________________________________________________________________________________
+Cs 92 @ 0x08050eb8 # _____ROUND:________________________________________________________________________________
+Cs 92 @ 0x08050f14 # _____The_number_of_letters_you_guessed:____________________________________________________
+Cs 92 @ 0x08050f70 # _____The_number_of_times_you_failed:_______________________________________________________
+Cs 92 @ 0x08050fcc # ______________A____B____C____D____E____F____G______________________________________________
+Cs 92 @ 0x08051028 # ______________H____I____J____K____L____M____N______________________________________________
+Cs 92 @ 0x08051084 # ______________O____P____Q_________R____S____T______________________________________________
+Cs 92 @ 0x080510e0 # ______________U____V____W_________X____Y____Z______________________________________________
+Cs 92 @ 0x0805113c # ___________________________________________________________________________________________
+Cs 8 @ 0x080512d8 # animals
+Cs 7 @ 0x080512e0 # fruits
+Cs 12 @ 0x080512e7 # instruments
+Cs 10 @ 0x080512f3 # passwords
+Cs 22 @ 0x080512fd # programming_languages
+Cs 8 @ 0x08051313 # science
+Cs 7 @ 0x0805131b # sports
+Cs 21 @ 0x08051322 # stack_exchange_sites
+Cs 9 @ 0x08051364 # _s__s__s
+Cs 5 @ 0x0805136d # _s_s
+Cs 7 @ 0x08051372 # .._rw_
+Cs 22 @ 0x0805137e # ____OPENFILEWRONG____
+Cs 15 @ 0x08051399 # new_file_fopen
+Cs 15 @ 0x080513a8 # new_file_fputs
+Cs 16 @ 0x080513b7 # new_file_fclose
+Cs 45 @ 0x080513c8 # Error_:_Failed_to_open_input_directory____s_n
+CCu base64:WzI4XSB2YT0weDA4MDQ4MTU0IHBhPTB4MDAwMDAxNTQgc3o9MTkgdnN6PTE5IHJ3eD1tLXItLSBJTlRFUlA= @ 0x08048154
+CCu base64:WzMyXSB2YT0weDA4MDQ4MTY4IHBhPTB4MDAwMDAxNjggc3o9NjggdnN6PTY4IHJ3eD1tLXItLSBOT1RF @ 0x08048168
+CCu base64:WzJdIHZhPTB4MDgwNDgxODggcGE9MHgwMDAwMDE4OCBzej0zNiB2c3o9MzYgcnd4PS0tci0tIC5ub3RlLmdudS5idWlsZF9pZA== @ 0x08048188
+CCu base64:WzNdIHZhPTB4MDgwNDgxYWMgcGE9MHgwMDAwMDFhYyBzej00OCB2c3o9NDggcnd4PS0tci0tIC5nbnUuaGFzaA== @ 0x080481ac
+CCu base64:WzRdIHZhPTB4MDgwNDgxZGMgcGE9MHgwMDAwMDFkYyBzej02NzIgdnN6PTY3MiByd3g9LS1yLS0gLmR5bnN5bQ== @ 0x080481dc
+CCu base64:WzVdIHZhPTB4MDgwNDg0N2MgcGE9MHgwMDAwMDQ3YyBzej0zMzEgdnN6PTMzMSByd3g9LS1yLS0gLmR5bnN0cg== @ 0x0804847c
+CCu base64:WzZdIHZhPTB4MDgwNDg1YzggcGE9MHgwMDAwMDVjOCBzej04NCB2c3o9ODQgcnd4PS0tci0tIC5nbnUudmVyc2lvbg== @ 0x080485c8
+CCu base64:WzddIHZhPTB4MDgwNDg2MWMgcGE9MHgwMDAwMDYxYyBzej00OCB2c3o9NDggcnd4PS0tci0tIC5nbnUudmVyc2lvbl9y @ 0x0804861c
+CCu base64:WzhdIHZhPTB4MDgwNDg2NGMgcGE9MHgwMDAwMDY0YyBzej0zMiB2c3o9MzIgcnd4PS0tci0tIC5yZWwuZHlu @ 0x0804864c
+CCu base64:WzldIHZhPTB4MDgwNDg2NmMgcGE9MHgwMDAwMDY2YyBzej0yOTYgdnN6PTI5NiByd3g9LS1yLS0gLnJlbC5wbHQ= @ 0x0804866c
+CCu base64:WzEwXSB2YT0weDA4MDQ4Nzk0IHBhPTB4MDAwMDA3OTQgc3o9NDYgdnN6PTQ2IHJ3eD0tLXIteCAuaW5pdA== @ 0x08048794
+CCu base64:WzExXSB2YT0weDA4MDQ4N2QwIHBhPTB4MDAwMDA3ZDAgc3o9NjA4IHZzej02MDggcnd4PS0tci14IC5wbHQ= @ 0x080487d0
+CCu base64:WzEyXSB2YT0weDA4MDQ4YTMwIHBhPTB4MDAwMDBhMzAgc3o9ODE0MCB2c3o9ODE0MCByd3g9LS1yLXggLnRleHQ= @ 0x08048a30
+CCu base64:WzEzXSB2YT0weDA4MDRhOWZjIHBhPTB4MDAwMDI5ZmMgc3o9MjYgdnN6PTI2IHJ3eD0tLXIteCAuZmluaQ== @ 0x0804a9fc
+CCu base64:WzE0XSB2YT0weDA4MDRhYTIwIHBhPTB4MDAwMDJhMjAgc3o9MjcwOTggdnN6PTI3MDk4IHJ3eD0tLXItLSAucm9kYXRh @ 0x0804aa20
+CCu base64:WzMzXSB2YT0weDA4MDUxM2ZjIHBhPTB4MDAwMDkzZmMgc3o9MzA4IHZzej0zMDggcnd4PW0tci0tIEdOVV9FSF9GUkFNRQ== @ 0x080513fc
+CCu base64:WzE2XSB2YT0weDA4MDUxNTMwIHBhPTB4MDAwMDk1MzAgc3o9MTM2NCB2c3o9MTM2NCByd3g9LS1yLS0gLmVoX2ZyYW1l @ 0x08051530
+CCu base64:WzM1XSB2YT0weDA4MDUyZjE0IHBhPTB4MDAwMDlmMTQgc3o9MjM2IHZzej0yMzYgcnd4PW0tci0tIEdOVV9SRUxSTw== @ 0x08052f14
+CCu base64:WzE4XSB2YT0weDA4MDUyZjFjIHBhPTB4MDAwMDlmMWMgc3o9OCB2c3o9OCByd3g9LS1ydy0gLmR0b3Jz @ 0x08052f1c
+CCu base64:WzE5XSB2YT0weDA4MDUyZjI0IHBhPTB4MDAwMDlmMjQgc3o9NCB2c3o9NCByd3g9LS1ydy0gLmpjcg== @ 0x08052f24
+CCu base64:WzMxXSB2YT0weDA4MDUyZjI4IHBhPTB4MDAwMDlmMjggc3o9MjAwIHZzej0yMDAgcnd4PW0tcnctIERZTkFNSUM= @ 0x08052f28
+CCu base64:WzIxXSB2YT0weDA4MDUyZmYwIHBhPTB4MDAwMDlmZjAgc3o9NCB2c3o9NCByd3g9LS1ydy0gLmdvdA== @ 0x08052ff0
+CCu base64:WzIyXSB2YT0weDA4MDUyZmY0IHBhPTB4MDAwMDlmZjQgc3o9MTYwIHZzej0xNjAgcnd4PS0tcnctIC5nb3QucGx0 @ 0x08052ff4
+CCu base64:WzIzXSB2YT0weDA4MDUzMDk0IHBhPTB4MDAwMGEwOTQgc3o9MTIgdnN6PTEyIHJ3eD0tLXJ3LSAuZGF0YQ== @ 0x08053094
+CCu base64:WzI0XSB2YT0weDA4MDUzMGEwIHBhPTB4MDAwMGEwYTAgc3o9MzU1ODQgdnN6PTM1NTg0IHJ3eD0tLXJ3LSAuYnNz @ 0x080530a0
+CCu base64:WzM0XSB2YT0weDAwMDAwMDAwIHBhPTB4MDAwMDAwMDAgc3o9MCB2c3o9MCByd3g9bS1ydy0gR05VX1NUQUNL @ 0x00000000
+CCu base64:WzI3XSB2YT0weDA4MDQ4MDM0IHBhPTB4MDAwMDAwMzQgc3o9Mjg4IHZzej0yODggcnd4PW0tci14IFBIRFI= @ 0x08048034
+CCu base64:WzM2XSB2YT0weDA4MDQ4MDAwIHBhPTB4MDAwMDAwMDAgc3o9NTIgdnN6PTUyIHJ3eD1tLXJ3LSBlaGRy @ 0x08048000
+Cd 32 @ 0x080530e0
+Cd 32 @ 0x08053101
+Cs 3 @ 0x0804eec4 # _d
+Cs 3 @ 0x08051379 # wx
+Cs 2 @ 0x0805137c # r
+Cs 2 @ 0x08051394 # _n
+CCu base64:Z2V0IHNjb3Jl @ 0x080498f7
+CCu base64:Z2V0IHVzZXIgc3RhdHVz @ 0x0804991b
+Cs 2 @ 0x080513f5 # .
+Cs 3 @ 0x080513f7 # ..
+CCu base64:c3RyICcuLi9ydy8n @ 0x0804a5bd
+Cs 3 @ 0x08051396 # w_
+Cf 36 9p @ 0x0804eea0
+Cf 36 9p @ 0x0804eec4
+Cf 36 9p @ 0x0804eee8
+Cf 36 9p @ 0x0804ef0c
+Cf 36 9p @ 0x0804ef30
+Cf 36 9p @ 0x0804ef54
+Cf 36 9p @ 0x0804ef78
+Cf 36 9p @ 0x0804ef9c
+Cf 36 9p @ 0x0804efc0
+Cf 36 9p @ 0x0804efe4
+Cf 36 9p @ 0x0804f008
+Cf 36 9p @ 0x0804f02c
+Cf 36 9p @ 0x0804f050
+Cf 36 9p @ 0x0804f074
+Cf 36 9p @ 0x0804f098
+Cf 36 9p @ 0x0804f0bc
+Cf 36 9p @ 0x0804f0e0
+Cs 34 @ 0x0804f2ec # Please_make_a_valid_selection_n:
+Cs 2 @ 0x0804eee1 # r_
+f section..interp 19 0x8048154
+S 0x00000154 0x08048154 0x00000013 0x00000013 .interp -r--
+f section..note.ABI_tag 32 0x8048168
+S 0x00000168 0x08048168 0x00000020 0x00000020 .note.ABI_tag -r--
+f section..note.gnu.build_id 36 0x8048188
+S 0x00000188 0x08048188 0x00000024 0x00000024 .note.gnu.build_id -r--
+f section..gnu.hash 48 0x80481ac
+S 0x000001ac 0x080481ac 0x00000030 0x00000030 .gnu.hash -r--
+f section..dynsym 672 0x80481dc
+S 0x000001dc 0x080481dc 0x000002a0 0x000002a0 .dynsym -r--
+f section..dynstr 331 0x804847c
+S 0x0000047c 0x0804847c 0x0000014b 0x0000014b .dynstr -r--
+f section..gnu.version 84 0x80485c8
+S 0x000005c8 0x080485c8 0x00000054 0x00000054 .gnu.version -r--
+f section..gnu.version_r 48 0x804861c
+S 0x0000061c 0x0804861c 0x00000030 0x00000030 .gnu.version_r -r--
+f section..rel.dyn 32 0x804864c
+S 0x0000064c 0x0804864c 0x00000020 0x00000020 .rel.dyn -r--
+f section..rel.plt 296 0x804866c
+S 0x0000066c 0x0804866c 0x00000128 0x00000128 .rel.plt -r--
+f section..init 46 0x8048794
+S 0x00000794 0x08048794 0x0000002e 0x0000002e .init -r-x
+f section..plt 608 0x80487d0
+S 0x000007d0 0x080487d0 0x00000260 0x00000260 .plt -r-x
+f section..text 8140 0x8048a30
+S 0x00000a30 0x08048a30 0x00001fcc 0x00001fcc .text -r-x
+f section..fini 26 0x804a9fc
+S 0x000029fc 0x0804a9fc 0x0000001a 0x0000001a .fini -r-x
+f section..rodata 27098 0x804aa20
+S 0x00002a20 0x0804aa20 0x000069da 0x000069da .rodata -r--
+f section..eh_frame_hdr 308 0x80513fc
+S 0x000093fc 0x080513fc 0x00000134 0x00000134 .eh_frame_hdr -r--
+f section..eh_frame 1364 0x8051530
+S 0x00009530 0x08051530 0x00000554 0x00000554 .eh_frame -r--
+f section..ctors 8 0x8052f14
+S 0x00009f14 0x08052f14 0x00000008 0x00000008 .ctors -rw-
+f section..dtors 8 0x8052f1c
+S 0x00009f1c 0x08052f1c 0x00000008 0x00000008 .dtors -rw-
+f section..jcr 4 0x8052f24
+S 0x00009f24 0x08052f24 0x00000004 0x00000004 .jcr -rw-
+f section..dynamic 200 0x8052f28
+S 0x00009f28 0x08052f28 0x000000c8 0x000000c8 .dynamic -rw-
+f section..got 4 0x8052ff0
+S 0x00009ff0 0x08052ff0 0x00000004 0x00000004 .got -rw-
+f section..got.plt 160 0x8052ff4
+S 0x00009ff4 0x08052ff4 0x000000a0 0x000000a0 .got.plt -rw-
+f section..data 12 0x8053094
+S 0x0000a094 0x08053094 0x0000000c 0x0000000c .data -rw-
+f section..bss 35584 0x80530a0
+S 0x0000a0a0 0x080530a0 0x00008b00 0x00008b00 .bss -rw-
+f section..comment 42 0x0
+S 0x0000a0a0 0x00000000 0x0000002a 0x0000002a .comment ----
+f section..shstrtab 236 0x0
+S 0x0000a0ca 0x00000000 0x000000ec 0x000000ec .shstrtab ----
+f section.LOAD0 39556 0x8048000
+S 0x00000000 0x08048000 0x00009a84 0x00009a84 LOAD0 mr-x
+f section.LOAD1 396 0x8052f14
+S 0x00009f14 0x08052f14 0x0000018c 0x00008c8c LOAD1 mrw-
+f section.ehdr 42520 0x8048000
+S 0x00000000 0x08048000 0x0000a618 0x0000a618 ehdr -rwx
+ax 0x804a9c0 0x0
+ax 0x804a950 0x0
+ax 0x8049fa2 0x0
+ax 0x8048900 0x0
+ax 0x8053048 0x0
+ax 0x90 0x0
+ax 0x80487d0 0x0
+ax 0x8052ffc 0x0
+ax 0x8053000 0x0
+ax 0x80487d0 0x0
+ax 0x8048e98 0x0
+ax 0x8049fc3 0x0
+ax 0x8049780 0x0
+ax 0x8049bd0 0x0
+ax 0x18 0x0
+ax 0x8049c51 0x0
+ax 0x18 0x0
+ax 0x8049cda 0x0
+ax 0x804a034 0x0
+ax 0x8053004 0x0
+ax 0x8 0x0
+ax 0x80487d0 0x0
+ax 0x8053008 0x0
+ax 0x10 0x0
+ax 0x80487d0 0x0
+ax 0x805300c 0x0
+ax 0x18 0x0
+ax 0x80487d0 0x1
+ax 0x8053010 0x0
+ax 0x20 0x0
+ax 0x80487d0 0x0
+ax 0x8053014 0x0
+ax 0x28 0x0
+ax 0x80487d0 0x0
+ax 0x8053018 0x0
+ax 0x30 0x0
+ax 0x80487d0 0x0
+ax 0x805301c 0x0
+ax 0x38 0x0
+ax 0x80487d0 0x0
+ax 0x8053020 0x0
+ax 0x40 0x0
+ax 0x80487d0 0x0
+ax 0x8053024 0x0
+ax 0x48 0x0
+ax 0x80487d0 0x0
+ax 0x8053028 0x0
+ax 0x50 0x0
+ax 0x80487d0 0x0
+ax 0x805302c 0x0
+ax 0x58 0x0
+ax 0x80487d0 0x0
+ax 0x8053030 0x0
+ax 0x60 0x0
+ax 0x80487d0 0x0
+ax 0x8053034 0x0
+ax 0x68 0x0
+ax 0x80487d0 0x0
+ax 0x8053038 0x0
+ax 0x70 0x0
+ax 0x80487d0 0x0
+ax 0x8053040 0x0
+ax 0x80 0x0
+ax 0x80487d0 0x0
+ax 0x8053044 0x0
+ax 0x88 0x0
+ax 0x80487d0 0x0
+ax 0x805304c 0x0
+ax 0x98 0x0
+ax 0x80487d0 0x1
+ax 0x8053050 0x0
+ax 0xa0 0x0
+ax 0x80487d0 0x0
+ax 0x8053054 0x0
+ax 0xa8 0x0
+ax 0x80487d0 0x0
+ax 0x8053058 0x0
+ax 0xb0 0x0
+ax 0x80487d0 0x0
+ax 0x805305c 0x0
+ax 0xb8 0x0
+ax 0x80487d0 0x0
+ax 0x8053060 0x0
+ax 0xc0 0x0
+ax 0x80487d0 0x0
+ax 0x8053064 0x0
+ax 0xc8 0x0
+ax 0x80487d0 0x0
+ax 0x8053068 0x0
+ax 0xd0 0x0
+ax 0x80487d0 0x0
+ax 0x805306c 0x0
+ax 0xd8 0x0
+ax 0x80487d0 0x0
+ax 0x8053070 0x0
+ax 0xe0 0x0
+ax 0x80487d0 0x0
+ax 0x8053074 0x0
+ax 0xe8 0x0
+ax 0x80487d0 0x0
+ax 0x8053078 0x0
+ax 0xf0 0x0
+ax 0x80487d0 0x0
+ax 0x805307c 0x0
+ax 0xf8 0x0
+ax 0x80487d0 0x0
+ax 0x8053080 0x0
+ax 0x100 0x0
+ax 0x80487d0 0x0
+ax 0x8053084 0x0
+ax 0x108 0x0
+ax 0x80487d0 0x0
+ax 0x8053088 0x0
+ax 0x110 0x0
+ax 0x80487d0 0x0
+ax 0x805308c 0x0
+ax 0x118 0x0
+ax 0x80487d0 0x1
+ax 0x8053090 0x0
+ax 0x120 0x0
+ax 0x80487d0 0x0
+ax 0x804cd5c 0x0
+ax 0x80488b0 0x0
+ax 0x80530c0 0x0
+ax 0x8048820 0x0
+ax 0x804cd00 0x0
+ax 0x80488b0 0x0
+ax 0x80530c0 0x0
+ax 0x8048820 0x0
+ax 0x8048e56 0x0
+ax 0x804cb40 0x0
+ax 0x8053122 0x0
+ax 0x80530e0 0x0
+ax 0x8048800 0x0
+ax 0x804cb65 0x0
+ax 0x8053133 0x0
+ax 0x8048800 0x0
+ax 0x804cb78 0x0
+ax 0x80488b0 0x0
+ax 0x80530c0 0x0
+ax 0x8048820 0x0
+ax 0x8048a00 0x0
+ax 0x804a67f 0x0
+ax 0x80489a0 0x0
+ax 0x80513f5 0x0
+ax 0x804a67f 0x0
+ax 0x80513f7 0x0
+ax 0x6a0 0x0
+ax 0x6a0 0x0
+ax 0xf 0x0
+ax 0x10 0x0
+ax 0x10 0x0
+ax 0x8048930 0x0
+ax 0x8048a20 0x0
+ax 0x804a827 0x0
+ax 0x80489a0 0x0
+ax 0x80513f5 0x0
+ax 0x80489f0 0x0
+ax 0x804a557 0x0
+ax 0xd4 0x0
+ax 0x80489c0 0x0
+ax 0x804a8b2 0x0
+ax 0x9 0x0
+ax 0x80530e0 0x0
+ax 0x804a90c 0x0
+ax 0x80530e0 0x0
+ax 0x80487f0 0x0
+ax 0xa 0x0
+ax 0x1 0x0
+ax 0x8 0x0
+ax 0x8 0x0
+ax 0x4 0x0
+ax 0x80530e0 0x0
+ax 0x35 0x0
+ax 0x1 0x0
+ax 0x8 0x0
+ax 0x8 0x0
+ax 0x4 0x0
+ax 0x35 0x0
+ax 0x80513f7 0x0
+ax 0x804a137 0x0
+ax 0x804a3dd 0x0
+ax 0x4 0x0
+ax 0x8 0x0
+ax 0xc 0x0
+ax 0x10 0x0
+ax 0x14 0x0
+ax 0x18 0x0
+ax 0x1c 0x0
+ax 0x804a827 0x0
+ax 0x804a67f 0x0
+ax 0x8048950 0x0
+ax 0x80488c0 0x0
+ax 0x80513c8 0x0
+ax 0x80530a0 0x0
+ax 0x8048910 0x0
+ax 0x804a947 0x0
+ax 0xc 0x0
+ax 0x8 0x0
+ax 0x8049422 0x0
+ax 0xc 0x0
+ax 0x7b 0x0
+ax 0x8048940 0x0
+ax 0x8 0x0
+ax 0x80488f0 0x0
+ax 0x804cae4 0x0
+ax 0x80488b0 0x0
+ax 0x80530c0 0x0
+ax 0x8048820 0x0
+ax 0x80530a4 0x0
+ax 0x80487e0 0x0
+ax 0x80495f6 0x0
+ax 0x80530a4 0x0
+ax 0x8048970 0x0
+ax 0xa 0x0
+ax 0xc 0x0
+ax 0x8048e77 0x0
+ax 0x804cae6 0x0
+ax 0x80488b0 0x0
+ax 0x804cafc 0x0
+ax 0x80488b0 0x0
+ax 0x804cb1d 0x0
+ax 0x80488b0 0x0
+ax 0x804cb30 0x0
+ax 0x80488b0 0x0
+ax 0x8048e77 0x0
+ax 0x804cb39 0x0
+ax 0x8048800 0x0
+ax 0x80530c0 0x0
+ax 0x8048820 0x0
+ax 0x80530a4 0x0
+ax 0x80487e0 0x0
+ax 0x80530a4 0x0
+ax 0x8048970 0x0
+ax 0x8049667 0x0
+ax 0xa 0x0
+ax 0x80530a4 0x0
+ax 0x8048970 0x0
+ax 0x20 0x0
+ax 0x8048a10 0x0
+ax 0x20 0x0
+ax 0x8048a10 0x0
+ax 0x804eee3 0x0
+ax 0x8048b44 0x0
+ax 0x80530a4 0x0
+ax 0x20 0x0
+ax 0x80495c3 0x0
+ax 0x804ef04 0x0
+ax 0x8048b44 0x0
+ax 0x80530a4 0x0
+ax 0x20 0x0
+ax 0x80495c3 0x0
+ax 0x80530e0 0x0
+ax 0x4 0x0
+ax 0x8 0x0
+ax 0xc 0x0
+ax 0x10 0x0
+ax 0x14 0x0
+ax 0x18 0x0
+ax 0x1c 0x0
+ax 0x8053101 0x0
+ax 0x4 0x0
+ax 0x8 0x0
+ax 0xc 0x0
+ax 0x10 0x0
+ax 0x14 0x0
+ax 0x18 0x0
+ax 0x1c 0x0
+ax 0x8048830 0x0
+ax 0x8048830 0x0
+ax 0x8048880 0x0
+ax 0x80488e0 0x0
+ax 0x11 0x0
+ax 0x8048a10 0x0
+ax 0x8048980 0x0
+ax 0x804eec4 0x0
+ax 0x80489b0 0x0
+ax 0x40 0x0
+ax 0x8051364 0x0
+ax 0x8053133 0x0
+ax 0x8053101 0x0
+ax 0x8053122 0x0
+ax 0x80489b0 0x0
+ax 0x40 0x0
+ax 0x805136d 0x0
+ax 0x80530e0 0x0
+ax 0x8051372 0x0
+ax 0x80489b0 0x0
+ax 0x8051379 0x0
+ax 0x8048920 0x0
+ax 0x80489e0 0x0
+ax 0x8048870 0x0
+ax 0x804a12d 0x0
+ax 0x804a12d 0x0
+ax 0x804a12d 0x0
+ax 0x40 0x0
+ax 0x805136d 0x0
+ax 0x8 0x0
+ax 0x8051372 0x0
+ax 0x80489b0 0x0
+ax 0x805137c 0x0
+ax 0x8048920 0x0
+ax 0x8048860 0x0
+ax 0x8048870 0x0
+ax 0x804a3dd 0x0
+ax 0x53 0x0
+ax 0x805ba80 0x0
+ax 0x80 0x0
+ax 0x8051394 0x0
+ax 0x8048810 0x0
+ax 0x8048840 0x0
+ax 0x805137e 0x0
+ax 0x804a2b0 0x0
+ax 0x805137e 0x0
+ax 0x804a2b0 0x0
+ax 0x805137e 0x0
+ax 0x804a2b0 0x0
+ax 0x8 0x0
+ax 0x8048840 0x0
+ax 0xc 0x0
+ax 0xd4 0x0
+ax 0x8048990 0x0
+ax 0xc 0x0
+ax 0x8048850 0x0
+ax 0x8051394 0x0
+ax 0x8048990 0x0
+ax 0xc 0x0
+ax 0x8048850 0x0
+ax 0x8048990 0x0
+ax 0xc 0x0
+ax 0x8048850 0x0
+ax 0x8048e56 0x0
+ax 0xc 0x0
+ax 0xd8 0x0
+ax 0x8048a10 0x0
+ax 0x804a5b4 0x0
+ax 0x804cc58 0x0
+ax 0x80488b0 0x0
+ax 0x804cca0 0x0
+ax 0x80488b0 0x0
+ax 0x804cc58 0x0
+ax 0x80488b0 0x0
+ax 0x8048e2f 0x0
+ax 0x46 0x0
+ax 0x4 0x0
+ax 0x804cce6 0x0
+ax 0x8048800 0x0
+ax 0x804cc58 0x0
+ax 0x80488b0 0x0
+ax 0x80530c0 0x0
+ax 0x8048820 0x0
+ax 0x40 0x0
+ax 0x8051364 0x0
+ax 0x8053133 0x0
+ax 0x8053101 0x0
+ax 0x8053122 0x0
+ax 0x80489b0 0x0
+ax 0x40 0x0
+ax 0x805136d 0x0
+ax 0x80530e0 0x0
+ax 0x8051372 0x0
+ax 0x80489b0 0x0
+ax 0x8051396 0x0
+ax 0x8048920 0x0
+ax 0x80489e0 0x0
+ax 0x8048870 0x0
+ax 0x80513b7 0x0
+ax 0x8048890 0x0
+ax 0x80513a8 0x0
+ax 0x8048890 0x0
+ax 0x8051399 0x0
+ax 0x8048890 0x0
+ax 0x8048be7 0x0
+ax 0x8048e77 0x0
+ax 0x804cc0c 0x0
+ax 0x80488b0 0x0
+ax 0x804cbe8 0x0
+ax 0x80488b0 0x0
+ax 0x804cb30 0x0
+ax 0x80488b0 0x0
+ax 0x8048e77 0x0
+ax 0x804cb39 0x0
+ax 0x8048800 0x0
+ax 0x80530c0 0x0
+ax 0x8048820 0x0
+ax 0x8048be7 0x0
+ax 0x8048e77 0x0
+ax 0x804cb98 0x0
+ax 0x80488b0 0x0
+ax 0x804cbb6 0x0
+ax 0x80488b0 0x0
+ax 0x804cbce 0x0
+ax 0x80488b0 0x0
+ax 0x804cbe8 0x0
+ax 0x80488b0 0x0
+ax 0x804cb30 0x0
+ax 0x80488b0 0x0
+ax 0x8048e77 0x0
+ax 0x804cb39 0x0
+ax 0x8048800 0x0
+ax 0x80530c0 0x0
+ax 0x8048820 0x0
+ax 0x8048e56 0x0
+ax 0x804f0a4 0x0
+ax 0x8048b44 0x0
+ax 0x804f0e0 0x0
+ax 0x8048b44 0x0
+ax 0x81 0x0
+ax 0x8048a10 0x0
+ax 0x80530a4 0x0
+ax 0x80 0x0
+ax 0x80495c3 0x0
+ax 0x8053133 0x0
+ax 0x80 0x0
+ax 0x805bb80 0x0
+ax 0x4 0x0
+ax 0x8 0x0
+ax 0xc 0x0
+ax 0x10 0x0
+ax 0x14 0x0
+ax 0x18 0x0
+ax 0x1c 0x0
+ax 0x1e 0x0
+ax 0x804a2bb 0x0
+ax 0x8048e56 0x0
+ax 0x804cc34 0x0
+ax 0x80488b0 0x0
+ax 0x8048e77 0x0
+ax 0x8048d4d 0x0
+ax 0x804cc4e 0x0
+ax 0x8048800 0x0
+ax 0x804cbe8 0x0
+ax 0x80488b0 0x0
+ax 0x804cb30 0x0
+ax 0x80488b0 0x0
+ax 0x8048e77 0x0
+ax 0x804cb39 0x0
+ax 0x8048800 0x0
+ax 0x80530c0 0x0
+ax 0x8048820 0x0
+ax 0x64 0x0
+ax 0x80488a0 0x0
+ax 0x80488a0 0x0
+ax 0x804eec7 0x0
+ax 0x8 0x0
+ax 0x804eed0 0x0
+ax 0x80489b0 0x0
+ax 0x804eee1 0x0
+ax 0x8048920 0x0
+ax 0x8048860 0x0
+ax 0x80493ea 0x0
+ax 0x32 0x0
+ax 0x8048960 0x0
+ax 0x80494e9 0x0
+ax 0x8048830 0x0
+ax 0x8048830 0x0
+ax 0x8048870 0x0
+ax 0x804952a 0x0
+ax 0x8048880 0x0
+ax 0x80488e0 0x0
+ax 0x8048980 0x0
+ax 0x1a 0x0
+ax 0x80531c0 0x0
+ax 0xc 0x0
+ax 0xc 0x0
+ax 0x10 0x0
+ax 0x211 0x0
+ax 0x8048e56 0x0
+ax 0x8049045 0x0
+ax 0x16 0x0
+ax 0x804c920 0x0
+ax 0x5b 0x0
+ax 0x18 0x0
+ax 0x80488a0 0x0
+ax 0x80490d0 0x0
+ax 0x18 0x0
+ax 0x10 0x0
+ax 0x10 0x0
+ax 0x1 0x0
+ax 0x18 0x0
+ax 0x1e 0x0
+ax 0x804ce98 0x0
+ax 0x80489b0 0x0
+ax 0x8048850 0x0
+ax 0xc 0x0
+ax 0x804ce9d 0x0
+ax 0x80489b0 0x0
+ax 0x8048850 0x0
+ax 0x10 0x0
+ax 0x804ce9d 0x0
+ax 0x80489b0 0x0
+ax 0x8048850 0x0
+ax 0x14 0x0
+ax 0x804ce9d 0x0
+ax 0x80489b0 0x0
+ax 0x8048850 0x0
+ax 0x80492b5 0x0
+ax 0x1a 0x0
+ax 0x14 0x0
+ax 0x1 0x0
+ax 0x8049348 0x0
+ax 0x16 0x0
+ax 0x14 0x0
+ax 0x804c2a0 0x0
+ax 0x14 0x0
+ax 0x804c2a0 0x0
+ax 0x8048850 0x0
+ax 0x80488b0 0x0
+ax 0x8048e56 0x0
+ax 0x80530c0 0x0
+ax 0x8048820 0x0
+ax 0x804c980 0x0
+ax 0x804c984 0x0
+ax 0x20 0x0
+ax 0x1c 0x0
+ax 0x804ce94 0x0
+ax 0x80489b0 0x0
+ax 0x804ce91 0x0
+ax 0x2 0x0
+ax 0x80490cc 0x0
+ax 0x8049bc2 0x0
+ax 0x8048cac 0x0
+ax 0x80530a4 0x0
+ax 0x3c 0x0
+ax 0x80495c3 0x0
+ax 0x27 0x0
+ax 0x804f10c 0x0
+ax 0x8048b44 0x0
+ax 0x804f13c 0x0
+ax 0x8049bc2 0x0
+ax 0x8048e56 0x0
+ax 0x8048ec9 0x0
+ax 0x11 0x0
+ax 0x804b900 0x0
+ax 0x80488b0 0x0
+ax 0x8048e56 0x0
+ax 0x804cd8c 0x0
+ax 0x80488b0 0x0
+ax 0x804cdc8 0x0
+ax 0x80488b0 0x0
+ax 0x804ce04 0x0
+ax 0x80488b0 0x0
+ax 0x804ce40 0x0
+ax 0x80488b0 0x0
+ax 0x804ce77 0x0
+ax 0x80488b0 0x0
+ax 0x80530c0 0x0
+ax 0x8048820 0x0
+ax 0x80499f8 0x0
+ax 0x8048b8b 0x0
+ax 0x80530a4 0x0
+ax 0x804961c 0x0
+ax 0x35 0x0
+ax 0x804ef98 0x0
+ax 0x8048b44 0x0
+ax 0x80499f8 0x0
+ax 0x804efcc 0x0
+ax 0x8049678 0x0
+ax 0x8049370 0x0
+ax 0x8053122 0x0
+ax 0x8048850 0x0
+ax 0x804a03c 0x0
+ax 0x80499f8 0x0
+ax 0x804ef24 0x0
+ax 0x8048b44 0x0
+ax 0x80499f8 0x0
+ax 0x8049c43 0x0
+ax 0x8048c3f 0x0
+ax 0x80530a4 0x0
+ax 0x804961c 0x0
+ax 0x35 0x0
+ax 0x804f1dc 0x0
+ax 0x8048b44 0x0
+ax 0x804f214 0x0
+ax 0x8049c43 0x0
+ax 0x804eea0 0x0
+ax 0x8048d01 0x0
+ax 0x8049cbf 0x0
+ax 0x80530a4 0x0
+ax 0x804961c 0x0
+ax 0x51 0x0
+ax 0x8049cd5 0x0
+ax 0x71 0x0
+ax 0x58 0x0
+ax 0x8049cd5 0x0
+ax 0x78 0x0
+ax 0x2f 0x0
+ax 0x804f2ec 0x0
+ax 0x8048b44 0x0
+ax 0x37 0x0
+ax 0x8 0x0
+ax 0x8049cd5 0x0
+ax 0x54 0x0
+ax 0x32 0x0
+ax 0x8048a10 0x0
+ax 0x805309c 0x0
+ax 0x13 0x0
+ax 0x80531b4 0x0
+ax 0x804952c 0x0
+ax 0x8049ed7 0x0
+ax 0x54 0x0
+ax 0x8048f70 0x0
+ax 0x1 0x0
+ax 0x804f337 0x0
+ax 0x8048b44 0x0
+ax 0x8053122 0x0
+ax 0x80489d0 0x0
+ax 0x6 0x0
+ax 0x804f34f 0x0
+ax 0x8053122 0x0
+ax 0x80489b0 0x0
+ax 0x804a2bb 0x0
+ax 0x8049b2a 0x0
+ax 0x804f310 0x0
+ax 0x8048b44 0x0
+ax 0x8049f8c 0x0
+ax 0x5 0x0
+ax 0x54 0x0
+ax 0x8048f70 0x0
+ax 0x80530a4 0x0
+ax 0x804961c 0x0
+ax 0x40 0x0
+ax 0x60 0x0
+ax 0x20 0x0
+ax 0x8049ea2 0x0
+ax 0x6 0x0
+ax 0x8049ef6 0x0
+ax 0x7a 0x0
+ax 0x8049e36 0x1
+ax 0x5a 0x0
+ax 0x8 0x0
+ax 0x804eea0 0x0
+ax 0x8049434 0x0
+ax 0x8 0x0
+ax 0x805309c 0x0
+ax 0x80531b4 0x0
+ax 0x8049f97 0x0
+ax 0x8048ac0 0x0
+ax 0x804a9d0 0x0
+ax 0x80488d0 0x0
+ax 0x8052f24 0x0
+ax 0x8052f24 0x0
+ax 0x8052f14 0x0
+ax 0x8052f14 0x0
+ax 0x805303c 0x0
+ax 0x78 0x0
+ax 0x80487d0 0x0
+ax 0x8048a9f 0x0
+ax 0x8048ac6 0x0
+ax 0x8049083 0x0
+ax 0x8049089 0x0
+ax 0x804973c 0x0
+ax 0x8049741 0x0
+ax 0x8049747 0x0
+ax 0x804974d 0x0
+ax 0x8049753 0x0
+ax 0x8049759 0x0
+ax 0x804975f 0x0
+ax 0x8049765 0x0
+ax 0x8049895 0x0
+ax 0x8049901 0x0
+ax 0x8049906 0x0
+ax 0x804990c 0x0
+ax 0x8049912 0x0
+ax 0x8049ab1 0x0
+ax 0x8049da2 0x0
+ax 0x804a22b 0x0
+ax 0x804a242 0x0
+ax 0x804a257 0x0
+ax 0x804a257 0x0
+ax 0x804a257 0x0
+ax 0x804a257 0x0
+ax 0x804a257 0x0
+ax 0x804a257 0x0
+ax 0x804a257 0x0
+ax 0x804a257 0x0
+ax 0x804a257 0x0
+ax 0x804a257 0x0
+ax 0x804a257 0x0
+ax 0x804a257 0x0
+ax 0x804a257 0x0
+ax 0x804a257 0x0
+ax 0x804a257 0x0
+ax 0x804a257 0x0
+ax 0x804a257 0x0
+ax 0x804a257 0x0
+ax 0x804a257 0x0
+ax 0x804a257 0x0
+ax 0x804a257 0x0
+ax 0x804a257 0x0
+ax 0x804a257 0x0
+ax 0x804a257 0x0
+ax 0x804a257 0x0
+ax 0x804a257 0x0
+ax 0x804a257 0x0
+ax 0x804a257 0x0
+ax 0x804a257 0x0
+ax 0x804a257 0x0
+ax 0x804a281 0x0
+ax 0x804a5f6 0x0
+ax 0x2e2e 0x0
+ax 0x2e2e 0x0
+ax 0x804a93f 0x0
+ax 0x804a93f 0x0
+ax 0x804a93f 0x0
+ax 0x804a93f 0x0
+ax 0x804a93f 0x0
+ax 0x804a93f 0x0
+ax 0x804a93f 0x0
+ax 0x804a93f 0x0
+ax 0x804a93f 0x0
+ax 0x804a93f 0x0
+ax 0x804a93f 0x0
+ax 0x804a93f 0x0
+ax 0x804a93f 0x0
+ax 0x804a93f 0x0
+ax 0x804a93f 0x0
+ax 0x804a93f 0x0
+ax 0x804a93f 0x0
+ax 0x804a93f 0x0
+ax 0x804a93f 0x0
+ax 0x804a93f 0x0
+ax 0x804a93f 0x0
+ax 0x804a93f 0x0
+ax 0x804a93f 0x0
+ax 0x804a93f 0x0
+ax 0x804a93f 0x0
+ax 0x804a93f 0x0
+ax 0x804a93f 0x0
+ax 0x804a93f 0x0
+ax 0x804a93f 0x0
+ax 0x804a93f 0x0
+ax 0x804a93f 0x0
+ax 0x804a93f 0x0
+ax 0x804a93f 0x0
+ax 0x804a93f 0x0
+ax 0x804a93f 0x0
+ax 0x804a93f 0x0
+ax 0x804a93f 0x0
+ax 0x804a93f 0x0
+ax 0x804a93f 0x0
+ax 0x804a93f 0x0
+ax 0x804a93f 0x0
+ax 0x804a93f 0x0
+ax 0x804a93f 0x0
+ax 0x804a93f 0x0
+ax 0x804a93f 0x0
+ax 0x804a93f 0x0
+ax 0x804a9d7 0x0
+ax 0x80530c8 0x0
+ax 0x8052f20 0x0
+ax 0x80530c4 0x0
+ax 0x80530c8 0x0
+ax 0x8052f1c 0x0
+ax 0x80530c8 0x0
+ax 0x80488a0 0x0
+ax 0x8048880 0x0
+ax 0x804aa28 0x0
+ax 0x80530cc 0x0
+ax 0x8048ae4 0x0
+ax 0x8048800 0x0
+ax 0x8048e56 0x0
+ax 0x8048f56 0x0
+ax 0x16 0x0
+ax 0x8 0x0
+ax 0x804c2a0 0x0
+ax 0x80488b0 0x0
+ax 0x8048e56 0x0
+ax 0x80530c0 0x0
+ax 0x8048820 0x0
+ax 0x8 0x0
+ax 0xc 0x0
+ax 0x80489d0 0x0
+ax 0x80489d0 0x0
+ax 0x804a9c0 0x0
+ax 0x804a9c2 0x0
+ax 0x30 0x0
+ax 0x8048794 0x0
+ax 0x38 0x0
+ax 0x34 0x0
+ax 0x804a9c0 0x0
+ax 0x8048aaf 0x0
+ax 0x8048aa8 0x0
+ax 0x8052f1c 0x0
+ax 0x8048a90 0x0
+ax 0x8048ae1 0x0
+ax 0x8048ae1 0x0
+ax 0x8048d26 0x0
+ax 0x8048dfa 0x0
+ax 0x8048eb3 0x0
+ax 0x8048f3a 0x0
+ax 0x8048ff3 0x0
+ax 0x804900b 0x0
+ax 0x8049033 0x0
+ax 0x8049041 0x0
+ax 0x8048fbd 0x0
+ax 0x8049092 0x0
+ax 0x80490cc 0x0
+ax 0x8049068 0x0
+ax 0x80492b1 0x0
+ax 0x8049272 0x0
+ax 0x80492c7 0x0
+ax 0x804941e 0x0
+ax 0x8049404 0x0
+ax 0x80494e8 0x0
+ax 0x80494ac 0x0
+ax 0x804954f 0x0
+ax 0x804961a 0x0
+ax 0x804961a 0x0
+ax 0x80495e7 0x0
+ax 0x8049673 0x0
+ax 0x8049657 0x0
+ax 0x80499e9 0x0
+ax 0x8049835 0x0
+ax 0x8049678 0x0
+ax 0x8048a10 0x0
+ax 0x80530e0 0x0
+ax 0x804a137 0x0
+ax 0x804ef53 0x0
+ax 0x80498bb 0x0
+ax 0x804ef6c 0x0
+ax 0x8048b44 0x0
+ax 0x80499f8 0x0
+ax 0x804a3dd 0x0
+ax 0x8053101 0x0
+ax 0x80487f0 0x0
+ax 0x80499f7 0x0
+ax 0x8053122 0x0
+ax 0x8053133 0x0
+ax 0x804993f 0x0
+ax 0x8049957 0x0
+ax 0x804997f 0x0
+ax 0x804998d 0x0
+ax 0x805bb80 0x0
+ax 0x80499f7 0x0
+ax 0x8048d95 0x0
+ax 0x80499f8 0x0
+ax 0x804979f 0x0
+ax 0x8049a90 0x0
+ax 0x8049aa8 0x0
+ax 0x8049ad0 0x0
+ax 0x8049ade 0x0
+ax 0x8049bb5 0x0
+ax 0x8049bc2 0x0
+ax 0x8048d95 0x0
+ax 0x8049bc2 0x0
+ax 0x8049b5c 0x0
+ax 0x8049c36 0x0
+ax 0x8049a13 0x0
+ax 0x8049c43 0x0
+ax 0x8049c43 0x0
+ax 0x8048d95 0x0
+ax 0x8049c43 0x0
+ax 0x8049be6 0x0
+ax 0x8049c7f 0x0
+ax 0x8049c88 0x0
+ax 0x8049c94 0x0
+ax 0x8049c9d 0x0
+ax 0x8049cb3 0x0
+ax 0x8049cb3 0x0
+ax 0x8049c73 0x0
+ax 0x8049d63 0x0
+ax 0x8049d53 0x0
+ax 0x8049dea 0x0
+ax 0x8049dea 0x0
+ax 0x8049e1d 0x0
+ax 0x8049e1d 0x0
+ax 0x8049ed6 0x0
+ax 0x8049e9e 0x0
+ax 0x8049e9e 0x0
+ax 0x8049e4d 0x0
+ax 0x8049ed7 0x0
+ax 0x8049ed7 0x0
+ax 0x8049ef6 0x0
+ax 0x8049d88 0x0
+ax 0x8049f2e 0x0
+ax 0x8049fd6 0x0
+ax 0x8049fe9 0x0
+ax 0x804a003 0x0
+ax 0x804a020 0x0
+ax 0x804a033 0x0
+ax 0x8049fc2 0x0
+ax 0x804a0f0 0x0
+ax 0x804a111 0x0
+ax 0x804a128 0x0
+ax 0x804a1a9 0x0
+ax 0x804a1da 0x0
+ax 0x804a1f4 0x0
+ax 0x804a236 0x0
+ax 0x804a24e 0x0
+ax 0x804a276 0x0
+ax 0x804a284 0x0
+ax 0x804a37c 0x0
+ax 0x804a3aa 0x0
+ax 0x804a3ce 0x0
+ax 0x804a419 0x0
+ax 0x804a42b 0x0
+ax 0x804a445 0x0
+ax 0x804a453 0x0
+ax 0x804a4f4 0x0
+ax 0x804a550 0x0
+ax 0x804a550 0x0
+ax 0x804a616 0x0
+ax 0x804a67b 0x0
+ax 0x804a67e 0x0
+ax 0x804a61f 0x0
+ax 0x804a826 0x0
+ax 0x804a826 0x0
+ax 0x804a756 0x0
+ax 0x804a8c0 0x0
+ax 0x804a87b 0x0
+ax 0x804a941 0x0
+ax 0x804a908 0x0
+ax 0x804a8e2 0x0
+ax 0x804a941 0x0
+ax 0x804a9a9 0x0
+ax 0x804a988 0x0
+ax 0x804a9f4 0x0
+ax 0x804a9e8 0x0
+f fcn.08048794 46 0x08048794
+af+ 0x08048794 46 fcn.08048794 f n
+afb+ 0x08048794 0x08048794 26 0x080487b3 0x080487ae n n
+afb+ 0x08048794 0x080487ae 5 0x080487b3 0xffffffffffffffff n n
+afb+ 0x08048794 0x080487b3 15 0xffffffffffffffff 0xffffffffffffffff n n
+f sym.imp.setbuf 16 0x080487e0
+af+ 0x080487e0 16 sym.imp.setbuf s n
+afb+ 0x080487e0 0x080487e0 16 0x080487d0 0xffffffffffffffff n n
+afb+ 0x080487e0 0x080487d0 16 0x080487e0 0xffffffffffffffff n n
+f sym.imp.strcmp 16 0x080487f0
+af+ 0x080487f0 16 sym.imp.strcmp s n
+afb+ 0x080487f0 0x080487f0 16 0x080487d0 0xffffffffffffffff n n
+afb+ 0x080487f0 0x080487d0 32 0x080487d0 0xffffffffffffffff n n
+f sym.imp.printf 16 0x08048800
+af+ 0x08048800 16 sym.imp.printf s n
+afb+ 0x08048800 0x08048800 16 0x080487d0 0xffffffffffffffff n n
+afb+ 0x08048800 0x080487d0 32 0x080487d0 0xffffffffffffffff n n
+f sym.imp.strcspn 16 0x08048810
+af+ 0x08048810 16 sym.imp.strcspn s n
+afb+ 0x08048810 0x08048810 16 0x080487d0 0xffffffffffffffff n n
+afb+ 0x08048810 0x080487d0 32 0x080487d0 0xffffffffffffffff n n
+f sym.imp.fflush 16 0x08048820
+af+ 0x08048820 16 sym.imp.fflush s n
+afb+ 0x08048820 0x08048820 16 0x080487d0 0xffffffffffffffff n n
+afb+ 0x08048820 0x080487d0 32 0x080487d0 0xffffffffffffffff n n
+f sym.imp.free 16 0x08048830
+af+ 0x08048830 16 sym.imp.free s n
+afb+ 0x08048830 0x08048830 16 0x080487d0 0xffffffffffffffff n n
+afb+ 0x08048830 0x080487d0 32 0x080487d0 0xffffffffffffffff n n
+f sym.imp.strdup 16 0x08048840
+af+ 0x08048840 16 sym.imp.strdup s n
+afb+ 0x08048840 0x08048840 16 0x080487d0 0xffffffffffffffff n n
+afb+ 0x08048840 0x080487d0 32 0x080487d0 0xffffffffffffffff n n
+f sym.imp.memcpy 16 0x08048850
+af+ 0x08048850 16 sym.imp.memcpy s n
+afb+ 0x08048850 0x08048850 16 0x080487d0 0xffffffffffffffff n n
+afb+ 0x08048850 0x080487d0 32 0x080487d0 0xffffffffffffffff n n
+f sym.imp.fgets 16 0x08048860
+af+ 0x08048860 16 sym.imp.fgets s n
+afb+ 0x08048860 0x08048860 16 0x080487d0 0xffffffffffffffff n n
+afb+ 0x08048860 0x080487d0 32 0x080487d0 0xffffffffffffffff n n
+f sym.imp.fclose 16 0x08048870
+af+ 0x08048870 16 sym.imp.fclose s n
+afb+ 0x08048870 0x08048870 16 0x080487d0 0xffffffffffffffff n n
+afb+ 0x08048870 0x080487d0 32 0x080487d0 0xffffffffffffffff n n
+f sym.imp.time 16 0x08048880
+af+ 0x08048880 16 sym.imp.time s n
+afb+ 0x08048880 0x08048880 16 0x080487d0 0xffffffffffffffff n n
+afb+ 0x08048880 0x080487d0 32 0x080487d0 0xffffffffffffffff n n
+f sym.imp.err 16 0x08048890
+af+ 0x08048890 16 sym.imp.err s n
+afb+ 0x08048890 0x08048890 16 0x080487d0 0xffffffffffffffff n n
+afb+ 0x08048890 0x080487d0 32 0x080487d0 0xffffffffffffffff n n
+f sym.imp.malloc 16 0x080488a0
+af+ 0x080488a0 16 sym.imp.malloc s n
+afb+ 0x080488a0 0x080488a0 16 0x080487d0 0xffffffffffffffff n n
+afb+ 0x080488a0 0x080487d0 32 0x080487d0 0xffffffffffffffff n n
+f sym.imp.puts 16 0x080488b0
+af+ 0x080488b0 16 sym.imp.puts s n
+afb+ 0x080488b0 0x080488b0 16 0x080487d0 0xffffffffffffffff n n
+afb+ 0x080488b0 0x080487d0 32 0x080487d0 0xffffffffffffffff n n
+f sym.imp.strerror 16 0x080488c0
+af+ 0x080488c0 16 sym.imp.strerror s n
+afb+ 0x080488c0 0x080488c0 16 0x080487d0 0xffffffffffffffff n n
+afb+ 0x080488c0 0x080487d0 32 0x080487d0 0xffffffffffffffff n n
+f loc.imp.__gmon_start__ 16 0x080488d0
+af+ 0x080488d0 16 loc.imp.__gmon_start__ f n
+afb+ 0x080488d0 0x080488d0 16 0x080487d0 0xffffffffffffffff n n
+afb+ 0x080488d0 0x080487d0 32 0x080487d0 0xffffffffffffffff n n
+f sym.imp.srand 16 0x080488e0
+af+ 0x080488e0 16 sym.imp.srand s n
+afb+ 0x080488e0 0x080488e0 16 0x080487d0 0xffffffffffffffff n n
+afb+ 0x080488e0 0x080487d0 32 0x080487d0 0xffffffffffffffff n n
+f sym.imp.vprintf 16 0x080488f0
+af+ 0x080488f0 16 sym.imp.vprintf s n
+afb+ 0x080488f0 0x080488f0 16 0x080487d0 0xffffffffffffffff n n
+afb+ 0x080488f0 0x080487d0 32 0x080487d0 0xffffffffffffffff n n
+f sym.imp.__libc_start_main 16 0x08048900
+af+ 0x08048900 16 sym.imp.__libc_start_main s n
+afb+ 0x08048900 0x08048900 16 0x080487d0 0xffffffffffffffff n n
+afb+ 0x08048900 0x080487d0 32 0x080487d0 0xffffffffffffffff n n
+f sym.imp.fprintf 16 0x08048910
+af+ 0x08048910 16 sym.imp.fprintf s n
+afb+ 0x08048910 0x08048910 16 0x080487d0 0xffffffffffffffff n n
+afb+ 0x08048910 0x080487d0 32 0x080487d0 0xffffffffffffffff n n
+f sym.imp.fopen 16 0x08048920
+af+ 0x08048920 16 sym.imp.fopen s n
+afb+ 0x08048920 0x08048920 16 0x080487d0 0xffffffffffffffff n n
+afb+ 0x08048920 0x080487d0 32 0x080487d0 0xffffffffffffffff n n
+f sym.imp.memset 16 0x08048930
+af+ 0x08048930 16 sym.imp.memset s n
+afb+ 0x08048930 0x08048930 16 0x080487d0 0xffffffffffffffff n n
+afb+ 0x08048930 0x080487d0 32 0x080487d0 0xffffffffffffffff n n
+f sym.imp.putchar 16 0x08048940
+af+ 0x08048940 16 sym.imp.putchar s n
+afb+ 0x08048940 0x08048940 16 0x080487d0 0xffffffffffffffff n n
+afb+ 0x08048940 0x080487d0 32 0x080487d0 0xffffffffffffffff n n
+f sym.imp.__errno_location 16 0x08048950
+af+ 0x08048950 16 sym.imp.__errno_location s n
+afb+ 0x08048950 0x08048950 16 0x080487d0 0xffffffffffffffff n n
+afb+ 0x08048950 0x080487d0 32 0x080487d0 0xffffffffffffffff n n
+f sym.imp.strncpy 16 0x08048960
+af+ 0x08048960 16 sym.imp.strncpy s n
+afb+ 0x08048960 0x08048960 16 0x080487d0 0xffffffffffffffff n n
+afb+ 0x08048960 0x080487d0 32 0x080487d0 0xffffffffffffffff n n
+f sym.imp.fgetc 16 0x08048970
+af+ 0x08048970 16 sym.imp.fgetc s n
+afb+ 0x08048970 0x08048970 16 0x080487d0 0xffffffffffffffff n n
+afb+ 0x08048970 0x080487d0 32 0x080487d0 0xffffffffffffffff n n
+f sym.imp.rand 16 0x08048980
+af+ 0x08048980 16 sym.imp.rand s n
+afb+ 0x08048980 0x08048980 16 0x080487d0 0xffffffffffffffff n n
+afb+ 0x08048980 0x080487d0 32 0x080487d0 0xffffffffffffffff n n
+f sym.imp.strtok 16 0x08048990
+af+ 0x08048990 16 sym.imp.strtok s n
+afb+ 0x08048990 0x08048990 16 0x080487d0 0xffffffffffffffff n n
+afb+ 0x08048990 0x080487d0 32 0x080487d0 0xffffffffffffffff n n
+f sym.imp.readdir 16 0x080489a0
+af+ 0x080489a0 16 sym.imp.readdir s n
+afb+ 0x080489a0 0x080489a0 16 0x080487d0 0xffffffffffffffff n n
+afb+ 0x080489a0 0x080487d0 32 0x080487d0 0xffffffffffffffff n n
+f sym.imp.sprintf 16 0x080489b0
+af+ 0x080489b0 16 sym.imp.sprintf s n
+afb+ 0x080489b0 0x080489b0 16 0x080487d0 0xffffffffffffffff n n
+afb+ 0x080489b0 0x080487d0 32 0x080487d0 0xffffffffffffffff n n
+f sym.imp.qsort 16 0x080489c0
+af+ 0x080489c0 16 sym.imp.qsort s n
+afb+ 0x080489c0 0x080489c0 16 0x080487d0 0xffffffffffffffff n n
+afb+ 0x080489c0 0x080487d0 32 0x080487d0 0xffffffffffffffff n n
+f sym.imp.strtol 16 0x080489d0
+af+ 0x080489d0 16 sym.imp.strtol s n
+afb+ 0x080489d0 0x080489d0 16 0x080487d0 0xffffffffffffffff n n
+afb+ 0x080489d0 0x080487d0 32 0x080487d0 0xffffffffffffffff n n
+f sym.imp.fputs 16 0x080489e0
+af+ 0x080489e0 16 sym.imp.fputs s n
+afb+ 0x080489e0 0x080489e0 16 0x080487d0 0xffffffffffffffff n n
+afb+ 0x080489e0 0x080487d0 32 0x080487d0 0xffffffffffffffff n n
+f sym.imp.closedir 16 0x080489f0
+af+ 0x080489f0 16 sym.imp.closedir s n
+afb+ 0x080489f0 0x080489f0 16 0x080487d0 0xffffffffffffffff n n
+afb+ 0x080489f0 0x080487d0 32 0x080487d0 0xffffffffffffffff n n
+f sym.imp.opendir 16 0x08048a00
+af+ 0x08048a00 16 sym.imp.opendir s n
+afb+ 0x08048a00 0x08048a00 16 0x080487d0 0xffffffffffffffff n n
+afb+ 0x08048a00 0x080487d0 32 0x080487d0 0xffffffffffffffff n n
+f sym.imp.calloc 16 0x08048a10
+af+ 0x08048a10 16 sym.imp.calloc s n
+afb+ 0x08048a10 0x08048a10 16 0x080487d0 0xffffffffffffffff n n
+afb+ 0x08048a10 0x080487d0 32 0x080487d0 0xffffffffffffffff n n
+f sym.imp.rewinddir 16 0x08048a20
+af+ 0x08048a20 16 sym.imp.rewinddir s n
+afb+ 0x08048a20 0x08048a20 16 0x080487d0 0xffffffffffffffff n n
+afb+ 0x08048a20 0x080487d0 32 0x080487d0 0xffffffffffffffff n n
+f entry0 34 0x08048a30
+af+ 0x08048a30 34 entry0 f n
+afb+ 0x08048a30 0x08048a30 34 0xffffffffffffffff 0xffffffffffffffff n n
+f fcn.08048ac0 35 0x08048ac0
+af+ 0x08048ac0 35 fcn.08048ac0 f n
+afb+ 0x08048ac0 0x08048ac0 15 0x08048ae1 0x08048acf n n
+afb+ 0x08048ac0 0x08048acf 9 0x08048ae1 0x08048ad8 n n
+afb+ 0x08048ac0 0x08048ad8 9 0x08048ae1 0xffffffffffffffff n n
+afb+ 0x08048ac0 0x08048ae1 2 0xffffffffffffffff 0xffffffffffffffff n n
+f fcn.print_memory_info 94 0x08048ae4
+af+ 0x08048ae4 94 fcn.print_memory_info f n
+afb+ 0x08048ae4 0x08048ae4 94 0xffffffffffffffff 0xffffffffffffffff n n
+afv 12 local_ch int @ 0x8048ae4
+afv 16 local_10h int @ 0x8048ae4
+f fcn.print 71 0x08048b44
+af+ 0x08048b44 71 fcn.print f n
+afb+ 0x08048b44 0x08048b44 71 0xffffffffffffffff 0xffffffffffffffff n n
+afa 8 arg_8h int @ 0x8048b44
+afa 12 arg_ch int @ 0x8048b44
+afv 12 local_ch int @ 0x8048b44
+f fcn.print_user_menu 92 0x08048b8b
+af+ 0x08048b8b 92 fcn.print_user_menu f n
+afb+ 0x08048b8b 0x08048b8b 92 0xffffffffffffffff 0xffffffffffffffff n n
+f fcn.print_options_menu_banner 88 0x08048be7
+af+ 0x08048be7 88 fcn.print_options_menu_banner f n
+afb+ 0x08048be7 0x08048be7 88 0xffffffffffffffff 0xffffffffffffffff n n
+f fcn.print_options_menu 109 0x08048c3f
+af+ 0x08048c3f 109 fcn.print_options_menu f n
+afb+ 0x08048c3f 0x08048c3f 109 0xffffffffffffffff 0xffffffffffffffff n n
+f fcn.print_replay_menu 85 0x08048cac
+af+ 0x08048cac 85 fcn.print_replay_menu f n
+afb+ 0x08048cac 0x08048cac 85 0xffffffffffffffff 0xffffffffffffffff n n
+f fcn.print_category_choices 148 0x08048d01
+af+ 0x08048d01 148 fcn.print_category_choices f n
+afb+ 0x08048d01 0x08048d01 37 0x08048d4d 0xffffffffffffffff n n
+afb+ 0x08048d01 0x08048d4d 15 0x08048d26 0x08048d5c n n
+afb+ 0x08048d01 0x08048d26 39 0x08048d4d 0xffffffffffffffff n n
+afb+ 0x08048d01 0x08048d5c 57 0xffffffffffffffff 0xffffffffffffffff n n
+afa 8 categories char** @ 0x8048d01
+afv 12 local_ch int @ 0x8048d01
+f fcn.print_score_board 193 0x08048d95
+af+ 0x08048d95 193 fcn.print_score_board f n
+afb+ 0x08048d95 0x08048d95 101 0x08048e2f 0xffffffffffffffff n n
+afb+ 0x08048d95 0x08048e2f 8 0x08048dfa 0x08048e37 n n
+afb+ 0x08048d95 0x08048dfa 53 0x08048e2f 0xffffffffffffffff n n
+afb+ 0x08048d95 0x08048e37 31 0xffffffffffffffff 0xffffffffffffffff n n
+afv 12 local_ch int @ 0x8048d95
+afv 16 local_10h int @ 0x8048d95
+afv 20 local_14h int @ 0x8048d95
+f fcn.print_long_separator_asterisk 33 0x08048e56
+af+ 0x08048e56 33 fcn.print_long_separator_asterisk f n
+afb+ 0x08048e56 0x08048e56 33 0xffffffffffffffff 0xffffffffffffffff n n
+f fcn.print_caret_separator 33 0x08048e77
+af+ 0x08048e77 33 fcn.print_caret_separator f n
+afb+ 0x08048e77 0x08048e77 33 0xffffffffffffffff 0xffffffffffffffff n n
+f fcn.print_banner 135 0x08048e98
+af+ 0x08048e98 135 fcn.print_banner f n
+afb+ 0x08048e98 0x08048e98 27 0x08048ec9 0xffffffffffffffff n n
+afb+ 0x08048e98 0x08048ec9 6 0x08048eb3 0x08048ecf n n
+afb+ 0x08048e98 0x08048eb3 22 0x08048ec9 0xffffffffffffffff n n
+afb+ 0x08048e98 0x08048ecf 80 0xffffffffffffffff 0xffffffffffffffff n n
+afa 17 arg_11h int @ 0x8048e98
+afv 12 local_ch int @ 0x8048e98
+f fcn.print_playboard 1023 0x08048f70
+af+ 0x08048f70 1023 fcn.print_playboard f n
+afb+ 0x08048f70 0x08048f70 77 0x08049045 0xffffffffffffffff n n
+afb+ 0x08048f70 0x08049045 10 0x08048fbd 0x0804904f n n
+afb+ 0x08048f70 0x08048fbd 40 0x08048ff3 0x08048fe5 n n
+afb+ 0x08048f70 0x08048ff3 9 0x0804900b 0x08048ffc n n
+afb+ 0x08048f70 0x0804900b 29 0x08049033 0x08049028 n n
+afb+ 0x08048f70 0x08049033 7 0x08049041 0x0804903a n n
+afb+ 0x08048f70 0x08049041 4 0x08049045 0xffffffffffffffff n n
+afb+ 0x08048f70 0x0804904f 25 0x080490d0 0xffffffffffffffff n n
+afb+ 0x08048f70 0x080490d0 8 0x08049068 0x080490d8 n n
+afb+ 0x08048f70 0x08049068 14 0x08049092 0x08049076 n n
+afb+ 0x08048f70 0x08049092 15 0x080490cc 0x080490a1 n n
+afb+ 0x08048f70 0x080490cc 4 0x080490d0 0xffffffffffffffff n n
+afb+ 0x08048f70 0x080490d8 410 0x080492b5 0xffffffffffffffff n n
+afb+ 0x08048f70 0x080492b5 6 0x08049272 0x080492bb n n
+afb+ 0x08048f70 0x08049272 15 0x080492b1 0x08049281 n n
+afb+ 0x08048f70 0x080492b1 4 0x080492b5 0xffffffffffffffff n n
+afb+ 0x08048f70 0x080492bb 12 0x08049348 0xffffffffffffffff n n
+afb+ 0x08048f70 0x08049348 10 0x080492c7 0x08049352 n n
+afb+ 0x08048f70 0x080492c7 129 0x08049348 0xffffffffffffffff n n
+afb+ 0x08048f70 0x08049352 29 0xffffffffffffffff 0xffffffffffffffff n n
+afb+ 0x08048f70 0x08049281 48 0x080492b1 0xffffffffffffffff n n
+afb+ 0x08048f70 0x080490a1 43 0x080490cc 0xffffffffffffffff n n
+afb+ 0x08048f70 0x08049076 28 0x080490cc 0xffffffffffffffff n n
+afb+ 0x08048f70 0x0804903a 7 0x08049041 0xffffffffffffffff n n
+afb+ 0x08048f70 0x08049028 11 0x08049033 0xffffffffffffffff n n
+afb+ 0x08048f70 0x08048ffc 15 0x0804900b 0xffffffffffffffff n n
+afb+ 0x08048f70 0x08048fe5 14 0x08048ff3 0xffffffffffffffff n n
+afa 12 arg_ch int @ 0x8048f70
+afa 16 arg_10h int @ 0x8048f70
+afa 20 arg_14h int @ 0x8048f70
+afa 22 arg_16h int @ 0x8048f70
+afa 24 arg_18h int @ 0x8048f70
+afa 26 arg_1ah int @ 0x8048f70
+afa 28 arg_1ch int @ 0x8048f70
+afv 28 index int @ 0x8048f70
+afv 32 local_20h int @ 0x8048f70
+afv 36 local_24h int @ 0x8048f70
+afv 40 local_28h int @ 0x8048f70
+afv 44 local_2ch int @ 0x8048f70
+afv 108 local_6ch int @ 0x8048f70
+afv 2224 buffer int @ 0x8048f70
+afv 2236 local_8bch int @ 0x8048f70
+f fcn.get_random_number 122 0x08049370
+af+ 0x08049370 122 fcn.get_random_number f n
+afb+ 0x08049370 0x08049370 122 0xffffffffffffffff 0xffffffffffffffff n n
+afv 12 local_ch int @ 0x8049370
+f fcn.strip_character 74 0x080493ea
+af+ 0x080493ea 74 fcn.strip_character f n
+afb+ 0x080493ea 0x080493ea 26 0x08049422 0xffffffffffffffff n n
+afb+ 0x080493ea 0x08049422 10 0x08049404 0x0804942c n n
+afb+ 0x080493ea 0x08049404 22 0x0804941e 0x0804941a n n
+afb+ 0x080493ea 0x0804941e 4 0x08049422 0xffffffffffffffff n n
+afb+ 0x080493ea 0x0804942c 8 0xffffffffffffffff 0xffffffffffffffff n n
+afb+ 0x080493ea 0x0804941a 4 0x0804941e 0xffffffffffffffff n n
+afa 8 haystack int @ 0x80493ea
+afa 12 needle int @ 0x80493ea
+afv 4 from int @ 0x80493ea
+afv 8 to int @ 0x80493ea
+afv 20 needle_cpy int @ 0x80493ea
+f fcn.read_words 248 0x08049434
+af+ 0x08049434 248 fcn.read_words f n
+afb+ 0x08049434 0x08049434 113 0x080494e8 0x080494a5 n n
+afb+ 0x08049434 0x080494e8 1 0x080494e9 0xffffffffffffffff b n
+afb+ 0x08049434 0x080494ac 60 0x080494e9 0xffffffffffffffff n n
+afb+ 0x08049434 0x080494e9 29 0x080494ac 0x08049506 n n
+afb+ 0x08049434 0x08049506 36 0x0804952a 0xffffffffffffffff b n
+afb+ 0x08049434 0x080494a5 7 0x0804952a 0xffffffffffffffff n n
+afb+ 0x08049434 0x0804952a 2 0xffffffffffffffff 0xffffffffffffffff n n
+afa 8 filename int @ 0x8049434
+afv 0 buffer int @ 0x8049434
+afv 12 index int @ 0x8049434
+afv 16 file_path int @ 0x8049434
+afv 20 buffer_size int @ 0x8049434
+afv 24 buffer int @ 0x8049434
+afv 28 fd int @ 0x8049434
+f fcn.get_random_word 151 0x0804952c
+af+ 0x0804952c 151 fcn.get_random_word f n
+afb+ 0x0804952c 0x0804952c 35 0x0804954f 0xffffffffffffffff b n
+afb+ 0x0804952c 0x0804954f 60 0x0804954f 0x0804958b n n
+afb+ 0x0804952c 0x0804958b 56 0xffffffffffffffff 0xffffffffffffffff n n
+afa 8 number_words int @ 0x804952c
+afa 12 buffer int @ 0x804952c
+afv 12 local_ch int @ 0x804952c
+afv 28 local_1ch int @ 0x804952c
+f fcn.read_string 89 0x080495c3
+af+ 0x080495c3 89 fcn.read_string f n
+afb+ 0x080495c3 0x080495c3 36 0x080495f6 0xffffffffffffffff n n
+afb+ 0x080495c3 0x080495f6 22 0x0804961a 0x0804960c n n
+afb+ 0x080495c3 0x0804961a 2 0xffffffffffffffff 0xffffffffffffffff n n
+afb+ 0x080495c3 0x0804960c 6 0x0804961a 0x08049612 n n
+afb+ 0x080495c3 0x08049612 8 0x080495e7 0x0804961a n n
+afb+ 0x080495c3 0x080495e7 15 0x080495f6 0xffffffffffffffff n n
+afa 8 buffer char* @ 0x80495c3
+afa 10 arg_ah int @ 0x80495c3
+afa 12 len int @ 0x80495c3
+afv 1 local_1h int @ 0x80495c3
+afv 12 local_ch int @ 0x80495c3
+afv 16 local_10h int @ 0x80495c3
+f fcn.read_char 92 0x0804961c
+af+ 0x0804961c 92 fcn.read_char f n
+afb+ 0x0804961c 0x0804961c 59 0x08049667 0xffffffffffffffff n n
+afb+ 0x0804961c 0x08049667 6 0x08049673 0x0804966d n n
+afb+ 0x0804961c 0x08049673 5 0xffffffffffffffff 0xffffffffffffffff n n
+afb+ 0x0804961c 0x0804966d 6 0x08049657 0x08049673 n n
+afb+ 0x0804961c 0x08049657 16 0x08049667 0xffffffffffffffff n n
+afa 10 arg_ah int @ 0x804961c
+afv 1 local_1h int @ 0x804961c
+afv 12 local_ch int @ 0x804961c
+afv 16 local_10h int @ 0x804961c
+f fcn.read_credentials 264 0x08049678
+af+ 0x08049678 264 fcn.read_credentials f n
+afb+ 0x08049678 0x08049678 264 0xffffffffffffffff 0xffffffffffffffff n n
+afv 12 local_ch int @ 0x8049678
+afv 16 local_10h int @ 0x8049678
+f fcn.user_menu 659 0x08049780
+af+ 0x08049780 659 fcn.user_menu f n
+afa 100003 arg_186a3h int @ 0x8049780
+afv 0 local_0h int @ 0x8049780
+afv 28 local_1ch int @ 0x8049780
+afv 32 local_20h int @ 0x8049780
+afv 36 local_24h int @ 0x8049780
+afv 40 local_28h int @ 0x8049780
+afv 44 user_file_content char* @ 0x8049780
+afv 256 splitted_user_file_bis char* @ 0x8049780
+afv 268 local_10ch int @ 0x8049780
+f fcn.change_status 279 0x08049a13
+af+ 0x08049a13 279 fcn.change_status f n
+afb+ 0x08049a13 0x08049a13 111 0x08049a90 0x08049a82 n n
+afb+ 0x08049a13 0x08049a90 9 0x08049aa8 0x08049a99 n n
+afb+ 0x08049a13 0x08049aa8 29 0x08049ad0 0x08049ac5 n n
+afb+ 0x08049a13 0x08049ad0 7 0x08049ade 0x08049ad7 n n
+afb+ 0x08049a13 0x08049ade 76 0xffffffffffffffff 0xffffffffffffffff n n
+afb+ 0x08049a13 0x08049ad7 7 0x08049ade 0xffffffffffffffff n n
+afb+ 0x08049a13 0x08049ac5 11 0x08049ad0 0xffffffffffffffff n n
+afb+ 0x08049a13 0x08049a99 15 0x08049aa8 0xffffffffffffffff n n
+afb+ 0x08049a13 0x08049a82 14 0x08049a90 0xffffffffffffffff n n
+afv 28 status_buffer int @ 0x8049a13
+f fcn.replay_menu 166 0x08049b2a
+af+ 0x08049b2a 166 fcn.replay_menu f n
+afb+ 0x08049b2a 0x08049b2a 50 0x08049bc2 0xffffffffffffffff n n
+afb+ 0x08049b2a 0x08049bc2 9 0x08049b5c 0x08049bcb n n
+afb+ 0x08049b2a 0x08049b5c 48 0x08049bb5 0x08049b8c n n
+afb+ 0x08049b2a 0x08049bb5 13 0x08049bc2 0xffffffffffffffff n n
+afb+ 0x08049b2a 0x08049bcb 5 0xffffffffffffffff 0xffffffffffffffff n n
+afb+ 0x08049b2a 0x08049b8c 18 0x08049bc2 0xffffffffffffffff n n
+afa 100001 arg_186a1h int @ 0x8049b2a
+afv 12 local_ch int @ 0x8049b2a
+afv 16 local_10h int @ 0x8049b2a
+afv 20 local_14h int @ 0x8049b2a
+afv 24 local_18h int @ 0x8049b2a
+afv 28 local_1ch int @ 0x8049b2a
+afv 32 choice_char int @ 0x8049b2a
+f fcn.options_menu 129 0x08049bd0
+af+ 0x08049bd0 129 fcn.options_menu f n
+afb+ 0x08049bd0 0x08049bd0 22 0x08049c43 0xffffffffffffffff n n
+afb+ 0x08049bd0 0x08049c43 9 0x08049be6 0x08049c4c n n
+afb+ 0x08049bd0 0x08049be6 32 0x08049c36 0x08049c06 n n
+afb+ 0x08049bd0 0x08049c36 13 0x08049c43 0xffffffffffffffff n n
+afb+ 0x08049bd0 0x08049c4c 5 0xffffffffffffffff 0xffffffffffffffff n n
+afb+ 0x08049bd0 0x08049c06 18 0x08049c43 0xffffffffffffffff n n
+afa 100004 arg_186a4h int @ 0x8049bd0
+afv 12 local_ch int @ 0x8049bd0
+afv 16 local_10h int @ 0x8049bd0
+f fcn.categories_menu 137 0x08049c51
+af+ 0x08049c51 137 fcn.categories_menu f n
+afb+ 0x08049c51 0x08049c51 34 0x08049cbf 0xffffffffffffffff n n
+afb+ 0x08049c51 0x08049cbf 22 0x08049c73 0x08049cd5 n n
+afb+ 0x08049c51 0x08049c73 6 0x08049c7f 0x08049c79 n n
+afb+ 0x08049c51 0x08049c7f 9 0x08049cd5 0xffffffffffffffff n n
+afb+ 0x08049c51 0x08049cd5 5 0xffffffffffffffff 0xffffffffffffffff n n
+afb+ 0x08049c51 0x08049c79 6 0x08049c88 0x08049c7f n n
+afb+ 0x08049c51 0x08049c88 6 0x08049c94 0x08049c8e n n
+afb+ 0x08049c51 0x08049c94 9 0x08049cd5 0xffffffffffffffff n n
+afb+ 0x08049c51 0x08049c8e 6 0x08049c9d 0x08049c94 n n
+afb+ 0x08049c51 0x08049c9d 6 0x08049cb3 0x08049ca3 n n
+afb+ 0x08049c51 0x08049cb3 12 0x08049cbf 0xffffffffffffffff n n
+afb+ 0x08049c51 0x08049ca3 6 0x08049cb3 0x08049ca9 n n
+afb+ 0x08049c51 0x08049ca9 10 0x08049cd5 0xffffffffffffffff n n
+afa 8 arg_8h int @ 0x8049c51
+afa 47 arg_2fh int @ 0x8049c51
+afa 55 arg_37h int @ 0x8049c51
+afa 81 arg_51h int @ 0x8049c51
+afa 88 arg_58h int @ 0x8049c51
+afa 113 arg_71h int @ 0x8049c51
+afa 120 arg_78h int @ 0x8049c51
+afv 0 local_0h int @ 0x8049c51
+afv 12 local_ch int @ 0x8049c51
+afv 16 local_10h int @ 0x8049c51
+f fcn.ropeman 712 0x08049cda
+af+ 0x08049cda 712 fcn.ropeman f n
+afb+ 0x08049cda 0x08049cda 84 0x08049d63 0x08049d2e n n
+afb+ 0x08049cda 0x08049d63 37 0x08049ed7 0xffffffffffffffff n n
+afb+ 0x08049cda 0x08049ed7 16 0x08049ef6 0x08049ee7 n n
+afb+ 0x08049cda 0x08049ef6 32 0x08049f2e 0x08049f16 n n
+afb+ 0x08049cda 0x08049f2e 94 0x08049f8c 0xffffffffffffffff b n
+afb+ 0x08049cda 0x08049f16 24 0x08049f8c 0xffffffffffffffff n n
+afb+ 0x08049cda 0x08049f8c 11 0x08049f97 0xffffffffffffffff b n
+afb+ 0x08049cda 0x08049ee7 15 0x08049d88 0x08049ef6 n n
+afb+ 0x08049cda 0x08049d88 71 0x08049dea 0x08049dcf n n
+afb+ 0x08049cda 0x08049dea 11 0x08049e1d 0x08049df5 n n
+afb+ 0x08049cda 0x08049e1d 15 0x08049ed6 0x08049e2c n n
+afb+ 0x08049cda 0x08049ed6 1 0x08049ed7 0xffffffffffffffff n n
+afb+ 0x08049cda 0x08049e2c 10 0x08049e36 0xffffffffffffffff b n
+afb+ 0x08049cda 0x08049ea2 11 0x08049e4d 0x08049ead n n
+afb+ 0x08049cda 0x08049e4d 25 0x08049e9e 0x08049e66 n n
+afb+ 0x08049cda 0x08049e9e 4 0x08049ea2 0xffffffffffffffff n n
+afb+ 0x08049cda 0x08049ead 6 0x08049ed7 0x08049eb3 n n
+afb+ 0x08049cda 0x08049eb3 26 0x08049ed7 0x08049ecd n n
+afb+ 0x08049cda 0x08049ecd 9 0x08049ef6 0xffffffffffffffff n n
+afb+ 0x08049cda 0x08049e66 17 0x08049e9e 0x08049e77 n n
+afb+ 0x08049cda 0x08049e77 39 0x08049e9e 0xffffffffffffffff n n
+afb+ 0x08049cda 0x08049df5 11 0x08049e1d 0x08049e00 n n
+afb+ 0x08049cda 0x08049e00 29 0x08049e36 0xffffffffffffffff n n
+afb+ 0x08049cda 0x08049e36 23 0x08049ea2 0xffffffffffffffff n n
+afb+ 0x08049cda 0x08049dcf 11 0x08049dea 0x08049dda n n
+afb+ 0x08049cda 0x08049dda 16 0x08049dea 0xffffffffffffffff n n
+afb+ 0x08049cda 0x08049d2e 27 0x08049d53 0x08049d49 n n
+afb+ 0x08049cda 0x08049d53 16 0x08049d63 0xffffffffffffffff n n
+afb+ 0x08049cda 0x08049d49 10 0x08049f97 0xffffffffffffffff n n
+afb+ 0x08049cda 0x08049f97 11 0xffffffffffffffff 0xffffffffffffffff n n
+afa 1 arg_1h int @ 0x8049cda
+afa 8 category int @ 0x8049cda
+afa 19 arg_13h int @ 0x8049cda
+afv 0 local_0h int @ 0x8049cda
+afv 1 local_1h int @ 0x8049cda
+afv 28 failed int @ 0x8049cda
+afv 32 scan_index int @ 0x8049cda
+afv 36 character_in_word int @ 0x8049cda
+afv 40 local_28h int @ 0x8049cda
+afv 44 number_words int @ 0x8049cda
+afv 48 local_30h int @ 0x8049cda
+afv 252 local_fch int @ 0x8049cda
+afv 360 character int @ 0x8049cda
+afv 364 word int @ 0x8049cda
+afv 368 word_len int @ 0x8049cda
+afv 372 failed_guess int @ 0x8049cda
+afv 376 found_letters int @ 0x8049cda
+afv 380 round int @ 0x8049cda
+afv 384 word_addr int @ 0x8049cda
+f main 153 0x08049fa2
+af+ 0x08049fa2 153 main s n
+afb+ 0x08049fa2 0x08049fa2 32 0x08049fc3 0xffffffffffffffff n n
+afb+ 0x08049fa2 0x08049fc3 10 0x08049fd6 0x08049fcd n n
+afb+ 0x08049fa2 0x08049fd6 10 0x08049fe9 0x08049fe0 n n
+afb+ 0x08049fa2 0x08049fe9 10 0x0804a003 0x08049ff3 n n
+afb+ 0x08049fa2 0x0804a003 10 0x0804a020 0x0804a00d n n
+afb+ 0x08049fa2 0x0804a020 10 0x0804a033 0x0804a02a n n
+afb+ 0x08049fa2 0x0804a033 1 0x0804a034 0xffffffffffffffff b n
+afb+ 0x08049fa2 0x0804a02a 7 0x08049fc2 0x0804a031 n n
+afb+ 0x08049fa2 0x08049fc2 1 0x08049fc3 0xffffffffffffffff n n
+afb+ 0x08049fa2 0x08049fcd 9 0x08049fd6 0xffffffffffffffff n n
+afb+ 0x08049fa2 0x08049fe0 9 0x08049fe9 0xffffffffffffffff n n
+afb+ 0x08049fa2 0x08049ff3 16 0x0804a003 0xffffffffffffffff n n
+afb+ 0x08049fa2 0x0804a00d 19 0x0804a020 0xffffffffffffffff n n
+afb+ 0x08049fa2 0x0804a031 2 0x0804a034 0xffffffffffffffff n n
+afb+ 0x08049fa2 0x0804a034 7 0xffffffffffffffff 0xffffffffffffffff n n
+f fcn.write_user_file 251 0x0804a03c
+af+ 0x0804a03c 251 fcn.write_user_file f n
+afb+ 0x0804a03c 0x0804a03c 173 0x0804a0f0 0x0804a0e9 n n
+afb+ 0x0804a03c 0x0804a0f0 26 0x0804a111 0x0804a10a n n
+afb+ 0x0804a03c 0x0804a111 16 0x0804a128 0x0804a121 n n
+afb+ 0x0804a03c 0x0804a128 5 0x0804a12d 0xffffffffffffffff b n
+afb+ 0x0804a03c 0x0804a121 7 0x0804a12d 0xffffffffffffffff n n
+afb+ 0x0804a03c 0x0804a12d 10 0xffffffffffffffff 0xffffffffffffffff n n
+afb+ 0x0804a03c 0x0804a10a 7 0x0804a12d 0xffffffffffffffff n n
+afb+ 0x0804a03c 0x0804a0e9 7 0x0804a12d 0xffffffffffffffff n n
+afv 0 local_0h int @ 0x804a03c
+afv 12 local_ch int @ 0x804a03c
+afv 268 local_10ch int @ 0x804a03c
+afv 524 local_20ch int @ 0x804a03c
+f fcn.read_user_file 388 0x0804a137
+af+ 0x0804a137 388 fcn.read_user_file f n
+afb+ 0x0804a137 0x0804a137 104 0x0804a1a9 0x0804a19f n n
+afb+ 0x0804a137 0x0804a1a9 39 0x0804a1da 0x0804a1d0 n n
+afb+ 0x0804a137 0x0804a1da 16 0x0804a1f4 0x0804a1ea n n
+afb+ 0x0804a137 0x0804a1f4 52 0x0804a236 0x0804a228 n n
+afb+ 0x0804a137 0x0804a236 9 0x0804a24e 0x0804a23f n n
+afb+ 0x0804a137 0x0804a24e 29 0x0804a276 0x0804a26b n n
+afb+ 0x0804a137 0x0804a276 7 0x0804a284 0x0804a27d n n
+afb+ 0x0804a137 0x0804a284 44 0x0804a2b0 0xffffffffffffffff b n
+afb+ 0x0804a137 0x0804a27d 7 0x0804a284 0xffffffffffffffff n n
+afb+ 0x0804a137 0x0804a26b 11 0x0804a276 0xffffffffffffffff n n
+afb+ 0x0804a137 0x0804a23f 15 0x0804a24e 0xffffffffffffffff n n
+afb+ 0x0804a137 0x0804a228 14 0x0804a236 0xffffffffffffffff n n
+afb+ 0x0804a137 0x0804a1ea 10 0x0804a2b0 0xffffffffffffffff n n
+afb+ 0x0804a137 0x0804a2b0 11 0xffffffffffffffff 0xffffffffffffffff n n
+afb+ 0x0804a137 0x0804a1d0 10 0x0804a2b0 0xffffffffffffffff n n
+afb+ 0x0804a137 0x0804a19f 10 0x0804a2b0 0xffffffffffffffff n n
+afa 8 filename int @ 0x804a137
+afv 0 local_0h int @ 0x804a137
+afv 28 local_1ch int @ 0x804a137
+afv 32 local_20h int @ 0x804a137
+afv 288 local_120h int @ 0x804a137
+afv 543 file_content int @ 0x804a137
+afv 755 splitted_file_content int @ 0x804a137
+f fcn.modify_user_file 290 0x0804a2bb
+af+ 0x0804a2bb 290 fcn.modify_user_file f n
+afb+ 0x0804a2bb 0x0804a2bb 173 0x0804a37c 0x0804a368 n n
+afb+ 0x0804a2bb 0x0804a37c 26 0x0804a3aa 0x0804a396 n n
+afb+ 0x0804a2bb 0x0804a3aa 16 0x0804a3ce 0x0804a3ba n n
+afb+ 0x0804a2bb 0x0804a3ce 15 0xffffffffffffffff 0xffffffffffffffff n n
+afb+ 0x0804a2bb 0x0804a3ba 20 0x0804a3ce 0xffffffffffffffff n n
+afb+ 0x0804a2bb 0x0804a396 20 0x0804a3aa 0xffffffffffffffff n n
+afb+ 0x0804a2bb 0x0804a368 20 0x0804a37c 0xffffffffffffffff n n
+afv 0 local_0h int @ 0x804a2bb
+afv 12 fd int @ 0x804a2bb
+afv 268 file_content int @ 0x804a2bb
+afv 524 filename int @ 0x804a2bb
+f fcn.split_user_file_content 378 0x0804a3dd
+af+ 0x0804a3dd 378 fcn.split_user_file_content f n
+afb+ 0x0804a3dd 0x0804a3dd 52 0x0804a419 0x0804a411 n n
+afb+ 0x0804a3dd 0x0804a419 9 0x0804a42b 0x0804a422 n n
+afb+ 0x0804a3dd 0x0804a42b 20 0x0804a445 0x0804a43f n n
+afb+ 0x0804a3dd 0x0804a445 9 0x0804a453 0x0804a44e n n
+afb+ 0x0804a3dd 0x0804a453 83 0x0804a4f4 0x0804a4a6 n n
+afb+ 0x0804a3dd 0x0804a4f4 6 0x0804a550 0x0804a4fa n n
+afb+ 0x0804a3dd 0x0804a550 7 0xffffffffffffffff 0xffffffffffffffff n n
+afb+ 0x0804a3dd 0x0804a4fa 30 0x0804a550 0x0804a518 n n
+afb+ 0x0804a3dd 0x0804a518 56 0x0804a550 0xffffffffffffffff n n
+afb+ 0x0804a3dd 0x0804a4a6 78 0x0804a4f4 0xffffffffffffffff n n
+afb+ 0x0804a3dd 0x0804a44e 5 0x0804a453 0xffffffffffffffff n n
+afb+ 0x0804a3dd 0x0804a43f 6 0x0804a445 0xffffffffffffffff n n
+afb+ 0x0804a3dd 0x0804a422 9 0x0804a42b 0xffffffffffffffff n n
+afb+ 0x0804a3dd 0x0804a411 8 0x0804a419 0xffffffffffffffff n n
+afa 8 arg_8h int @ 0x804a3dd
+afa 12 arg_ch int @ 0x804a3dd
+afv 0 local_0h int @ 0x804a3dd
+afv 12 local_ch int @ 0x804a3dd
+afv 16 local_10h int @ 0x804a3dd
+afv 18 local_12h int @ 0x804a3dd
+afv 28 local_1ch int @ 0x804a3dd
+f fcn.get_top_score 923 0x0804a5b4
+af+ 0x0804a5b4 923 fcn.get_top_score f n
+afb+ 0x0804a5b4 0x0804a5b4 46 0x0804a616 0x0804a5e2 n n
+afb+ 0x0804a5b4 0x0804a616 9 0x0804a67f 0xffffffffffffffff n n
+afb+ 0x0804a5b4 0x0804a67f 20 0x0804a61f 0x0804a693 n n
+afb+ 0x0804a5b4 0x0804a61f 43 0x0804a67b 0x0804a64a n n
+afb+ 0x0804a5b4 0x0804a67b 3 0x0804a67f 0xffffffffffffffff n n
+afb+ 0x0804a5b4 0x0804a64a 43 0x0804a67e 0x0804a675 n n
+afb+ 0x0804a5b4 0x0804a67e 1 0x0804a67f 0xffffffffffffffff n n
+afb+ 0x0804a5b4 0x0804a693 195 0x0804a827 0xffffffffffffffff n n
+afb+ 0x0804a5b4 0x0804a827 24 0x0804a756 0x0804a83f n n
+afb+ 0x0804a5b4 0x0804a756 47 0x0804a826 0x0804a785 n n
+afb+ 0x0804a5b4 0x0804a826 1 0x0804a827 0xffffffffffffffff n n
+afb+ 0x0804a5b4 0x0804a83f 60 0x0804a8b2 0xffffffffffffffff n n
+afb+ 0x0804a5b4 0x0804a8b2 6 0x0804a8c0 0x0804a8b8 n n
+afb+ 0x0804a5b4 0x0804a8c0 11 0x0804a941 0x0804a8cb n n
+afb+ 0x0804a5b4 0x0804a941 6 0x0804a947 0xffffffffffffffff b n
+afb+ 0x0804a5b4 0x0804a8cb 23 0x0804a90c 0xffffffffffffffff n n
+afb+ 0x0804a5b4 0x0804a90c 8 0x0804a8e2 0x0804a914 n n
+afb+ 0x0804a5b4 0x0804a8e2 32 0x0804a908 0x0804a902 n n
+afb+ 0x0804a5b4 0x0804a908 4 0x0804a90c 0xffffffffffffffff n n
+afb+ 0x0804a5b4 0x0804a914 6 0x0804a941 0x0804a91a n n
+afb+ 0x0804a5b4 0x0804a91a 39 0x0804a941 0xffffffffffffffff n n
+afb+ 0x0804a5b4 0x0804a902 6 0x0804a908 0xffffffffffffffff n n
+afb+ 0x0804a5b4 0x0804a8b8 8 0x0804a87b 0x0804a8c0 n n
+afb+ 0x0804a5b4 0x0804a87b 55 0x0804a8b2 0xffffffffffffffff n n
+afb+ 0x0804a5b4 0x0804a785 43 0x0804a826 0x0804a7b0 n n
+afb+ 0x0804a5b4 0x0804a7b0 118 0x0804a827 0xffffffffffffffff n n
+afb+ 0x0804a5b4 0x0804a675 6 0x0804a67f 0xffffffffffffffff n n
+afb+ 0x0804a5b4 0x0804a5e2 52 0x0804a947 0xffffffffffffffff n n
+afb+ 0x0804a5b4 0x0804a947 8 0xffffffffffffffff 0xffffffffffffffff n n
+afa 8 arg_8h int @ 0x804a5b4
+afa 9 arg_9h int @ 0x804a5b4
+afa 10 arg_ah int @ 0x804a5b4
+afv 0 local_0h int @ 0x804a5b4
+afv 12 local_ch int @ 0x804a5b4
+afv 28 file_count int @ 0x804a5b4
+afv 32 local_20h int @ 0x804a5b4
+afv 36 local_24h int @ 0x804a5b4
+afv 40 local_28h int @ 0x804a5b4
+afv 44 directory int @ 0x804a5b4
+afv 48 dirent int @ 0x804a5b4
+afv 52 local_34h int @ 0x804a5b4
+afv 56 local_38h int @ 0x804a5b4
+afv 60 local_3ch int @ 0x804a5b4
+afv 64 local_40h int @ 0x804a5b4
+afv 65 local_41h int @ 0x804a5b4
+afv 67 local_43h int @ 0x804a5b4
+afv 71 local_47h int @ 0x804a5b4
+afv 76 local_4ch int @ 0x804a5b4
+afv 80 local_50h int @ 0x804a5b4
+afv 84 local_54h int @ 0x804a5b4
+f fcn.0804a9c2 4 0x0804a9c2
+af+ 0x0804a9c2 4 fcn.0804a9c2 f n
+afb+ 0x0804a9c2 0x0804a9c2 4 0xffffffffffffffff 0xffffffffffffffff n n
+f fcn.0804a9d0 42 0x0804a9d0
+af+ 0x0804a9d0 42 fcn.0804a9d0 f n
+afb+ 0x0804a9d0 0x0804a9d0 17 0x0804a9f4 0x0804a9e1 n n
+afb+ 0x0804a9d0 0x0804a9f4 6 0xffffffffffffffff 0xffffffffffffffff n n
+afb+ 0x0804a9d0 0x0804a9e1 7 0x0804a9e8 0xffffffffffffffff b n
+afb+ 0x0804a9d0 0x0804a9e8 12 0x0804a9e8 0x0804a9f4 n n
+# macros
+# seek
+s main
