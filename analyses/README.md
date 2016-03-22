@@ -14,6 +14,7 @@ separated based on the type of service.
 * [Folkswagen Emissions](Folkswagen_emissions/README.md) (mainly relies on 
 stripped binaries)
 * [Santa Machine](santamachine/README.md) (also contains perl, bash and binary)
+* [W0yager](w0yager/README.md) (includes a small binary)
 
 ## Binaries
 
