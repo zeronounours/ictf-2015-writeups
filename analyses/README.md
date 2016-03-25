@@ -5,8 +5,11 @@ separated based on the type of service.
 
 ## Web services
 
+* [ATM_machine](README to come) (Java)
+* [jokes](README to come) (Python CGI scripts)
 * [N4w Secrets](n4w_secrets/README.md) (Python CGI scripts)
 * [Syper Service](syper_service/README.md)
+* [text_file_store](README to come)
 * [UCL Thor](ucl_thor/README.md)
 
 ## Python services
@@ -18,6 +21,11 @@ stripped binaries)
 
 ## Binaries
 
+* [dungeon](README to come)
 * [FHM Maintenance](FHM-Maintenance/README.md)
+* [gdps](README to come)
+* [pirate_map](README to come)
 * [Ropeman](ropeman/README.md) (stripped binary)
 * [Shakespeare](shakespeare/README.md) (sources included)
+* [simplecalc](README to come)
+* [wcaaS](README to come)
