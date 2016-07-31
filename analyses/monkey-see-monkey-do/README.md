@@ -189,7 +189,7 @@ function handle_login() {
 If we have 2 monkeys, `monkey1;id=1` and `monkey2;id=2` with the same username and with different passwords, `monkey2` can connect to `monkey1`'s account by using 
 his own password :
 `checkLogin()` checks that there is at least one good (username, password) pair
-`getIdFromUsername` will get the most recently registered monkey
+`getIdFromUsername` will get the monkey with the smallest `id`.
 
 ## Proof of Concept
 
